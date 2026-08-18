@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "slug": "dhaka_chattogram",
+    "name": "Dhaka ↔ Chattogram",
+    "start_station_id": 1,
+    "end_station_id": 39,
+    "total_km": 321,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 2,
+    "slug": "dhaka_coxs_bazar",
+    "name": "Dhaka ↔ Cox's Bazar",
+    "start_station_id": 1,
+    "end_station_id": 40,
+    "total_km": 470,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 3,
+    "slug": "dhaka_sylhet",
+    "name": "Dhaka ↔ Sylhet",
+    "start_station_id": 1,
+    "end_station_id": 48,
+    "total_km": 319,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 4,
+    "slug": "chattogram_sylhet",
+    "name": "Chattogram ↔ Sylhet",
+    "start_station_id": 39,
+    "end_station_id": 48,
+    "total_km": 379,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 5,
+    "slug": "dhaka_jamalpur",
+    "name": "Dhaka ↔ Jamalpur",
+    "start_station_id": 1,
+    "end_station_id": 11,
+    "total_km": 180,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 6,
+    "slug": "dhaka_rajshahi",
+    "name": "Dhaka ↔ Rajshahi",
+    "start_station_id": 1,
+    "end_station_id": 59,
+    "total_km": 343,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 7,
+    "slug": "dhaka_panchagarh",
+    "name": "Dhaka ↔ Panchagarh",
+    "start_station_id": 1,
+    "end_station_id": 77,
+    "total_km": 639,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 8,
+    "slug": "dhaka_khulna_jamuna",
+    "name": "Dhaka ↔ Khulna (via Jamuna)",
+    "start_station_id": 1,
+    "end_station_id": 91,
+    "total_km": 412,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 9,
+    "slug": "dhaka_khulna_padma",
+    "name": "Dhaka ↔ Khulna (via Padma)",
+    "start_station_id": 1,
+    "end_station_id": 91,
+    "total_km": 197.3,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 10,
+    "slug": "rajshahi_khulna",
+    "name": "Rajshahi ↔ Khulna",
+    "start_station_id": 59,
+    "end_station_id": 91,
+    "total_km": 267,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 11,
+    "slug": "khulna_chilahati",
+    "name": "Khulna ↔ Chilahati",
+    "start_station_id": 91,
+    "end_station_id": 78,
+    "total_km": 480,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 12,
+    "slug": "rajshahi_chilahati",
+    "name": "Rajshahi ↔ Chilahati",
+    "start_station_id": 59,
+    "end_station_id": 78,
+    "total_km": 295,
+    "created_at": "2026-04-19T07:40:42.187473+00:00"
+  },
+  {
+    "id": 13,
+    "slug": "dhaka_tarakandi",
+    "name": "Dhaka ↔ Tarakandi",
+    "start_station_id": 1,
+    "end_station_id": 13,
+    "total_km": 207.014,
+    "created_at": "2026-06-22T04:48:59.17536+00:00"
+  },
+  {
+    "id": 14,
+    "slug": "dhaka_chapainawabganj",
+    "name": "Dhaka ↔ Chapainawabganj",
+    "start_station_id": 1,
+    "end_station_id": 61,
+    "total_km": 316.015,
+    "created_at": "2026-06-22T04:48:59.17536+00:00"
+  },
+  {
+    "id": 15,
+    "slug": "dhaka_burimari",
+    "name": "Dhaka ↔ Burimari",
+    "start_station_id": 1,
+    "end_station_id": 122,
+    "total_km": 536.051,
+    "created_at": "2026-06-22T05:44:46.391903+00:00"
+  },
+  {
+    "id": 16,
+    "slug": "dhaka_rangpur",
+    "name": "Dhaka ↔ Rangpur",
+    "start_station_id": 1,
+    "end_station_id": 69,
+    "total_km": 453.183,
+    "created_at": "2026-06-22T05:44:46.391903+00:00"
+  },
+  {
+    "id": 17,
+    "slug": "rajshahi_panchagarh",
+    "name": "Rajshahi ↔ Panchagarh",
+    "start_station_id": 59,
+    "end_station_id": 77,
+    "total_km": 332.233,
+    "created_at": "2026-06-22T05:44:46.391903+00:00"
+  },
+  {
+    "id": 18,
+    "slug": "santahar_panchagarh",
+    "name": "Santahar ↔ Panchagarh",
+    "start_station_id": 62,
+    "end_station_id": 77,
+    "total_km": 343.789,
+    "created_at": "2026-06-22T05:44:46.391903+00:00"
+  },
+  {
+    "id": 19,
+    "slug": "dhaka_noakhali",
+    "name": "Dhaka ↔ Noakhali",
+    "start_station_id": 1,
+    "end_station_id": 35,
+    "total_km": 241.483,
+    "created_at": "2026-06-22T05:55:45.360115+00:00"
+  },
+  {
+    "id": 20,
+    "slug": "chattogram_chandpur",
+    "name": "Chattogram ↔ Chandpur",
+    "start_station_id": 39,
+    "end_station_id": 42,
+    "total_km": 182.978,
+    "created_at": "2026-06-22T05:55:45.360115+00:00"
+  },
+  {
+    "id": 21,
+    "slug": "dhaka_kishoreganj",
+    "name": "Dhaka ↔ Kishoreganj",
+    "start_station_id": 1,
+    "end_station_id": 23,
+    "total_km": 135.923,
+    "created_at": "2026-06-22T05:55:45.360115+00:00"
+  },
+  {
+    "id": 22,
+    "slug": "dhaka_mohanganj",
+    "name": "Dhaka ↔ Mohanganj",
+    "start_station_id": 1,
+    "end_station_id": 191,
+    "total_km": 193.576,
+    "created_at": "2026-06-22T05:55:45.360115+00:00"
+  },
+  {
+    "id": 23,
+    "slug": "chattogram_jamalpur",
+    "name": "Chattogram ↔ Jamalpur",
+    "start_station_id": 39,
+    "end_station_id": 11,
+    "total_km": 404.564,
+    "created_at": "2026-06-22T11:29:26.964252+00:00"
+  },
+  {
+    "id": 24,
+    "slug": "dhaka_bhuapur",
+    "name": "Dhaka ↔ Bhuapur",
+    "start_station_id": 1,
+    "end_station_id": 116,
+    "total_km": 232.273,
+    "created_at": "2026-06-22T11:29:26.964252+00:00"
+  },
+  {
+    "id": 25,
+    "slug": "dhaka_chilahati",
+    "name": "Dhaka ↔ Chilahati",
+    "start_station_id": 1,
+    "end_station_id": 78,
+    "total_km": 444.036,
+    "created_at": "2026-06-22T11:29:26.964252+00:00"
+  },
+  {
+    "id": 26,
+    "slug": "dhaka_benapole",
+    "name": "Dhaka ↔ Benapole",
+    "start_station_id": 1,
+    "end_station_id": 93,
+    "total_km": 365.809,
+    "created_at": "2026-06-22T11:29:26.964252+00:00"
+  },
+  {
+    "id": 27,
+    "slug": "dhaka_benapole_via_narail",
+    "name": "Dhaka ↔ Benapole (via Narail)",
+    "start_station_id": 1,
+    "end_station_id": 93,
+    "total_km": 214.95,
+    "created_at": "2026-06-22T11:29:26.964252+00:00"
+  },
+  {
+    "id": 28,
+    "slug": "rajshahi_dhalarchar",
+    "name": "Rajshahi ↔ Dhalarchar",
+    "start_station_id": 59,
+    "end_station_id": 132,
+    "total_km": 156.623,
+    "created_at": "2026-06-22T11:29:26.964252+00:00"
+  },
+  {
+    "id": 29,
+    "slug": "gobra_rajshahi",
+    "name": "Gobra ↔ Rajshahi",
+    "start_station_id": 141,
+    "end_station_id": 59,
+    "total_km": 260.738,
+    "created_at": "2026-06-22T16:49:38.717617+00:00"
+  },
+  {
+    "id": 30,
+    "slug": "dhaka_narayanganj",
+    "name": "Dhaka ↔ Narayanganj",
+    "start_station_id": 1,
+    "end_station_id": 200,
+    "total_km": 18.9,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 31,
+    "slug": "dhaka_dewanganj",
+    "name": "Dhaka ↔ Dewanganj",
+    "start_station_id": 131,
+    "end_station_id": 1,
+    "total_km": 227.4,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 32,
+    "slug": "rohonpur_khulna",
+    "name": "Rohonpur ↔ Khulna",
+    "start_station_id": 225,
+    "end_station_id": 91,
+    "total_km": 367.8,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 33,
+    "slug": "dinajpur_lalmonirhat",
+    "name": "Dinajpur ↔ Lalmonirhat",
+    "start_station_id": 119,
+    "end_station_id": 82,
+    "total_km": 113.5,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 34,
+    "slug": "chattogram_bhuapur",
+    "name": "Chattogram ↔ Ibrahimabad",
+    "start_station_id": 39,
+    "end_station_id": 152,
+    "total_km": 603.3,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 35,
+    "slug": "parbatipur_romnabazar",
+    "name": "Parbatipur ↔ Romnabazar",
+    "start_station_id": 71,
+    "end_station_id": 375,
+    "total_km": 107.1,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 36,
+    "slug": "dhaka_jariajhanzile",
+    "name": "Dhaka ↔ Jariajhanzile",
+    "start_station_id": 1,
+    "end_station_id": 300,
+    "total_km": 180.9,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 37,
+    "slug": "parbatipur_khulna",
+    "name": "Parbatipur ↔ Khulna",
+    "start_station_id": 71,
+    "end_station_id": 91,
+    "total_km": 422.2,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 38,
+    "slug": "khulna_benapole",
+    "name": "Khulna ↔ Benapole",
+    "start_station_id": 91,
+    "end_station_id": 93,
+    "total_km": 91.7,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 39,
+    "slug": "mongla_benapole",
+    "name": "Mongla ↔ Benapole",
+    "start_station_id": 92,
+    "end_station_id": 93,
+    "total_km": 138.5,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 40,
+    "slug": "lalmonirhat_kurigram",
+    "name": "Lalmonirhat ↔ Kurigram",
+    "start_station_id": 82,
+    "end_station_id": 83,
+    "total_km": 39.3,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 41,
+    "slug": "mymensingh_bhuapur",
+    "name": "Mymensingh ↔ Ibrahimabad",
+    "start_station_id": 10,
+    "end_station_id": 152,
+    "total_km": 151.7,
+    "created_at": "2026-07-09T07:12:26.831155+00:00"
+  },
+  {
+    "id": 42,
+    "slug": "dhaka_khulna_rajbari",
+    "name": "Dhaka ↔ Khulna (via Rajbari)",
+    "start_station_id": 1,
+    "end_station_id": 91,
+    "total_km": 408.1,
+    "created_at": "2026-07-09T11:09:06.524812+00:00"
+  },
+  {
+    "id": 48,
+    "slug": "dhaka_rajshahi_padma",
+    "name": "Dhaka - Rajshahi (Padma)",
+    "start_station_id": 1,
+    "end_station_id": 59,
+    "total_km": 310,
+    "created_at": "2026-07-19T17:44:07.349027+00:00"
+  },
+  {
+    "id": 49,
+    "slug": "dhaka_kurigram",
+    "name": "Dhaka - Kurigram",
+    "start_station_id": 1,
+    "end_station_id": 83,
+    "total_km": 453.7,
+    "created_at": "2026-07-19T17:44:07.349027+00:00"
+  },
+  {
+    "id": 50,
+    "slug": "khulna_chapainawabganj",
+    "name": "Khulna - Chapainawabganj",
+    "start_station_id": 91,
+    "end_station_id": 61,
+    "total_km": 313.7,
+    "created_at": "2026-07-19T17:44:07.349027+00:00"
+  },
+  {
+    "id": 51,
+    "slug": "dhaka_sirajganj",
+    "name": "Dhaka ↔ Sirajganj Bazar",
+    "start_station_id": 1,
+    "end_station_id": 278,
+    "total_km": 139.762,
+    "created_at": "2026-08-09T09:15:00.23917+00:00"
+  }
+]

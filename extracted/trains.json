@@ -1,0 +1,6676 @@
+[
+  {
+    "id": 12089,
+    "train_id": 77,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 48,
+    "last_update_at": "2026-08-17T09:44:53.273+00:00",
+    "scheduled_departure_ts": "2026-08-17T07:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:40:00+00:00",
+    "trains": {
+      "number": "789",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "মোহনগঞ্জ এক্সপ্রেস",
+      "name_en": "Mohonganj Express",
+      "destination": {
+        "code": "MOH",
+        "name_bn": "মোহনগঞ্জ",
+        "name_en": "Mohanganj"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 44.7801,
+      "confidence_score": 0.65,
+      "journey_progress_pct": 35.7596
+    }
+  },
+  {
+    "id": 12075,
+    "train_id": 53,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 234,
+    "last_update_at": "2026-08-17T09:44:23.817+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:00:00+00:00",
+    "trains": {
+      "number": "727",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "রূপসা এক্সপ্রেস",
+      "name_en": "Rupsha Express",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 41.3252,
+      "confidence_score": 0.65,
+      "journey_progress_pct": 48.7262
+    }
+  },
+  {
+    "id": 12062,
+    "train_id": 39,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 57,
+    "last_update_at": "2026-08-17T09:43:33.02+00:00",
+    "scheduled_departure_ts": "2026-08-17T05:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:00:00+00:00",
+    "trains": {
+      "number": "717",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "জয়ন্তিকা এক্সপ্রেস",
+      "name_en": "Jayentika Express",
+      "destination": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 7.93249,
+      "confidence_score": 0.65,
+      "journey_progress_pct": 53.6579
+    }
+  },
+  {
+    "id": 12064,
+    "train_id": 42,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 16,
+    "last_update_at": "2026-08-17T09:41:19.358+00:00",
+    "scheduled_departure_ts": "2026-08-17T04:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:55:00+00:00",
+    "trains": {
+      "number": "720",
+      "origin": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      },
+      "name_bn": "পাহাড়িকা এক্সপ্রেস",
+      "name_en": "Paharika Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0.0224545,
+      "confidence_score": 0.565454,
+      "journey_progress_pct": 46.7423
+    }
+  },
+  {
+    "id": 12065,
+    "train_id": 43,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 70,
+    "last_update_at": "2026-08-17T09:36:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:40:00+00:00",
+    "trains": {
+      "number": "721",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "মহানগর এক্সপ্রেস",
+      "name_en": "Mohanagar Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 15,
+      "confidence_score": 0.91,
+      "journey_progress_pct": 36.2727
+    }
+  },
+  {
+    "id": 12063,
+    "train_id": 40,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 36,
+    "last_update_at": "2026-08-17T09:36:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:15:00+00:00",
+    "trains": {
+      "number": "718",
+      "origin": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      },
+      "name_bn": "জয়ন্তিকা এক্সপ্রেস",
+      "name_en": "Jayentika Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 40,
+      "confidence_score": 0.9,
+      "journey_progress_pct": 34.053
+    }
+  },
+  {
+    "id": 12122,
+    "train_id": 116,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 79,
+    "last_update_at": "2026-08-17T09:35:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:55:00+00:00",
+    "trains": {
+      "number": "806",
+      "origin": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      },
+      "name_bn": "চিলাহাটি এক্সপ্রেস",
+      "name_en": "Chilahati Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 25,
+      "confidence_score": 0.89,
+      "journey_progress_pct": 95.1033
+    }
+  },
+  {
+    "id": 12149,
+    "train_id": 147,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 100,
+    "last_update_at": "2026-08-17T09:34:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:20:00+00:00",
+    "trains": {
+      "number": "3",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "কর্ণফুলী এক্সপ্রেস",
+      "name_en": "Karnaphuli Up",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 31,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 58.5157
+    }
+  },
+  {
+    "id": 12109,
+    "train_id": 101,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 9,
+    "last_update_at": "2026-08-17T09:34:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T05:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:40:00+00:00",
+    "trains": {
+      "number": "767",
+      "origin": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      },
+      "name_bn": "দোলনচাঁপা এক্সপ্রেস",
+      "name_en": "Dolonchapa Express",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 45.1425
+    }
+  },
+  {
+    "id": 12163,
+    "train_id": 161,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 20,
+    "last_update_at": "2026-08-17T09:34:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T07:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:40:00+00:00",
+    "trains": {
+      "number": "30",
+      "origin": {
+        "code": "CHG",
+        "name_bn": "চাঁদপুর",
+        "name_en": "Chandpur"
+      },
+      "name_bn": "সাগরিকা এক্সপ্রেস",
+      "name_en": "Sagarika",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 65,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 25.4107
+    }
+  },
+  {
+    "id": 12193,
+    "train_id": 191,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 67,
+    "last_update_at": "2026-08-17T09:34:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T07:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:30:00+00:00",
+    "trains": {
+      "number": "48",
+      "origin": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      },
+      "name_bn": "দেওয়ানগঞ্জ কমিউটার",
+      "name_en": "Dewanganj Com",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 25,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 24.3697
+    }
+  },
+  {
+    "id": 12094,
+    "train_id": 82,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 7,
+    "last_update_at": "2026-08-17T09:33:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T09:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:40:00+00:00",
+    "trains": {
+      "number": "712",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "উপকূল এক্সপ্রেস",
+      "name_en": "Upakul Express",
+      "destination": {
+        "code": "NKL",
+        "name_bn": "নোয়াখালী",
+        "name_en": "Noakhali"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 58,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 4.89693
+    }
+  },
+  {
+    "id": 12120,
+    "train_id": 114,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 33,
+    "last_update_at": "2026-08-17T09:33:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:15:00+00:00",
+    "trains": {
+      "number": "804",
+      "origin": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      },
+      "name_bn": "বাংলাবান্ধা এক্সপ্রেস",
+      "name_en": "Banglabandha Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 61,
+      "confidence_score": 0.93,
+      "journey_progress_pct": 73.2691
+    }
+  },
+  {
+    "id": 12076,
+    "train_id": 54,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 262,
+    "last_update_at": "2026-08-17T09:33:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:25:00+00:00",
+    "trains": {
+      "number": "728",
+      "origin": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      },
+      "name_bn": "রূপসা এক্সপ্রেস",
+      "name_en": "Rupsha Express",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 49,
+      "confidence_score": 0.89,
+      "journey_progress_pct": 26.087
+    }
+  },
+  {
+    "id": 12216,
+    "train_id": 214,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 112,
+    "last_update_at": "2026-08-17T09:33:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:10:00+00:00",
+    "trains": {
+      "number": "23",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "রকেট মেইল",
+      "name_en": "Rocket Up",
+      "destination": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 35.0203
+    }
+  },
+  {
+    "id": 12087,
+    "train_id": 75,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 193,
+    "last_update_at": "2026-08-17T09:33:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:00:00+00:00",
+    "trains": {
+      "number": "785",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "বিজয় এক্সপ্রেস",
+      "name_en": "Bijoy Express",
+      "destination": {
+        "code": "JML",
+        "name_bn": "জামালপুর টাউন জং",
+        "name_en": "Jamalpur Town Jn"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 67,
+      "confidence_score": 0.84,
+      "journey_progress_pct": 46.5347
+    }
+  },
+  {
+    "id": 12150,
+    "train_id": 148,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 76,
+    "last_update_at": "2026-08-17T09:32:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:45:00+00:00",
+    "trains": {
+      "number": "43",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "মহুয়া এক্সপ্রেস",
+      "name_en": "Mahua",
+      "destination": {
+        "code": "MOH",
+        "name_bn": "মোহনগঞ্জ",
+        "name_en": "Mohanganj"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 53,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 94.3871
+    }
+  },
+  {
+    "id": 12042,
+    "train_id": 15,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 101,
+    "last_update_at": "2026-08-17T09:32:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:00:00+00:00",
+    "trains": {
+      "number": "765",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "নীলসাগর এক্সপ্রেস",
+      "name_en": "Nilsagar Express",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 61,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 83.3467
+    }
+  },
+  {
+    "id": 12210,
+    "train_id": 208,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 126,
+    "last_update_at": "2026-08-17T09:32:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T21:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:20:00+00:00",
+    "trains": {
+      "number": "38",
+      "origin": {
+        "code": "IBR",
+        "name_bn": "ইব্রাহিমাবাদ",
+        "name_en": "Ibrahimabad"
+      },
+      "name_bn": "ময়মনসিংহ এক্সপ্রেস / লোকাল",
+      "name_en": "Mymensingh Ml Dn",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 31,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 49.1001
+    }
+  },
+  {
+    "id": 12055,
+    "train_id": 14,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 9,
+    "last_update_at": "2026-08-17T09:32:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:10:00+00:00",
+    "trains": {
+      "number": "794",
+      "origin": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      },
+      "name_bn": "পঞ্চগড় এক্সপ্রেস",
+      "name_en": "Panchagarh Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 75,
+      "confidence_score": 0.74,
+      "journey_progress_pct": 28.6097
+    }
+  },
+  {
+    "id": 12071,
+    "train_id": 49,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 86,
+    "last_update_at": "2026-08-17T09:32:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T04:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:00:00+00:00",
+    "trains": {
+      "number": "705",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "একতা এক্সপ্রেস",
+      "name_en": "Ekota Express",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 35,
+      "confidence_score": 0.81,
+      "journey_progress_pct": 40.3027
+    }
+  },
+  {
+    "id": 12039,
+    "train_id": 24,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 15,
+    "last_update_at": "2026-08-17T09:31:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T08:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:20:00+00:00",
+    "trains": {
+      "number": "753",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "সিল্কসিটি এক্সপ্রেস",
+      "name_en": "Silk City Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 14,
+      "confidence_score": 0.93,
+      "journey_progress_pct": 10.8533
+    }
+  },
+  {
+    "id": 12148,
+    "train_id": 146,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 118,
+    "last_update_at": "2026-08-17T09:30:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:50:00+00:00",
+    "trains": {
+      "number": "4",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "কর্ণফুলী এক্সপ্রেস",
+      "name_en": "Karnaphuli Dn",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 31,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 42.2935
+    }
+  },
+  {
+    "id": 12060,
+    "train_id": 28,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 145,
+    "last_update_at": "2026-08-17T09:30:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T09:40:00+00:00",
+    "trains": {
+      "number": "726",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "সুন্দরবন এক্সপ্রেস",
+      "name_en": "Sundarban Express",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 73,
+      "confidence_score": 0.91,
+      "journey_progress_pct": 72.9362
+    }
+  },
+  {
+    "id": 12123,
+    "train_id": 117,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 36,
+    "last_update_at": "2026-08-17T09:30:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:45:00+00:00",
+    "trains": {
+      "number": "809",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "বুড়িমারী এক্সপ্রেস",
+      "name_en": "Burimari Express",
+      "destination": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 68,
+      "confidence_score": 0.87,
+      "journey_progress_pct": 58.613
+    }
+  },
+  {
+    "id": 12117,
+    "train_id": 111,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 36,
+    "last_update_at": "2026-08-17T09:30:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:25:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:30:00+00:00",
+    "trains": {
+      "number": "795",
+      "origin": {
+        "code": "BEN",
+        "name_bn": "বেনাপোল",
+        "name_en": "Benapole"
+      },
+      "name_bn": "বেনাপোল এক্সপ্রেস",
+      "name_en": "Benapole Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 10,
+      "confidence_score": 0.91,
+      "journey_progress_pct": 26.9832
+    }
+  },
+  {
+    "id": 12079,
+    "train_id": 57,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 175,
+    "last_update_at": "2026-08-17T09:28:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:00:00+00:00",
+    "trains": {
+      "number": "733",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "তিতুমীর এক্সপ্রেস",
+      "name_en": "Titumir Express",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 94.0868
+    }
+  },
+  {
+    "id": 12115,
+    "train_id": 109,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 9,
+    "last_update_at": "2026-08-17T09:24:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T07:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:15:00+00:00",
+    "trains": {
+      "number": "791",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "বনলতা এক্সপ্রেস",
+      "name_en": "Banalata Express",
+      "destination": {
+        "code": "CPN",
+        "name_bn": "চাপাইনবাবগঞ্জ",
+        "name_en": "Chapainawabganj"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 24,
+      "confidence_score": 0.3,
+      "journey_progress_pct": 32.4054
+    }
+  },
+  {
+    "id": 12229,
+    "train_id": 61,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 20,
+    "last_update_at": "2026-08-17T09:23:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T09:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:30:00+00:00",
+    "trains": {
+      "number": "755",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "মধুমতি এক্সপ্রেস",
+      "name_en": "Madhumati Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 32,
+      "confidence_score": 0.88,
+      "journey_progress_pct": 1.05968
+    }
+  },
+  {
+    "id": 12105,
+    "train_id": 97,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 92,
+    "last_update_at": "2026-08-17T09:22:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:25:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:00:00+00:00",
+    "trains": {
+      "number": "713",
+      "origin": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      },
+      "name_bn": "করতোয়া এক্সপ্রেস",
+      "name_en": "Korotoa Express",
+      "destination": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 66.536
+    }
+  },
+  {
+    "id": 12061,
+    "train_id": 33,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 95,
+    "last_update_at": "2026-08-17T09:22:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T05:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:00:00+00:00",
+    "trains": {
+      "number": "735",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "অগ্নিবীণা এক্সপ্রেস",
+      "name_en": "Agnibina Express",
+      "destination": {
+        "code": "TRK",
+        "name_bn": "তারাকান্দি",
+        "name_en": "Tarakandi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 10,
+      "confidence_score": 0.78,
+      "journey_progress_pct": 40.4935
+    }
+  },
+  {
+    "id": 12231,
+    "train_id": 197,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 88,
+    "last_update_at": "2026-08-17T09:21:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T05:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:00:00+00:00",
+    "trains": {
+      "number": "15",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "মহানন্দা এক্সপ্রেস",
+      "name_en": "Mahananda Up",
+      "destination": {
+        "code": "CPN",
+        "name_bn": "চাপাইনবাবগঞ্জ",
+        "name_en": "Chapainawabganj"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 31.769
+    }
+  },
+  {
+    "id": 12108,
+    "train_id": 100,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 37,
+    "last_update_at": "2026-08-17T09:20:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:50:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:45:00+00:00",
+    "trains": {
+      "number": "752",
+      "origin": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      },
+      "name_bn": "লালমনি এক্সপ্রেস",
+      "name_en": "Lalmoni Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 51,
+      "confidence_score": 0.92,
+      "journey_progress_pct": 51.9982
+    }
+  },
+  {
+    "id": 12169,
+    "train_id": 167,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 67,
+    "last_update_at": "2026-08-17T09:18:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T07:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T09:30:00+00:00",
+    "trains": {
+      "number": "35",
+      "origin": {
+        "code": "BMB",
+        "name_bn": "ব্রাহ্মণবাড়িয়া",
+        "name_en": "Brahmanbaria"
+      },
+      "name_bn": "তিতাস কমিউটার",
+      "name_en": "Titas 2",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 39,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 44.5952
+    }
+  },
+  {
+    "id": 12091,
+    "train_id": 79,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 65,
+    "last_update_at": "2026-08-17T09:17:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T04:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:45:00+00:00",
+    "trains": {
+      "number": "799",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "জামালপুর এক্সপ্রেস",
+      "name_en": "Jamalpur Express",
+      "destination": {
+        "code": "BHU",
+        "name_bn": "ভুয়াপুর",
+        "name_en": "Bhuapur"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 26,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 63.8868
+    }
+  },
+  {
+    "id": 12100,
+    "train_id": 88,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 16,
+    "last_update_at": "2026-08-17T09:16:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:50:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:45:00+00:00",
+    "trains": {
+      "number": "750",
+      "origin": {
+        "code": "KSG",
+        "name_bn": "কিশোরগঞ্জ",
+        "name_en": "Kishoreganj"
+      },
+      "name_bn": "এগারো সিন্ধুর গোধুলী",
+      "name_en": "Egarosindhur Godhuli",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 20,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 36.2031
+    }
+  },
+  {
+    "id": 12110,
+    "train_id": 102,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 3,
+    "last_update_at": "2026-08-17T09:08:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:15:00+00:00",
+    "trains": {
+      "number": "768",
+      "origin": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      },
+      "name_bn": "দোলনচাঁপা এক্সপ্রেস",
+      "name_en": "Dolonchapa Express",
+      "destination": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.91,
+      "journey_progress_pct": 88.4526
+    }
+  },
+  {
+    "id": 12038,
+    "train_id": 29,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 52,
+    "last_update_at": "2026-08-17T09:08:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:05:00+00:00",
+    "trains": {
+      "number": "763",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "চিত্রা এক্সপ্রেস",
+      "name_en": "Chitra Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 64,
+      "confidence_score": 0.93,
+      "journey_progress_pct": 60.2849
+    }
+  },
+  {
+    "id": 12236,
+    "train_id": 12,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 28,
+    "last_update_at": "2026-08-17T09:07:41.654+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:40:00+00:00",
+    "trains": {
+      "number": "816",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "পর্যটক এক্সপ্রেস",
+      "name_en": "Parjatak Express",
+      "destination": {
+        "code": "CXB",
+        "name_bn": "কক্সবাজার",
+        "name_en": "Cox's Bazar"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0.496672,
+      "confidence_score": 0.65,
+      "journey_progress_pct": 99.9806
+    }
+  },
+  {
+    "id": 12220,
+    "train_id": 218,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 27,
+    "last_update_at": "2026-08-17T09:03:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T07:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:35:00+00:00",
+    "trains": {
+      "number": "95",
+      "origin": {
+        "code": "MGL",
+        "name_bn": "মোংলা",
+        "name_en": "Mongla"
+      },
+      "name_bn": "মোংলা কমিউটার",
+      "name_en": "Mongla Com",
+      "destination": {
+        "code": "BEN",
+        "name_bn": "বেনাপোল",
+        "name_en": "Benapole"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 23,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 55.3946
+    }
+  },
+  {
+    "id": 12103,
+    "train_id": 91,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 48,
+    "last_update_at": "2026-08-17T08:57:08.027+00:00",
+    "scheduled_departure_ts": "2026-08-17T04:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:10:00+00:00",
+    "trains": {
+      "number": "781",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "কিশোরগঞ্জ এক্সপ্রেস",
+      "name_en": "Kishorganj Express",
+      "destination": {
+        "code": "KSG",
+        "name_bn": "কিশোরগঞ্জ",
+        "name_en": "Kishoreganj"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 28.2741,
+      "confidence_score": 0.65,
+      "journey_progress_pct": 99.6637
+    }
+  },
+  {
+    "id": 12200,
+    "train_id": 198,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 136,
+    "last_update_at": "2026-08-17T08:52:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:40:00+00:00",
+    "trains": {
+      "number": "16",
+      "origin": {
+        "code": "ROH",
+        "name_bn": "রোহানপুর",
+        "name_en": "Rohanpur"
+      },
+      "name_bn": "মহানন্দা এক্সপ্রেস",
+      "name_en": "Mahananda Dn",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 40,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 70.7808
+    }
+  },
+  {
+    "id": 12230,
+    "train_id": 62,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 52,
+    "last_update_at": "2026-08-17T08:45:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:40:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:00:00+00:00",
+    "trains": {
+      "number": "756",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "মধুমতি এক্সপ্রেস",
+      "name_en": "Madhumati Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 20,
+      "confidence_score": 0.88,
+      "journey_progress_pct": 97.7797
+    }
+  },
+  {
+    "id": 12084,
+    "train_id": 64,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 59,
+    "last_update_at": "2026-08-17T08:44:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:55:00+00:00",
+    "trains": {
+      "number": "758",
+      "origin": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      },
+      "name_bn": "দ্রুতযান এক্সপ্রেস",
+      "name_en": "Drutojan Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 77,
+      "confidence_score": 0.9,
+      "journey_progress_pct": 53.6796
+    }
+  },
+  {
+    "id": 12074,
+    "train_id": 52,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 6,
+    "last_update_at": "2026-08-17T08:42:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T08:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:25:00+00:00",
+    "trains": {
+      "number": "716",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "কপোতাক্ষ এক্সপ্রেস",
+      "name_en": "Kapotaksha Express",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 75,
+      "confidence_score": 0.84,
+      "journey_progress_pct": 2.39909
+    }
+  },
+  {
+    "id": 12069,
+    "train_id": 47,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 126,
+    "last_update_at": "2026-08-17T08:41:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:40:00+00:00",
+    "trains": {
+      "number": "801",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "চট্টলা এক্সপ্রেস",
+      "name_en": "Chattala Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 25,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 98.9493
+    }
+  },
+  {
+    "id": 12154,
+    "train_id": 152,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 24,
+    "last_update_at": "2026-08-17T08:37:40.026+00:00",
+    "scheduled_departure_ts": "2026-08-17T08:05:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:10:00+00:00",
+    "trains": {
+      "number": "2103",
+      "origin": {
+        "code": "BXC",
+        "name_bn": "ভৈরব বাজার জং",
+        "name_en": "Bhairab Bazar Jn"
+      },
+      "name_bn": "নরসিংদী কমিউটার",
+      "name_en": "Narsingdi Com 3",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 27.1754,
+      "confidence_score": 0.65,
+      "journey_progress_pct": 7.07138
+    }
+  },
+  {
+    "id": 12127,
+    "train_id": 125,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 64,
+    "last_update_at": "2026-08-17T08:35:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:50:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:35:00+00:00",
+    "trains": {
+      "number": "19",
+      "origin": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      },
+      "name_bn": "বগুড়া কমিউটার",
+      "name_en": "Bogura Com",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 40,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 11.0871
+    }
+  },
+  {
+    "id": 12056,
+    "train_id": 9,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 0,
+    "last_update_at": "2026-08-17T08:30:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:00:00+00:00",
+    "trains": {
+      "number": "813",
+      "origin": {
+        "code": "CXB",
+        "name_bn": "কক্সবাজার",
+        "name_en": "Cox's Bazar"
+      },
+      "name_bn": "কক্সবাজার এক্সপ্রেস",
+      "name_en": "Cox's Bazar Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.58,
+      "journey_progress_pct": 19.017
+    }
+  },
+  {
+    "id": 12226,
+    "train_id": 224,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 106,
+    "last_update_at": "2026-08-17T08:24:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:00:00+00:00",
+    "trains": {
+      "number": "5",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "রাজশাহী এক্সপ্রেস / মেইল",
+      "name_en": "Rajshahi Com Up",
+      "destination": {
+        "code": "CPN",
+        "name_bn": "চাপাইনবাবগঞ্জ",
+        "name_en": "Chapainawabganj"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 49,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 4.49979
+    }
+  },
+  {
+    "id": 12217,
+    "train_id": 215,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 232,
+    "last_update_at": "2026-08-17T08:19:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:55:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:50:00+00:00",
+    "trains": {
+      "number": "24",
+      "origin": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      },
+      "name_bn": "রকেট মেইল",
+      "name_en": "Rocket Dn",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 15.3809
+    }
+  },
+  {
+    "id": 12215,
+    "train_id": 213,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 41,
+    "last_update_at": "2026-08-17T08:13:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:45:00+00:00",
+    "trains": {
+      "number": "50",
+      "origin": {
+        "code": "JAR",
+        "name_bn": "জারিয়াঝাঞ্জেল",
+        "name_en": "Jariajhanzile"
+      },
+      "name_bn": "বলাকা এক্সপ্রেস",
+      "name_en": "Balaka",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 28.0402
+    }
+  },
+  {
+    "id": 12037,
+    "train_id": 36,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 82,
+    "last_update_at": "2026-08-17T08:05:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:55:00+00:00",
+    "trains": {
+      "number": "774",
+      "origin": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      },
+      "name_bn": "কালনী এক্সপ্রেস",
+      "name_en": "Kalni Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 29,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 97.6529
+    }
+  },
+  {
+    "id": 12102,
+    "train_id": 90,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 35,
+    "last_update_at": "2026-08-17T08:00:03+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:55:00+00:00",
+    "trains": {
+      "number": "778",
+      "origin": {
+        "code": "MOH",
+        "name_bn": "মোহনগঞ্জ",
+        "name_en": "Mohanganj"
+      },
+      "name_bn": "হাওর এক্সপ্রেস",
+      "name_en": "Hawr Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 91.1807
+    }
+  },
+  {
+    "id": 12145,
+    "train_id": 143,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 66,
+    "last_update_at": "2026-08-17T08:00:03+00:00",
+    "scheduled_departure_ts": "2026-08-17T06:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:40:00+00:00",
+    "trains": {
+      "number": "2004",
+      "origin": {
+        "code": "JBP",
+        "name_bn": "জয়দেবপুর জং",
+        "name_en": "Joydebpur Jn"
+      },
+      "name_bn": "জয়দেবপুর কমিউটার পূরবী",
+      "name_en": "Joydevpur Com Purabi",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 37.5277
+    }
+  },
+  {
+    "id": 12182,
+    "train_id": 180,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 2,
+    "last_update_at": "2026-08-17T08:00:03+00:00",
+    "scheduled_departure_ts": "2026-08-17T07:35:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:25:00+00:00",
+    "trains": {
+      "number": "1107",
+      "origin": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      },
+      "name_bn": "নারায়ণগঞ্জ-ঢাকা কমিউটার",
+      "name_en": "NrgDa 13 35",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 57.439
+    }
+  },
+  {
+    "id": 12057,
+    "train_id": 18,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 40,
+    "last_update_at": "2026-08-17T08:00:03+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:05:00+00:00",
+    "trains": {
+      "number": "798",
+      "origin": {
+        "code": "KUG",
+        "name_bn": "কুড়িগ্রাম",
+        "name_en": "Kurigram"
+      },
+      "name_bn": "কুড়িগ্রাম এক্সপ্রেস",
+      "name_en": "Kurigram Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.6,
+      "journey_progress_pct": 58.9409
+    }
+  },
+  {
+    "id": 12114,
+    "train_id": 107,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 63,
+    "last_update_at": "2026-08-17T07:53:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:15:00+00:00",
+    "trains": {
+      "number": "783",
+      "origin": {
+        "code": "GOB",
+        "name_bn": "গোবরা",
+        "name_en": "Gobra"
+      },
+      "name_bn": "টুঙ্গীপাড়া এক্সপ্রেস",
+      "name_en": "Tungipara Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 64,
+      "confidence_score": 0.8,
+      "journey_progress_pct": 92.338
+    }
+  },
+  {
+    "id": 12040,
+    "train_id": 23,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 39,
+    "last_update_at": "2026-08-17T07:43:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:40:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:10:00+00:00",
+    "trains": {
+      "number": "754",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "সিল্কসিটি এক্সপ্রেস",
+      "name_en": "Silk City Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 23,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 98.9162
+    }
+  },
+  {
+    "id": 12206,
+    "train_id": 204,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 24,
+    "last_update_at": "2026-08-17T07:36:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T05:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:50:00+00:00",
+    "trains": {
+      "number": "62",
+      "origin": {
+        "code": null,
+        "name_bn": "বিরোল",
+        "name_en": "Birol"
+      },
+      "name_bn": "দিনাজপুর কমিউটার",
+      "name_en": "Dinajpur Com",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 52.2586
+    }
+  },
+  {
+    "id": 12228,
+    "train_id": 226,
+    "run_date": "2026-08-17",
+    "status": "running",
+    "current_delay_minutes": 15,
+    "last_update_at": "2026-08-17T07:15:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T05:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:05:00+00:00",
+    "trains": {
+      "number": "26",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "নকশীকাঁথা এক্সপ্রেস",
+      "name_en": "Nakshikatha Dn",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 20.4422
+    }
+  },
+  {
+    "id": 12168,
+    "train_id": 166,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 44,
+    "last_update_at": "2026-08-17T06:56:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:30:00+00:00",
+    "trains": {
+      "number": "34",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "তিতাস কমিউটার",
+      "name_en": "Titas 2",
+      "destination": {
+        "code": "BMB",
+        "name_bn": "ব্রাহ্মণবাড়িয়া",
+        "name_en": "Brahmanbaria"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 36,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 88.8488
+    }
+  },
+  {
+    "id": 12073,
+    "train_id": 51,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 58,
+    "last_update_at": "2026-08-17T06:55:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:20:00+00:00",
+    "trains": {
+      "number": "715",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "কপোতাক্ষ এক্সপ্রেস",
+      "name_en": "Kapotaksha Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 35,
+      "confidence_score": 0.86,
+      "journey_progress_pct": 88.739
+    }
+  },
+  {
+    "id": 11846,
+    "train_id": 13,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 287,
+    "last_update_at": "2026-08-17T06:55:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:50:00+00:00",
+    "trains": {
+      "number": "793",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "পঞ্চগড় এক্সপ্রেস",
+      "name_en": "Panchagarh Express",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 32,
+      "confidence_score": 0.84,
+      "journey_progress_pct": 87.3356
+    }
+  },
+  {
+    "id": 12078,
+    "train_id": 56,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 110,
+    "last_update_at": "2026-08-17T06:42:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T23:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:10:00+00:00",
+    "trains": {
+      "number": "732",
+      "origin": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      },
+      "name_bn": "বরেন্দ্র এক্সপ্রেস",
+      "name_en": "Barendra Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 68,
+      "confidence_score": 0.85,
+      "journey_progress_pct": 94.4237
+    }
+  },
+  {
+    "id": 12046,
+    "train_id": 6,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 63,
+    "last_update_at": "2026-08-17T06:39:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:35:00+00:00",
+    "trains": {
+      "number": "704",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "মহানগর প্রভাতী",
+      "name_en": "Mohanagar Provati",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 76,
+      "confidence_score": 0.91,
+      "journey_progress_pct": 65.465
+    }
+  },
+  {
+    "id": 12235,
+    "train_id": 32,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 25,
+    "last_update_at": "2026-08-17T06:02:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:40:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:15:00+00:00",
+    "trains": {
+      "number": "744",
+      "origin": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      },
+      "name_bn": "ব্রহ্মপুত্র এক্সপ্রেস",
+      "name_en": "Brahmaputra Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 47,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 87.5301
+    }
+  },
+  {
+    "id": 12085,
+    "train_id": 67,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 58,
+    "last_update_at": "2026-08-17T05:59:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:40:00+00:00",
+    "trains": {
+      "number": "769",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ধূমকেতু এক্সপ্রেস",
+      "name_en": "Dhumketu Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 50,
+      "confidence_score": 0.9,
+      "journey_progress_pct": 90.933
+    }
+  },
+  {
+    "id": 12093,
+    "train_id": 81,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 67,
+    "last_update_at": "2026-08-17T05:56:44.766+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:20:00+00:00",
+    "trains": {
+      "number": "711",
+      "origin": {
+        "code": "NKL",
+        "name_bn": "নোয়াখালী",
+        "name_en": "Noakhali"
+      },
+      "name_bn": "উপকূল এক্সপ্রেস",
+      "name_en": "Upakul Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 3.49759,
+      "confidence_score": 0.592727,
+      "journey_progress_pct": 92.9343
+    }
+  },
+  {
+    "id": 12192,
+    "train_id": 190,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 80,
+    "last_update_at": "2026-08-17T05:56:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T23:40:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:50:00+00:00",
+    "trains": {
+      "number": "47",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "দেওয়ানগঞ্জ কমিউটার",
+      "name_en": "Dewanganj Com",
+      "destination": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 2,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 85.5757
+    }
+  },
+  {
+    "id": 12195,
+    "train_id": 193,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 73,
+    "last_update_at": "2026-08-17T05:28:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T23:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:50:00+00:00",
+    "trains": {
+      "number": "52",
+      "origin": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      },
+      "name_bn": "জামালপুর কমিউটার / এক্সপ্রেস",
+      "name_en": "Jamalpur Com",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 9,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 86.6696
+    }
+  },
+  {
+    "id": 12116,
+    "train_id": 110,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 18,
+    "last_update_at": "2026-08-17T05:25:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:35:00+00:00",
+    "trains": {
+      "number": "792",
+      "origin": {
+        "code": "CPN",
+        "name_bn": "চাপাইনবাবগঞ্জ",
+        "name_en": "Chapainawabganj"
+      },
+      "name_bn": "বনলতা এক্সপ্রেস",
+      "name_en": "Banalata Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 15,
+      "confidence_score": 0.3,
+      "journey_progress_pct": 91.3652
+    }
+  },
+  {
+    "id": 12138,
+    "train_id": 136,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 84,
+    "last_update_at": "2026-08-17T05:24:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T23:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:05:00+00:00",
+    "trains": {
+      "number": "99",
+      "origin": {
+        "code": "ISD",
+        "name_bn": "ঈশ্বরদী জং",
+        "name_en": "Ishwardi Jn"
+      },
+      "name_bn": "ঢাকা মেইল / কমিউটার",
+      "name_en": "Dhaka Com",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 85.385
+    }
+  },
+  {
+    "id": 12162,
+    "train_id": 160,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 27,
+    "last_update_at": "2026-08-17T05:20:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:50:00+00:00",
+    "trains": {
+      "number": "29",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "সাগরিকা এক্সপ্রেস",
+      "name_en": "Sagarika",
+      "destination": {
+        "code": "CHG",
+        "name_bn": "চাঁদপুর",
+        "name_en": "Chandpur"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 29,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 72.1828
+    }
+  },
+  {
+    "id": 11870,
+    "train_id": 59,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 276,
+    "last_update_at": "2026-08-17T05:15:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T15:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T00:45:00+00:00",
+    "trains": {
+      "number": "747",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "সীমান্ত এক্সপ্রেস",
+      "name_en": "Simanta Express",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 19,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 99.0343
+    }
+  },
+  {
+    "id": 12221,
+    "train_id": 219,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 23,
+    "last_update_at": "2026-08-17T04:55:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T03:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:30:00+00:00",
+    "trains": {
+      "number": "96",
+      "origin": {
+        "code": "BEN",
+        "name_bn": "বেনাপোল",
+        "name_en": "Benapole"
+      },
+      "name_bn": "মোংলা কমিউটার",
+      "name_en": "Mongla Com",
+      "destination": {
+        "code": "MGL",
+        "name_bn": "মোংলা",
+        "name_en": "Mongla"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 38.5952
+    }
+  },
+  {
+    "id": 12081,
+    "train_id": 229,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 51,
+    "last_update_at": "2026-08-17T04:54:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:15:00+00:00",
+    "trains": {
+      "number": "775",
+      "origin": {
+        "code": "SIR",
+        "name_bn": "সিরাজগঞ্জ বাজার",
+        "name_en": "Sirajganj_Bazar"
+      },
+      "name_bn": "সিরাজগঞ্জ এক্সপ্রেস",
+      "name_en": "Sirajganj Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 32,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 95.2022
+    }
+  },
+  {
+    "id": 12180,
+    "train_id": 178,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 3,
+    "last_update_at": "2026-08-17T04:50:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T04:25:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:15:00+00:00",
+    "trains": {
+      "number": "1105",
+      "origin": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      },
+      "name_bn": "নারায়ণগঞ্জ-ঢাকা কমিউটার",
+      "name_en": "NrgDa 10 25",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 57.3984
+    }
+  },
+  {
+    "id": 12112,
+    "train_id": 105,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 36,
+    "last_update_at": "2026-08-17T04:47:38.769+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:25:00+00:00",
+    "trains": {
+      "number": "779",
+      "origin": {
+        "code": "DHA",
+        "name_bn": "ধলার চর",
+        "name_en": "Dhalarchar"
+      },
+      "name_bn": "ঢালারচর এক্সপ্রেস",
+      "name_en": "Dhalarchar Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 1.08931,
+      "confidence_score": 0.570909,
+      "journey_progress_pct": 94.8585
+    }
+  },
+  {
+    "id": 11903,
+    "train_id": 99,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 214,
+    "last_update_at": "2026-08-17T04:31:21.864+00:00",
+    "scheduled_departure_ts": "2026-08-16T15:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:20:00+00:00",
+    "trains": {
+      "number": "751",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "লালমনি এক্সপ্রেস",
+      "name_en": "Lalmoni Express",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 25.3434,
+      "confidence_score": 0.557273,
+      "journey_progress_pct": 97.281
+    }
+  },
+  {
+    "id": 12128,
+    "train_id": 126,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 52,
+    "last_update_at": "2026-08-17T04:27:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:15:00+00:00",
+    "trains": {
+      "number": "20",
+      "origin": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      },
+      "name_bn": "বগুড়া কমিউটার",
+      "name_en": "Bogura Com",
+      "destination": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 37,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 59.7311
+    }
+  },
+  {
+    "id": 12214,
+    "train_id": 212,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 67,
+    "last_update_at": "2026-08-17T04:20:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T22:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:40:00+00:00",
+    "trains": {
+      "number": "49",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "বলাকা এক্সপ্রেস",
+      "name_en": "Balaka",
+      "destination": {
+        "code": "JAR",
+        "name_bn": "জারিয়াঝাঞ্জেল",
+        "name_en": "Jariajhanzile"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 47,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 82.8015
+    }
+  },
+  {
+    "id": 12096,
+    "train_id": 84,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 85,
+    "last_update_at": "2026-08-17T04:18:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T23:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:00:00+00:00",
+    "trains": {
+      "number": "730",
+      "origin": {
+        "code": "CHG",
+        "name_bn": "চাঁদপুর",
+        "name_en": "Chandpur"
+      },
+      "name_bn": "মেঘনা এক্সপ্রেস",
+      "name_en": "Meghna Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 38,
+      "confidence_score": 0.92,
+      "journey_progress_pct": 96.6265
+    }
+  },
+  {
+    "id": 12137,
+    "train_id": 135,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 74,
+    "last_update_at": "2026-08-17T04:00:03+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:20:00+00:00",
+    "trains": {
+      "number": "492",
+      "origin": {
+        "code": "BON",
+        "name_bn": "বোনারপাড়া জং",
+        "name_en": "Bonarpara Jn"
+      },
+      "name_bn": "কলেজ শাটল",
+      "name_en": "College Shuttle",
+      "destination": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 56.8114
+    }
+  },
+  {
+    "id": 12198,
+    "train_id": 231,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 47,
+    "last_update_at": "2026-08-17T03:37:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:10:00+00:00",
+    "trains": {
+      "number": "737",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "এগারো সিন্ধুর প্রভাতী",
+      "name_en": "Egarosindhur Provati",
+      "destination": {
+        "code": "KSG",
+        "name_bn": "কিশোরগঞ্জ",
+        "name_en": "Kishoreganj"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 46,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 61.8992
+    }
+  },
+  {
+    "id": 12146,
+    "train_id": 144,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 32,
+    "last_update_at": "2026-08-17T03:35:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:40:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:00:00+00:00",
+    "trains": {
+      "number": "41",
+      "origin": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      },
+      "name_bn": "কাঞ্চন কমিউটার",
+      "name_en": "Kanchan",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 35.8822
+    }
+  },
+  {
+    "id": 11874,
+    "train_id": 63,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 153,
+    "last_update_at": "2026-08-17T03:26:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T14:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:10:00+00:00",
+    "trains": {
+      "number": "757",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "দ্রুতযান এক্সপ্রেস",
+      "name_en": "Drutojan Express",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 76,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 97.5856
+    }
+  },
+  {
+    "id": 12199,
+    "train_id": 232,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 19,
+    "last_update_at": "2026-08-17T03:18:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:35:00+00:00",
+    "trains": {
+      "number": "738",
+      "origin": {
+        "code": "KSG",
+        "name_bn": "কিশোরগঞ্জ",
+        "name_en": "Kishoreganj"
+      },
+      "name_bn": "এগারো সিন্ধুর প্রভাতী",
+      "name_en": "Egarosindhur Provati",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 38,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 56.6666
+    }
+  },
+  {
+    "id": 11863,
+    "train_id": 50,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 117,
+    "last_update_at": "2026-08-17T03:09:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T15:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:20:00+00:00",
+    "trains": {
+      "number": "706",
+      "origin": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      },
+      "name_bn": "একতা এক্সপ্রেস",
+      "name_en": "Ekota Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 23,
+      "confidence_score": 0.89,
+      "journey_progress_pct": 99.1799
+    }
+  },
+  {
+    "id": 12160,
+    "train_id": 158,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 16,
+    "last_update_at": "2026-08-17T03:00:03+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:40:00+00:00",
+    "trains": {
+      "number": "59",
+      "origin": {
+        "code": "BON",
+        "name_bn": "বোনারপাড়া জং",
+        "name_en": "Bonarpara Jn"
+      },
+      "name_bn": "রামসাগর এক্সপ্রেস",
+      "name_en": "Ramsagar",
+      "destination": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 57.5224
+    }
+  },
+  {
+    "id": 12053,
+    "train_id": 4,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 19,
+    "last_update_at": "2026-08-17T03:00:03+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:55:00+00:00",
+    "trains": {
+      "number": "788",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "সোনার বাংলা এক্সপ্রেস",
+      "name_en": "Sonar Bangla Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.3,
+      "journey_progress_pct": 31.3
+    }
+  },
+  {
+    "id": 12205,
+    "train_id": 203,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 24,
+    "last_update_at": "2026-08-17T03:00:03+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:50:00+00:00",
+    "trains": {
+      "number": "61",
+      "origin": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      },
+      "name_bn": "দিনাজপুর কমিউটার",
+      "name_en": "Dinajpur Com",
+      "destination": {
+        "code": null,
+        "name_bn": "বিরোল",
+        "name_en": "Birol"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 60.5945
+    }
+  },
+  {
+    "id": 12166,
+    "train_id": 164,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 69,
+    "last_update_at": "2026-08-17T02:56:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T23:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T02:35:00+00:00",
+    "trains": {
+      "number": "33",
+      "origin": {
+        "code": "AKG",
+        "name_bn": "আখাউড়া জং",
+        "name_en": "Akhaura Jn"
+      },
+      "name_bn": "তিতাস কমিউটার",
+      "name_en": "Titas 1",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 4,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 82.7334
+    }
+  },
+  {
+    "id": 12201,
+    "train_id": 199,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 6,
+    "last_update_at": "2026-08-17T02:45:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:10:00+00:00",
+    "trains": {
+      "number": "57",
+      "origin": {
+        "code": "ISD",
+        "name_bn": "ঈশ্বরদী জং",
+        "name_en": "Ishwardi Jn"
+      },
+      "name_bn": "ঈশ্বরদী কমিউটার",
+      "name_en": "Ishwardi Com",
+      "destination": {
+        "code": "ROH",
+        "name_bn": "রোহানপুর",
+        "name_en": "Rohanpur"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 37.8359
+    }
+  },
+  {
+    "id": 12232,
+    "train_id": 196,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 9,
+    "last_update_at": "2026-08-17T02:45:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:40:00+00:00",
+    "trains": {
+      "number": "6",
+      "origin": {
+        "code": "CPN",
+        "name_bn": "চাপাইনবাবগঞ্জ",
+        "name_en": "Chapainawabganj"
+      },
+      "name_bn": "রাজশাহী এক্সপ্রেস / মেইল",
+      "name_en": "Rajshahi Com Dn",
+      "destination": {
+        "code": "ISD",
+        "name_bn": "ঈশ্বরদী জং",
+        "name_en": "Ishwardi Jn"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 5.13873
+    }
+  },
+  {
+    "id": 12152,
+    "train_id": 150,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 42,
+    "last_update_at": "2026-08-17T02:40:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:05:00+00:00",
+    "trains": {
+      "number": "2101",
+      "origin": {
+        "code": "BXC",
+        "name_bn": "ভৈরব বাজার জং",
+        "name_en": "Bhairab Bazar Jn"
+      },
+      "name_bn": "নরসিংদী কমিউটার",
+      "name_en": "Narsingdi Com 1",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 59.3382
+    }
+  },
+  {
+    "id": 12178,
+    "train_id": 176,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 1,
+    "last_update_at": "2026-08-17T02:40:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T02:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T02:50:00+00:00",
+    "trains": {
+      "number": "1103",
+      "origin": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      },
+      "name_bn": "নারায়ণগঞ্জ-ঢাকা কমিউটার",
+      "name_en": "NrgDa 08 00",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 80.7279
+    }
+  },
+  {
+    "id": 12026,
+    "train_id": 225,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 96,
+    "last_update_at": "2026-08-17T02:40:02+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:10:00+00:00",
+    "trains": {
+      "number": "25",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "নকশীকাঁথা এক্সপ্রেস",
+      "name_en": "Nakshikatha Up",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 79.2444
+    }
+  },
+  {
+    "id": 12143,
+    "train_id": 141,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 39,
+    "last_update_at": "2026-08-17T02:40:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T01:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T02:20:00+00:00",
+    "trains": {
+      "number": "2002",
+      "origin": {
+        "code": "JBP",
+        "name_bn": "জয়দেবপুর জং",
+        "name_en": "Joydebpur Jn"
+      },
+      "name_bn": "জয়দেবপুর কমিউটার অরুণা",
+      "name_en": "Joydevpur Com Aruna",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 82.6899
+    }
+  },
+  {
+    "id": 12158,
+    "train_id": 156,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 51,
+    "last_update_at": "2026-08-17T02:09:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:45:00+00:00",
+    "trains": {
+      "number": "21",
+      "origin": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      },
+      "name_bn": "পদ্মরাগ কমিউটার",
+      "name_en": "Padmarag Com",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 22,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 14.436
+    }
+  },
+  {
+    "id": 12098,
+    "train_id": 86,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 84,
+    "last_update_at": "2026-08-17T02:06:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T20:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T02:00:00+00:00",
+    "trains": {
+      "number": "746",
+      "origin": {
+        "code": "TRK",
+        "name_bn": "তারাকান্দি",
+        "name_en": "Tarakandi"
+      },
+      "name_bn": "যমুনা এক্সপ্রেস",
+      "name_en": "Jamuna Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 49,
+      "confidence_score": 0.92,
+      "journey_progress_pct": 80.075
+    }
+  },
+  {
+    "id": 12171,
+    "train_id": 169,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 39,
+    "last_update_at": "2026-08-17T01:45:02+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:45:00+00:00",
+    "trains": {
+      "number": "1002",
+      "origin": {
+        "code": "JBP",
+        "name_bn": "জয়দেবপুর জং",
+        "name_en": "Joydebpur Jn"
+      },
+      "name_bn": "তুরাগ অরুণা কমিউটার",
+      "name_en": "Turag Aruna",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 57.994
+    }
+  },
+  {
+    "id": 11921,
+    "train_id": 118,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 83,
+    "last_update_at": "2026-08-17T01:30:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T12:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T00:30:00+00:00",
+    "trains": {
+      "number": "810",
+      "origin": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      },
+      "name_bn": "বুড়িমারী এক্সপ্রেস",
+      "name_en": "Burimari Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 44,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 97.4702
+    }
+  },
+  {
+    "id": 12218,
+    "train_id": 216,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 12,
+    "last_update_at": "2026-08-17T01:22:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T02:30:00+00:00",
+    "trains": {
+      "number": "53",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "বেতনা কমিউটার",
+      "name_en": "Betona Com",
+      "destination": {
+        "code": "BEN",
+        "name_bn": "বেনাপোল",
+        "name_en": "Benapole"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 48.0446
+    }
+  },
+  {
+    "id": 11871,
+    "train_id": 60,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 312,
+    "last_update_at": "2026-08-17T01:22:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T12:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T22:10:00+00:00",
+    "trains": {
+      "number": "748",
+      "origin": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      },
+      "name_bn": "সীমান্ত এক্সপ্রেস",
+      "name_en": "Simanta Express",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 85,
+      "confidence_score": 0.9,
+      "journey_progress_pct": 81.3609
+    }
+  },
+  {
+    "id": 11849,
+    "train_id": 10,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 70,
+    "last_update_at": "2026-08-17T01:19:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:20:00+00:00",
+    "trains": {
+      "number": "814",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "কক্সবাজার এক্সপ্রেস",
+      "name_en": "Cox's Bazar Express",
+      "destination": {
+        "code": "CXB",
+        "name_bn": "কক্সবাজার",
+        "name_en": "Cox's Bazar"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 76,
+      "confidence_score": 0.58,
+      "journey_progress_pct": 88.0961
+    }
+  },
+  {
+    "id": 11940,
+    "train_id": 137,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 86,
+    "last_update_at": "2026-08-17T01:03:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:00:00+00:00",
+    "trains": {
+      "number": "1",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "ঢাকা মেইল / কমিউটার",
+      "name_en": "Dhaka Ml",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 88.6335
+    }
+  },
+  {
+    "id": 11881,
+    "train_id": 76,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 213,
+    "last_update_at": "2026-08-17T00:58:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T14:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:00:00+00:00",
+    "trains": {
+      "number": "786",
+      "origin": {
+        "code": "JML",
+        "name_bn": "জামালপুর টাউন জং",
+        "name_en": "Jamalpur Town Jn"
+      },
+      "name_bn": "বিজয় এক্সপ্রেস",
+      "name_en": "Bijoy Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 54,
+      "confidence_score": 0.75,
+      "journey_progress_pct": 79.9286
+    }
+  },
+  {
+    "id": 11838,
+    "train_id": 21,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 110,
+    "last_update_at": "2026-08-17T00:50:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:40:00+00:00",
+    "trains": {
+      "number": "740",
+      "origin": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      },
+      "name_bn": "উপবন এক্সপ্রেস",
+      "name_en": "Upaban Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 65,
+      "confidence_score": 0.85,
+      "journey_progress_pct": 90.3423
+    }
+  },
+  {
+    "id": 12208,
+    "train_id": 206,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 16,
+    "last_update_at": "2026-08-17T00:43:00+00:00",
+    "scheduled_departure_ts": "2026-08-17T00:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T02:30:00+00:00",
+    "trains": {
+      "number": "64",
+      "origin": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      },
+      "name_bn": "লালমনি এক্সপ্রেস",
+      "name_en": "Lalmoni Com 2",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 24.7207
+    }
+  },
+  {
+    "id": 11859,
+    "train_id": 45,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 45,
+    "last_update_at": "2026-08-17T00:29:37.192+00:00",
+    "scheduled_departure_ts": "2026-08-16T15:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:45:00+00:00",
+    "trains": {
+      "number": "723",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "উদয়ন এক্সপ্রেস",
+      "name_en": "Udayan Express",
+      "destination": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 1.74844,
+      "confidence_score": 0.65,
+      "journey_progress_pct": 100
+    }
+  },
+  {
+    "id": 12170,
+    "train_id": 168,
+    "run_date": "2026-08-17",
+    "status": "completed",
+    "current_delay_minutes": 20,
+    "last_update_at": "2026-08-17T00:08:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T23:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T00:00:00+00:00",
+    "trains": {
+      "number": "1001",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "তুরাগ অরুণা কমিউটার",
+      "name_en": "Turag Aruna",
+      "destination": {
+        "code": "JBP",
+        "name_bn": "জয়দেবপুর জং",
+        "name_en": "Joydebpur Jn"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 33,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 84.4303
+    }
+  },
+  {
+    "id": 11842,
+    "train_id": 16,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 44,
+    "last_update_at": "2026-08-17T00:05:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T14:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:25:00+00:00",
+    "trains": {
+      "number": "766",
+      "origin": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      },
+      "name_bn": "নীলসাগর এক্সপ্রেস",
+      "name_en": "Nilsagar Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 21,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 99.617
+    }
+  },
+  {
+    "id": 11852,
+    "train_id": 27,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 73,
+    "last_update_at": "2026-08-16T23:57:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T15:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:10:00+00:00",
+    "trains": {
+      "number": "725",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "সুন্দরবন এক্সপ্রেস",
+      "name_en": "Sundarban Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 82,
+      "confidence_score": 0.72,
+      "journey_progress_pct": 93.5073
+    }
+  },
+  {
+    "id": 11915,
+    "train_id": 112,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 55,
+    "last_update_at": "2026-08-16T23:54:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:00:00+00:00",
+    "trains": {
+      "number": "796",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "বেনাপোল এক্সপ্রেস",
+      "name_en": "Benapole Express",
+      "destination": {
+        "code": "BEN",
+        "name_bn": "বেনাপোল",
+        "name_en": "Benapole"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 80.0672
+    }
+  },
+  {
+    "id": 11936,
+    "train_id": 133,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 139,
+    "last_update_at": "2026-08-16T23:45:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:10:00+00:00",
+    "trains": {
+      "number": "2",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "চট্টগ্রাম মেইল",
+      "name_en": "Chattogram Ml",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 53,
+      "confidence_score": 0.84,
+      "journey_progress_pct": 47.9002
+    }
+  },
+  {
+    "id": 11839,
+    "train_id": 22,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 88,
+    "last_update_at": "2026-08-16T23:22:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T16:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:00:00+00:00",
+    "trains": {
+      "number": "739",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "উপবন এক্সপ্রেস",
+      "name_en": "Upaban Express",
+      "destination": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 22,
+      "confidence_score": 0.91,
+      "journey_progress_pct": 93.2895
+    }
+  },
+  {
+    "id": 11879,
+    "train_id": 68,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 15,
+    "last_update_at": "2026-08-16T22:41:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T22:40:00+00:00",
+    "trains": {
+      "number": "770",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "ধূমকেতু এক্সপ্রেস",
+      "name_en": "Dhumketu Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.89,
+      "journey_progress_pct": 97.3816
+    }
+  },
+  {
+    "id": 11941,
+    "train_id": 138,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 295,
+    "last_update_at": "2026-08-16T22:39:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T18:40:00+00:00",
+    "trains": {
+      "number": "27",
+      "origin": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      },
+      "name_bn": "ঘাগট মেইল",
+      "name_en": "Ghaghat Ml",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 0,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 54.8153
+    }
+  },
+  {
+    "id": 11893,
+    "train_id": 89,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 91,
+    "last_update_at": "2026-08-16T22:34:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T16:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T22:10:00+00:00",
+    "trains": {
+      "number": "777",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "হাওর এক্সপ্রেস",
+      "name_en": "Hawr Express",
+      "destination": {
+        "code": "MOH",
+        "name_bn": "মোহনগঞ্জ",
+        "name_en": "Mohanganj"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 21,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 92.2481
+    }
+  },
+  {
+    "id": 11916,
+    "train_id": 113,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 122,
+    "last_update_at": "2026-08-16T22:22:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T15:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T22:40:00+00:00",
+    "trains": {
+      "number": "803",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "বাংলাবান্ধা এক্সপ্রেস",
+      "name_en": "Banglabandha Express",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 78,
+      "confidence_score": 0.95,
+      "journey_progress_pct": 67.7905
+    }
+  },
+  {
+    "id": 11840,
+    "train_id": 7,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 27,
+    "last_update_at": "2026-08-16T22:00:04+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:10:00+00:00",
+    "trains": {
+      "number": "741",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "তূর্ণা এক্সপ্রেস",
+      "name_en": "Turna Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.77,
+      "journey_progress_pct": 72.9742
+    }
+  },
+  {
+    "id": 11884,
+    "train_id": 78,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 20,
+    "last_update_at": "2026-08-16T22:00:04+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T22:55:00+00:00",
+    "trains": {
+      "number": "790",
+      "origin": {
+        "code": "MOH",
+        "name_bn": "মোহনগঞ্জ",
+        "name_en": "Mohanganj"
+      },
+      "name_bn": "মোহনগঞ্জ এক্সপ্রেস",
+      "name_en": "Mohonganj Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.71,
+      "journey_progress_pct": 78.5904
+    }
+  },
+  {
+    "id": 11851,
+    "train_id": 11,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 23,
+    "last_update_at": "2026-08-16T22:00:04+00:00",
+    "scheduled_departure_ts": "2026-08-16T13:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T22:20:00+00:00",
+    "trains": {
+      "number": "815",
+      "origin": {
+        "code": "CXB",
+        "name_bn": "কক্সবাজার",
+        "name_en": "Cox's Bazar"
+      },
+      "name_bn": "পর্যটক এক্সপ্রেস",
+      "name_en": "Parjatak Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": null,
+      "confidence_score": 0.3,
+      "journey_progress_pct": 92.8012
+    }
+  },
+  {
+    "id": 11833,
+    "train_id": 26,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 59,
+    "last_update_at": "2026-08-16T21:13:11.998+00:00",
+    "scheduled_departure_ts": "2026-08-16T16:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T22:00:00+00:00",
+    "trains": {
+      "number": "759",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "পদ্মা এক্সপ্রেস",
+      "name_en": "Padma Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 70.0344,
+      "confidence_score": 0.570909,
+      "journey_progress_pct": 71.8867
+    }
+  },
+  {
+    "id": 11843,
+    "train_id": 17,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 40,
+    "last_update_at": "2026-08-16T20:31:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T14:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:10:00+00:00",
+    "trains": {
+      "number": "797",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "কুড়িগ্রাম এক্সপ্রেস",
+      "name_en": "Kurigram Express",
+      "destination": {
+        "code": "KUG",
+        "name_bn": "কুড়িগ্রাম",
+        "name_en": "Kurigram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 62,
+      "confidence_score": 0.89,
+      "journey_progress_pct": 68.0515
+    }
+  },
+  {
+    "id": 11918,
+    "train_id": 115,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 84,
+    "last_update_at": "2026-08-16T19:36:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T11:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T20:45:00+00:00",
+    "trains": {
+      "number": "805",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "চিলাহাটি এক্সপ্রেস",
+      "name_en": "Chilahati Express",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 70,
+      "confidence_score": 0.94,
+      "journey_progress_pct": 81.4711
+    }
+  },
+  {
+    "id": 11841,
+    "train_id": 8,
+    "run_date": "2026-08-16",
+    "status": "completed",
+    "current_delay_minutes": 44,
+    "last_update_at": "2026-08-16T19:28:00+00:00",
+    "scheduled_departure_ts": "2026-08-16T17:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:15:00+00:00",
+    "trains": {
+      "number": "742",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "তূর্ণা এক্সপ্রেস",
+      "name_en": "Turna Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": {
+      "speed_kmh": 51,
+      "confidence_score": 0.77,
+      "journey_progress_pct": 25.5133
+    }
+  },
+  {
+    "id": 12144,
+    "train_id": 142,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T05:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T06:05:00+00:00",
+    "trains": {
+      "number": "2003",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "জয়দেবপুর কমিউটার পূরবী",
+      "name_en": "Joydevpur Com Purabi",
+      "destination": {
+        "code": "JBP",
+        "name_bn": "জয়দেবপুর জং",
+        "name_en": "Joydebpur Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12167,
+    "train_id": 165,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:30:00+00:00",
+    "trains": {
+      "number": "36",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "তিতাস কমিউটার",
+      "name_en": "Titas 1",
+      "destination": {
+        "code": "AKG",
+        "name_bn": "আখাউড়া জং",
+        "name_en": "Akhaura Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12164,
+    "train_id": 162,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T03:55:00+00:00",
+    "trains": {
+      "number": "10",
+      "origin": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      },
+      "name_bn": "সুরমা মেইল",
+      "name_en": "Surma Dn",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12165,
+    "train_id": 163,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T03:30:00+00:00",
+    "trains": {
+      "number": "9",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "সুরমা মেইল",
+      "name_en": "Surma Up",
+      "destination": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12234,
+    "train_id": 31,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T12:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T17:50:00+00:00",
+    "trains": {
+      "number": "743",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ব্রহ্মপুত্র এক্সপ্রেস",
+      "name_en": "Brahmaputra Express",
+      "destination": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12179,
+    "train_id": 177,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T00:55:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T01:40:00+00:00",
+    "trains": {
+      "number": "1104",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ঢাকা-নারায়ণগঞ্জ কমিউটার",
+      "name_en": "DaNrg 06 55",
+      "destination": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12175,
+    "train_id": 173,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T21:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:00:00+00:00",
+    "trains": {
+      "number": "32",
+      "origin": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      },
+      "name_bn": "উত্তরা এক্সপ্রেস",
+      "name_en": "Uttara",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12155,
+    "train_id": 153,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T12:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:10:00+00:00",
+    "trains": {
+      "number": "2104",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "নরসিংদী কমিউটার",
+      "name_en": "Narsingdi Com 4",
+      "destination": {
+        "code": "BXC",
+        "name_bn": "ভৈরব বাজার জং",
+        "name_en": "Bhairab Bazar Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12176,
+    "train_id": 174,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T23:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T00:35:00+00:00",
+    "trains": {
+      "number": "1101",
+      "origin": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      },
+      "name_bn": "নারায়ণগঞ্জ-ঢাকা কমিউটার",
+      "name_en": "NrgDa 05 45",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12187,
+    "train_id": 185,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:05:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:55:00+00:00",
+    "trains": {
+      "number": "1112",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ঢাকা-নারায়ণগঞ্জ কমিউটার",
+      "name_en": "DaNrg 17 05",
+      "destination": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12188,
+    "train_id": 186,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:35:00+00:00",
+    "trains": {
+      "number": "1113",
+      "origin": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      },
+      "name_bn": "নারায়ণগঞ্জ-ঢাকা কমিউটার",
+      "name_en": "NrgDa 20 45",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12177,
+    "train_id": 175,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T22:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T23:25:00+00:00",
+    "trains": {
+      "number": "1102",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ঢাকা-নারায়ণগঞ্জ কমিউটার",
+      "name_en": "DaNrg 04 30",
+      "destination": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12189,
+    "train_id": 187,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T13:35:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:25:00+00:00",
+    "trains": {
+      "number": "1114",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ঢাকা-নারায়ণগঞ্জ কমিউটার",
+      "name_en": "DaNrg 19 35",
+      "destination": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12186,
+    "train_id": 184,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T12:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:15:00+00:00",
+    "trains": {
+      "number": "1111",
+      "origin": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      },
+      "name_bn": "নারায়ণগঞ্জ-ঢাকা কমিউটার",
+      "name_en": "NrgDa 18 20",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12190,
+    "train_id": 188,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:05:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T17:55:00+00:00",
+    "trains": {
+      "number": "1115",
+      "origin": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      },
+      "name_bn": "নারায়ণগঞ্জ-ঢাকা কমিউটার",
+      "name_en": "NrgDa 23 05",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12185,
+    "train_id": 183,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T08:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T09:35:00+00:00",
+    "trains": {
+      "number": "1110",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ঢাকা-নারায়ণগঞ্জ কমিউটার",
+      "name_en": "DaNrg 14 45",
+      "destination": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12184,
+    "train_id": 182,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:55:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:45:00+00:00",
+    "trains": {
+      "number": "1109",
+      "origin": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      },
+      "name_bn": "নারায়ণগঞ্জ-ঢাকা কমিউটার",
+      "name_en": "NrgDa 15 55",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12191,
+    "train_id": 189,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:55:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:45:00+00:00",
+    "trains": {
+      "number": "1116",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ঢাকা-নারায়ণগঞ্জ কমিউটার",
+      "name_en": "DaNrg 21 55",
+      "destination": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12194,
+    "train_id": 192,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:40:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:20:00+00:00",
+    "trains": {
+      "number": "51",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "জামালপুর কমিউটার / এক্সপ্রেস",
+      "name_en": "Jamalpur Com",
+      "destination": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12196,
+    "train_id": 194,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T21:55:00+00:00",
+    "trains": {
+      "number": "55",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ভাওয়াল এক্সপ্রেস",
+      "name_en": "Vawal Up",
+      "destination": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12197,
+    "train_id": 195,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T19:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:20:00+00:00",
+    "trains": {
+      "number": "56",
+      "origin": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      },
+      "name_bn": "ভাওয়াল এক্সপ্রেস",
+      "name_en": "Vawal Dn",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12023,
+    "train_id": 222,
+    "run_date": "2026-08-16",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T15:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T20:30:00+00:00",
+    "trains": {
+      "number": "353",
+      "origin": {
+        "code": "MYN",
+        "name_bn": "ময়মনসিংহ জং",
+        "name_en": "Mymensingh Jn"
+      },
+      "name_bn": "ময়মনসিংহ এক্সপ্রেস / লোকাল",
+      "name_en": "Mymensingh Local",
+      "destination": {
+        "code": "IBR",
+        "name_bn": "ইব্রাহিমাবাদ",
+        "name_en": "Ibrahimabad"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12212,
+    "train_id": 210,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T01:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:50:00+00:00",
+    "trains": {
+      "number": "132",
+      "origin": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      },
+      "name_bn": "রমনা কমিউটার",
+      "name_en": "Romna Com 1",
+      "destination": {
+        "code": "ROM",
+        "name_bn": "রোমনা বাজার",
+        "name_en": "Romnabazar"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12008,
+    "train_id": 207,
+    "run_date": "2026-08-16",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T10:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:00:00+00:00",
+    "trains": {
+      "number": "37",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "ময়মনসিংহ এক্সপ্রেস / লোকাল",
+      "name_en": "Mymensingh Ml Up",
+      "destination": {
+        "code": "IBR",
+        "name_bn": "ইব্রাহিমাবাদ",
+        "name_en": "Ibrahimabad"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12202,
+    "train_id": 200,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:40:00+00:00",
+    "trains": {
+      "number": "58",
+      "origin": {
+        "code": "ROH",
+        "name_bn": "রোহানপুর",
+        "name_en": "Rohanpur"
+      },
+      "name_bn": "ঈশ্বরদী কমিউটার",
+      "name_en": "Ishwardi Com",
+      "destination": {
+        "code": "ISD",
+        "name_bn": "ঈশ্বরদী জং",
+        "name_en": "Ishwardi Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12203,
+    "train_id": 201,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:30:00+00:00",
+    "trains": {
+      "number": "77",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "রোহনপুর কমিউটার",
+      "name_en": "Rohonpur Com",
+      "destination": {
+        "code": "ROH",
+        "name_bn": "রোহানপুর",
+        "name_en": "Rohanpur"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12204,
+    "train_id": 202,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T06:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:00:00+00:00",
+    "trains": {
+      "number": "78",
+      "origin": {
+        "code": "ROH",
+        "name_bn": "রোহানপুর",
+        "name_en": "Rohanpur"
+      },
+      "name_bn": "রোহনপুর কমিউটার",
+      "name_en": "Rohonpur Com",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12207,
+    "train_id": 205,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T08:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T10:25:00+00:00",
+    "trains": {
+      "number": "63",
+      "origin": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      },
+      "name_bn": "লালমনি এক্সপ্রেস",
+      "name_en": "Lalmoni Com 1",
+      "destination": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12209,
+    "train_id": 207,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T10:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T03:00:00+00:00",
+    "trains": {
+      "number": "37",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "ময়মনসিংহ এক্সপ্রেস / লোকাল",
+      "name_en": "Mymensingh Ml Up",
+      "destination": {
+        "code": "IBR",
+        "name_bn": "ইব্রাহিমাবাদ",
+        "name_en": "Ibrahimabad"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12211,
+    "train_id": 209,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:40:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:40:00+00:00",
+    "trains": {
+      "number": "131",
+      "origin": {
+        "code": "KUG",
+        "name_bn": "কুড়িগ্রাম",
+        "name_en": "Kurigram"
+      },
+      "name_bn": "রমনা কমিউটার",
+      "name_en": "Romna Com 1",
+      "destination": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12213,
+    "train_id": 211,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:55:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:20:00+00:00",
+    "trains": {
+      "number": "134",
+      "origin": {
+        "code": "RGP",
+        "name_bn": "রংপুর",
+        "name_en": "Rangpur"
+      },
+      "name_bn": "রমনা কমিউটার",
+      "name_en": "Romna Com 2",
+      "destination": {
+        "code": "KUG",
+        "name_bn": "কুড়িগ্রাম",
+        "name_en": "Kurigram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 11997,
+    "train_id": 194,
+    "run_date": "2026-08-16",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T14:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T21:55:00+00:00",
+    "trains": {
+      "number": "55",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ভাওয়াল এক্সপ্রেস",
+      "name_en": "Vawal Up",
+      "destination": {
+        "code": "DEW",
+        "name_bn": "দেওয়ানগঞ্জ বাজার",
+        "name_en": "Dewanganj_Bazar"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12183,
+    "train_id": 181,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T06:25:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:15:00+00:00",
+    "trains": {
+      "number": "1108",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ঢাকা-নারায়ণগঞ্জ কমিউটার",
+      "name_en": "DaNrg 12 25",
+      "destination": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12219,
+    "train_id": 217,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:30:00+00:00",
+    "trains": {
+      "number": "54",
+      "origin": {
+        "code": "BEN",
+        "name_bn": "বেনাপোল",
+        "name_en": "Benapole"
+      },
+      "name_bn": "বেতনা কমিউটার",
+      "name_en": "Betona Com",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12222,
+    "train_id": 220,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:10:00+00:00",
+    "trains": {
+      "number": "97",
+      "origin": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      },
+      "name_bn": "কুড়িগ্রাম এক্সপ্রেস",
+      "name_en": "Kurigram Shuttle",
+      "destination": {
+        "code": "KUG",
+        "name_bn": "কুড়িগ্রাম",
+        "name_en": "Kurigram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12223,
+    "train_id": 221,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T13:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:30:00+00:00",
+    "trains": {
+      "number": "98",
+      "origin": {
+        "code": "KUG",
+        "name_bn": "কুড়িগ্রাম",
+        "name_en": "Kurigram"
+      },
+      "name_bn": "কুড়িগ্রাম এক্সপ্রেস",
+      "name_en": "Kurigram Shuttle",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12224,
+    "train_id": 222,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T20:30:00+00:00",
+    "trains": {
+      "number": "353",
+      "origin": {
+        "code": "MYN",
+        "name_bn": "ময়মনসিংহ জং",
+        "name_en": "Mymensingh Jn"
+      },
+      "name_bn": "ময়মনসিংহ এক্সপ্রেস / লোকাল",
+      "name_en": "Mymensingh Local",
+      "destination": {
+        "code": "IBR",
+        "name_bn": "ইব্রাহিমাবাদ",
+        "name_en": "Ibrahimabad"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12225,
+    "train_id": 223,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T03:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T08:30:00+00:00",
+    "trains": {
+      "number": "354",
+      "origin": {
+        "code": "IBR",
+        "name_bn": "ইব্রাহিমাবাদ",
+        "name_en": "Ibrahimabad"
+      },
+      "name_bn": "ময়মনসিংহ এক্সপ্রেস / লোকাল",
+      "name_en": "Mymensingh Local",
+      "destination": {
+        "code": "MYN",
+        "name_bn": "ময়মনসিংহ জং",
+        "name_en": "Mymensingh Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12227,
+    "train_id": 225,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T03:10:00+00:00",
+    "trains": {
+      "number": "25",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "নকশীকাঁথা এক্সপ্রেস",
+      "name_en": "Nakshikatha Up",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12233,
+    "train_id": 34,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:55:00+00:00",
+    "trains": {
+      "number": "736",
+      "origin": {
+        "code": "TRK",
+        "name_bn": "তারাকান্দি",
+        "name_en": "Tarakandi"
+      },
+      "name_bn": "অগ্নিবীণা এক্সপ্রেস",
+      "name_en": "Agnibina Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12036,
+    "train_id": 35,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T08:55:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:30:00+00:00",
+    "trains": {
+      "number": "773",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "কালনী এক্সপ্রেস",
+      "name_en": "Kalni Express",
+      "destination": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12041,
+    "train_id": 30,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T13:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T22:40:00+00:00",
+    "trains": {
+      "number": "764",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "চিত্রা এক্সপ্রেস",
+      "name_en": "Chitra Express",
+      "destination": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12043,
+    "train_id": 26,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T16:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T22:00:00+00:00",
+    "trains": {
+      "number": "759",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "পদ্মা এক্সপ্রেস",
+      "name_en": "Padma Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12044,
+    "train_id": 25,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T10:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:15:00+00:00",
+    "trains": {
+      "number": "760",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "পদ্মা এক্সপ্রেস",
+      "name_en": "Padma Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12045,
+    "train_id": 5,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:45:00+00:00",
+    "trains": {
+      "number": "703",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "মহানগর গোধূলী",
+      "name_en": "Mohanagar Godhuli",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12047,
+    "train_id": 22,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T16:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:00:00+00:00",
+    "trains": {
+      "number": "739",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "উপবন এক্সপ্রেস",
+      "name_en": "Upaban Express",
+      "destination": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12048,
+    "train_id": 7,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:10:00+00:00",
+    "trains": {
+      "number": "741",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "তূর্ণা এক্সপ্রেস",
+      "name_en": "Turna Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12049,
+    "train_id": 8,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:15:00+00:00",
+    "trains": {
+      "number": "742",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "তূর্ণা এক্সপ্রেস",
+      "name_en": "Turna Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12050,
+    "train_id": 16,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:25:00+00:00",
+    "trains": {
+      "number": "766",
+      "origin": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      },
+      "name_bn": "নীলসাগর এক্সপ্রেস",
+      "name_en": "Nilsagar Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12051,
+    "train_id": 17,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:10:00+00:00",
+    "trains": {
+      "number": "797",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "কুড়িগ্রাম এক্সপ্রেস",
+      "name_en": "Kurigram Express",
+      "destination": {
+        "code": "KUG",
+        "name_bn": "কুড়িগ্রাম",
+        "name_en": "Kurigram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12052,
+    "train_id": 3,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:55:00+00:00",
+    "trains": {
+      "number": "787",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "সোনার বাংলা এক্সপ্রেস",
+      "name_en": "Sonar Bangla Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12054,
+    "train_id": 13,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T03:50:00+00:00",
+    "trains": {
+      "number": "793",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "পঞ্চগড় এক্সপ্রেস",
+      "name_en": "Panchagarh Express",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12174,
+    "train_id": 172,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T05:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:00:00+00:00",
+    "trains": {
+      "number": "31",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "উত্তরা এক্সপ্রেস",
+      "name_en": "Uttara",
+      "destination": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12058,
+    "train_id": 11,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T13:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T22:20:00+00:00",
+    "trains": {
+      "number": "815",
+      "origin": {
+        "code": "CXB",
+        "name_bn": "কক্সবাজার",
+        "name_en": "Cox's Bazar"
+      },
+      "name_bn": "পর্যটক এক্সপ্রেস",
+      "name_en": "Parjatak Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12059,
+    "train_id": 27,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:10:00+00:00",
+    "trains": {
+      "number": "725",
+      "origin": {
+        "code": "KLN",
+        "name_bn": "খুলনা",
+        "name_en": "Khulna"
+      },
+      "name_bn": "সুন্দরবন এক্সপ্রেস",
+      "name_en": "Sundarban Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12173,
+    "train_id": 171,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T16:05:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T17:15:00+00:00",
+    "trains": {
+      "number": "1004",
+      "origin": {
+        "code": "JBP",
+        "name_bn": "জয়দেবপুর জং",
+        "name_en": "Joydebpur Jn"
+      },
+      "name_bn": "তুরাগ পূরবী কমিউটার",
+      "name_en": "Turag Purabi",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12172,
+    "train_id": 170,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T12:40:00+00:00",
+    "trains": {
+      "number": "1003",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "তুরাগ পূরবী কমিউটার",
+      "name_en": "Turag Purabi",
+      "destination": {
+        "code": "JBP",
+        "name_bn": "জয়দেবপুর জং",
+        "name_en": "Joydebpur Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12066,
+    "train_id": 44,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T21:30:00+00:00",
+    "trains": {
+      "number": "722",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "মহানগর এক্সপ্রেস",
+      "name_en": "Mohanagar Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12067,
+    "train_id": 45,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:45:00+00:00",
+    "trains": {
+      "number": "723",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "উদয়ন এক্সপ্রেস",
+      "name_en": "Udayan Express",
+      "destination": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12068,
+    "train_id": 46,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T16:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:35:00+00:00",
+    "trains": {
+      "number": "724",
+      "origin": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      },
+      "name_bn": "উদয়ন এক্সপ্রেস",
+      "name_en": "Udayan Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12070,
+    "train_id": 48,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T08:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:30:00+00:00",
+    "trains": {
+      "number": "802",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "চট্টলা এক্সপ্রেস",
+      "name_en": "Chattala Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12072,
+    "train_id": 50,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T01:20:00+00:00",
+    "trains": {
+      "number": "706",
+      "origin": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      },
+      "name_bn": "একতা এক্সপ্রেস",
+      "name_en": "Ekota Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12077,
+    "train_id": 55,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:30:00+00:00",
+    "trains": {
+      "number": "731",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "বরেন্দ্র এক্সপ্রেস",
+      "name_en": "Barendra Express",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12080,
+    "train_id": 58,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:30:00+00:00",
+    "trains": {
+      "number": "734",
+      "origin": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      },
+      "name_bn": "তিতুমীর এক্সপ্রেস",
+      "name_en": "Titumir Express",
+      "destination": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12082,
+    "train_id": 230,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T10:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:10:00+00:00",
+    "trains": {
+      "number": "776",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "সিরাজগঞ্জ এক্সপ্রেস",
+      "name_en": "Sirajganj Express",
+      "destination": {
+        "code": "SIR",
+        "name_bn": "সিরাজগঞ্জ বাজার",
+        "name_en": "Sirajganj_Bazar"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12083,
+    "train_id": 63,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T01:10:00+00:00",
+    "trains": {
+      "number": "757",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "দ্রুতযান এক্সপ্রেস",
+      "name_en": "Drutojan Express",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12086,
+    "train_id": 68,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T22:40:00+00:00",
+    "trains": {
+      "number": "770",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "ধূমকেতু এক্সপ্রেস",
+      "name_en": "Dhumketu Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12088,
+    "train_id": 76,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T23:00:00+00:00",
+    "trains": {
+      "number": "786",
+      "origin": {
+        "code": "JML",
+        "name_bn": "জামালপুর টাউন জং",
+        "name_en": "Jamalpur Town Jn"
+      },
+      "name_bn": "বিজয় এক্সপ্রেস",
+      "name_en": "Bijoy Express",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12090,
+    "train_id": 78,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T22:55:00+00:00",
+    "trains": {
+      "number": "790",
+      "origin": {
+        "code": "MOH",
+        "name_bn": "মোহনগঞ্জ",
+        "name_en": "Mohanganj"
+      },
+      "name_bn": "মোহনগঞ্জ এক্সপ্রেস",
+      "name_en": "Mohonganj Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12092,
+    "train_id": 80,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T17:55:00+00:00",
+    "trains": {
+      "number": "800",
+      "origin": {
+        "code": "BHU",
+        "name_bn": "ভুয়াপুর",
+        "name_en": "Bhuapur"
+      },
+      "name_bn": "জামালপুর এক্সপ্রেস",
+      "name_en": "Jamalpur Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 11957,
+    "train_id": 154,
+    "run_date": "2026-08-16",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T13:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-16T20:55:00+00:00",
+    "trains": {
+      "number": "12",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "নোয়াখালী মেইল / এক্সপ্রেস",
+      "name_en": "Noakhali Ml Dn",
+      "destination": {
+        "code": "NKL",
+        "name_bn": "নোয়াখালী",
+        "name_en": "Noakhali"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 11958,
+    "train_id": 155,
+    "run_date": "2026-08-16",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T14:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T00:15:00+00:00",
+    "trains": {
+      "number": "11",
+      "origin": {
+        "code": "NKL",
+        "name_bn": "নোয়াখালী",
+        "name_en": "Noakhali"
+      },
+      "name_bn": "নোয়াখালী মেইল / এক্সপ্রেস",
+      "name_en": "Noakhali Ml Up",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 11965,
+    "train_id": 162,
+    "run_date": "2026-08-16",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T14:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:55:00+00:00",
+    "trains": {
+      "number": "10",
+      "origin": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      },
+      "name_bn": "সুরমা মেইল",
+      "name_en": "Surma Dn",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 11966,
+    "train_id": 163,
+    "run_date": "2026-08-16",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T15:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:30:00+00:00",
+    "trains": {
+      "number": "9",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "সুরমা মেইল",
+      "name_en": "Surma Up",
+      "destination": {
+        "code": "SYL",
+        "name_bn": "সিলেট",
+        "name_en": "Sylhet"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12095,
+    "train_id": 83,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:25:00+00:00",
+    "trains": {
+      "number": "729",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "মেঘনা এক্সপ্রেস",
+      "name_en": "Meghna Express",
+      "destination": {
+        "code": "CHG",
+        "name_bn": "চাঁদপুর",
+        "name_en": "Chandpur"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12097,
+    "train_id": 85,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T10:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T17:30:00+00:00",
+    "trains": {
+      "number": "745",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "যমুনা এক্সপ্রেস",
+      "name_en": "Jamuna Express",
+      "destination": {
+        "code": "TRK",
+        "name_bn": "তারাকান্দি",
+        "name_en": "Tarakandi"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12099,
+    "train_id": 87,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T12:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:40:00+00:00",
+    "trains": {
+      "number": "749",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "এগারো সিন্ধুর গোধুলী",
+      "name_en": "Egarosindhur Godhuli",
+      "destination": {
+        "code": "KSG",
+        "name_bn": "কিশোরগঞ্জ",
+        "name_en": "Kishoreganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12101,
+    "train_id": 89,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T16:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T22:10:00+00:00",
+    "trains": {
+      "number": "777",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "হাওর এক্সপ্রেস",
+      "name_en": "Hawr Express",
+      "destination": {
+        "code": "MOH",
+        "name_bn": "মোহনগঞ্জ",
+        "name_en": "Mohanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12104,
+    "train_id": 92,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T10:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:00:00+00:00",
+    "trains": {
+      "number": "782",
+      "origin": {
+        "code": "KSG",
+        "name_bn": "কিশোরগঞ্জ",
+        "name_en": "Kishoreganj"
+      },
+      "name_bn": "কিশোরগঞ্জ এক্সপ্রেস",
+      "name_en": "Kishorganj Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12106,
+    "train_id": 98,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T10:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:40:00+00:00",
+    "trains": {
+      "number": "714",
+      "origin": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      },
+      "name_bn": "করতোয়া এক্সপ্রেস",
+      "name_en": "Korotoa Express",
+      "destination": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12107,
+    "train_id": 99,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T01:20:00+00:00",
+    "trains": {
+      "number": "751",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "লালমনি এক্সপ্রেস",
+      "name_en": "Lalmoni Express",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12111,
+    "train_id": 104,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T00:00:00+00:00",
+    "trains": {
+      "number": "772",
+      "origin": {
+        "code": "RGP",
+        "name_bn": "রংপুর",
+        "name_en": "Rangpur"
+      },
+      "name_bn": "রংপুর এক্সপ্রেস",
+      "name_en": "Rangpur Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12113,
+    "train_id": 106,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:15:00+00:00",
+    "trains": {
+      "number": "780",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "ঢালারচর এক্সপ্রেস",
+      "name_en": "Dhalarchar Express",
+      "destination": {
+        "code": "DHA",
+        "name_bn": "ধলার চর",
+        "name_en": "Dhalarchar"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12118,
+    "train_id": 112,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T01:00:00+00:00",
+    "trains": {
+      "number": "796",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "বেনাপোল এক্সপ্রেস",
+      "name_en": "Benapole Express",
+      "destination": {
+        "code": "BEN",
+        "name_bn": "বেনাপোল",
+        "name_en": "Benapole"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12119,
+    "train_id": 113,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T15:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T22:40:00+00:00",
+    "trains": {
+      "number": "803",
+      "origin": {
+        "code": "RAJ",
+        "name_bn": "রাজশাহী",
+        "name_en": "Rajshahi"
+      },
+      "name_bn": "বাংলাবান্ধা এক্সপ্রেস",
+      "name_en": "Banglabandha Express",
+      "destination": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12129,
+    "train_id": 127,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T02:40:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T05:00:00+00:00",
+    "trains": {
+      "number": "65",
+      "origin": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      },
+      "name_bn": "বুড়িমারী এক্সপ্রেস",
+      "name_en": "Burimari Com 1",
+      "destination": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12121,
+    "train_id": 115,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T11:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T20:45:00+00:00",
+    "trains": {
+      "number": "805",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "চিলাহাটি এক্সপ্রেস",
+      "name_en": "Chilahati Express",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12124,
+    "train_id": 118,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T12:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T00:30:00+00:00",
+    "trains": {
+      "number": "810",
+      "origin": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      },
+      "name_bn": "বুড়িমারী এক্সপ্রেস",
+      "name_en": "Burimari Express",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12125,
+    "train_id": 123,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T12:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:00:00+00:00",
+    "trains": {
+      "number": "122",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ভাঙ্গা কমিউটার",
+      "name_en": "Bhanga Com",
+      "destination": {
+        "code": "BNG",
+        "name_bn": "ভাঙ্গা",
+        "name_en": "Bhanga"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12130,
+    "train_id": 128,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T05:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:40:00+00:00",
+    "trains": {
+      "number": "66",
+      "origin": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      },
+      "name_bn": "বুড়িমারী এক্সপ্রেস",
+      "name_en": "Burimari Com 2",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12131,
+    "train_id": 129,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T11:40:00+00:00",
+    "trains": {
+      "number": "71",
+      "origin": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      },
+      "name_bn": "বুড়িমারী এক্সপ্রেস",
+      "name_en": "Burimari Com 3",
+      "destination": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12132,
+    "train_id": 130,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T12:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:30:00+00:00",
+    "trains": {
+      "number": "72",
+      "origin": {
+        "code": "BUR",
+        "name_bn": "বুড়িমারী",
+        "name_en": "Burimari"
+      },
+      "name_bn": "বুড়িমারী এক্সপ্রেস",
+      "name_en": "Burimari Com 4",
+      "destination": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12134,
+    "train_id": 132,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:30:00+00:00",
+    "trains": {
+      "number": "124",
+      "origin": {
+        "code": "BNG",
+        "name_bn": "ভাঙ্গা",
+        "name_en": "Bhanga"
+      },
+      "name_bn": "চন্দনা কমিউটার",
+      "name_en": "Chandana Com",
+      "destination": {
+        "code": "RAJB",
+        "name_bn": "রাজবাড়ী",
+        "name_en": "Rajbari"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12135,
+    "train_id": 133,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T01:10:00+00:00",
+    "trains": {
+      "number": "2",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "চট্টগ্রাম মেইল",
+      "name_en": "Chattogram Ml",
+      "destination": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12136,
+    "train_id": 134,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T12:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:50:00+00:00",
+    "trains": {
+      "number": "491",
+      "origin": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      },
+      "name_bn": "কলেজ শাটল",
+      "name_en": "College Shuttle",
+      "destination": {
+        "code": "BON",
+        "name_bn": "বোনারপাড়া জং",
+        "name_en": "Bonarpara Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12139,
+    "train_id": 137,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T01:00:00+00:00",
+    "trains": {
+      "number": "1",
+      "origin": {
+        "code": "CG",
+        "name_bn": "চট্টগ্রাম",
+        "name_en": "Chattogram"
+      },
+      "name_bn": "ঢাকা মেইল / কমিউটার",
+      "name_en": "Dhaka Ml",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12140,
+    "train_id": 138,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T17:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T18:40:00+00:00",
+    "trains": {
+      "number": "27",
+      "origin": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      },
+      "name_bn": "ঘাগট মেইল",
+      "name_en": "Ghaghat Ml",
+      "destination": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12147,
+    "train_id": 145,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:30:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T13:15:00+00:00",
+    "trains": {
+      "number": "42",
+      "origin": {
+        "code": "PAN",
+        "name_bn": "পঞ্চগড়",
+        "name_en": "Panchagarh"
+      },
+      "name_bn": "কাঞ্চন কমিউটার",
+      "name_en": "Kanchan",
+      "destination": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12151,
+    "train_id": 149,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T16:25:00+00:00",
+    "trains": {
+      "number": "44",
+      "origin": {
+        "code": "MOH",
+        "name_bn": "মোহনগঞ্জ",
+        "name_en": "Mohanganj"
+      },
+      "name_bn": "মহুয়া এক্সপ্রেস",
+      "name_en": "Mahua",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12153,
+    "train_id": 151,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T04:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T07:05:00+00:00",
+    "trains": {
+      "number": "2102",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "নরসিংদী কমিউটার",
+      "name_en": "Narsingdi Com 2",
+      "destination": {
+        "code": "BXC",
+        "name_bn": "ভৈরব বাজার জং",
+        "name_en": "Bhairab Bazar Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12181,
+    "train_id": 179,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T03:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T04:05:00+00:00",
+    "trains": {
+      "number": "1106",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "ঢাকা-নারায়ণগঞ্জ কমিউটার",
+      "name_en": "DaNrg 09 15",
+      "destination": {
+        "code": null,
+        "name_bn": "নারায়ণগঞ্জ",
+        "name_en": "Narayanganj"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12156,
+    "train_id": 154,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T13:10:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T20:55:00+00:00",
+    "trains": {
+      "number": "12",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "নোয়াখালী মেইল / এক্সপ্রেস",
+      "name_en": "Noakhali Ml Dn",
+      "destination": {
+        "code": "NKL",
+        "name_bn": "নোয়াখালী",
+        "name_en": "Noakhali"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12157,
+    "train_id": 155,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T14:45:00+00:00",
+    "scheduled_arrival_ts": "2026-08-18T00:15:00+00:00",
+    "trains": {
+      "number": "11",
+      "origin": {
+        "code": "NKL",
+        "name_bn": "নোয়াখালী",
+        "name_en": "Noakhali"
+      },
+      "name_bn": "নোয়াখালী মেইল / এক্সপ্রেস",
+      "name_en": "Noakhali Ml Up",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12159,
+    "train_id": 157,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T08:20:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T15:15:00+00:00",
+    "trains": {
+      "number": "22",
+      "origin": {
+        "code": "LAL",
+        "name_bn": "লালমনিরহাট",
+        "name_en": "Lalmonirhat"
+      },
+      "name_bn": "পদ্মরাগ কমিউটার",
+      "name_en": "Padmarag Com",
+      "destination": {
+        "code": "SAN",
+        "name_bn": "সান্তাহার জং",
+        "name_en": "Santahar Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12161,
+    "train_id": 159,
+    "run_date": "2026-08-17",
+    "status": "scheduled",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T09:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T14:20:00+00:00",
+    "trains": {
+      "number": "60",
+      "origin": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      },
+      "name_bn": "রামসাগর এক্সপ্রেস",
+      "name_en": "Ramsagar",
+      "destination": {
+        "code": "BON",
+        "name_bn": "বোনারপাড়া জং",
+        "name_en": "Bonarpara Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12133,
+    "train_id": 131,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T23:00:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T00:15:00+00:00",
+    "trains": {
+      "number": "121",
+      "origin": {
+        "code": "RAJB",
+        "name_bn": "রাজবাড়ী",
+        "name_en": "Rajbari"
+      },
+      "name_bn": "চন্দনা কমিউটার",
+      "name_en": "Chandana Com",
+      "destination": {
+        "code": "BNG",
+        "name_bn": "ভাঙ্গা",
+        "name_en": "Bhanga"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12142,
+    "train_id": 140,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-16T23:25:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T00:25:00+00:00",
+    "trains": {
+      "number": "2001",
+      "origin": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      },
+      "name_bn": "জয়দেবপুর কমিউটার অরুণা",
+      "name_en": "Joydevpur Com Aruna",
+      "destination": {
+        "code": "JBP",
+        "name_bn": "জয়দেবপুর জং",
+        "name_en": "Joydebpur Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12141,
+    "train_id": 139,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T00:50:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T02:35:00+00:00",
+    "trains": {
+      "number": "28",
+      "origin": {
+        "code": "CHL",
+        "name_bn": "চিলাহাটি",
+        "name_en": "Chilahati"
+      },
+      "name_bn": "ঘাগট মেইল",
+      "name_en": "Ghaghat Ml",
+      "destination": {
+        "code": "PBT",
+        "name_bn": "পার্বতীপুর জং",
+        "name_en": "Parbatipur Jn"
+      }
+    },
+    "train_updates": null
+  },
+  {
+    "id": 12126,
+    "train_id": 124,
+    "run_date": "2026-08-17",
+    "status": "no_data",
+    "current_delay_minutes": 0,
+    "last_update_at": null,
+    "scheduled_departure_ts": "2026-08-17T01:15:00+00:00",
+    "scheduled_arrival_ts": "2026-08-17T03:00:00+00:00",
+    "trains": {
+      "number": "123",
+      "origin": {
+        "code": "BNG",
+        "name_bn": "ভাঙ্গা",
+        "name_en": "Bhanga"
+      },
+      "name_bn": "ভাঙ্গা কমিউটার",
+      "name_en": "Bhanga Com",
+      "destination": {
+        "code": "DA",
+        "name_bn": "ঢাকা",
+        "name_en": "Dhaka"
+      }
+    },
+    "train_updates": null
+  }
+]

@@ -17,7 +17,22 @@ A structured, machine-readable dataset of **Bangladesh Railway (BR)** intercity 
 
 ---
 
-## 📊 Dataset Overview
+## � Preview
+
+<div style="gap: 8px; overflow-x: auto; width: 100%; padding: 10px 0; display: flex; flex-wrap: wrap; align-content: center; justify-content: center;">
+  <img src="train-image/Sundarban Express.jpg" width="22%" height="150" style="object-fit: cover; border-radius: 4px;" alt="Sundarban Express" />
+  <img src="train-image/Parabat Express.jpg" width="22%" height="150" style="object-fit: cover; border-radius: 4px;" alt="Parabat Express" />
+  <img src="train-image/Chitra Express.jpg" width="22%" height="150" style="object-fit: cover; border-radius: 4px;" alt="Chitra Express" />
+  <img src="train-image/Benapole Express.jpg" width="22%" height="150" style="object-fit: cover; border-radius: 4px;" alt="Benapole Express" />
+  <img src="train-image/Kapotaksha Express.jpg" width="22%" height="150" style="object-fit: cover; border-radius: 4px;" alt="Kapotaksha Express" />
+  <img src="train-image/Sagardari Express.jpg" width="22%" height="150" style="object-fit: cover; border-radius: 4px;" alt="Sagardari Express" />
+  <img src="train-image/Rupsha Express.jpg" width="22%" height="150" style="object-fit: cover; border-radius: 4px;" alt="Rupsha Express" />
+  <img src="train-image/Subarna Express.jpg" width="22%" height="150" style="object-fit: cover; border-radius: 4px;" alt="Subarna Express" />
+</div>
+
+---
+
+## �📊 Dataset Overview
 
 ### `railway-data.json`
 
