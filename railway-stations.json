@@ -1,9 +1,18 @@
 [
   {
     "code": "DA",
-    "name": { "en": "Dhaka (Kamalapur)", "bn": "ঢাকা (কমলাপুর)" },
-    "district": { "en": "Dhaka", "bn": "ঢাকা" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Dhaka (Kamalapur)",
+      "bn": "ঢাকা (কমলাপুর)"
+    },
+    "district": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.7314,
     "lng": 90.4263,
     "zone": "East",
@@ -11,9 +20,18 @@
   },
   {
     "code": "DA_AIR",
-    "name": { "en": "Dhaka Airport (Biman Bandar)", "bn": "ঢাকা বিমানবন্দর" },
-    "district": { "en": "Dhaka", "bn": "ঢাকা" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Dhaka Airport (Biman Bandar)",
+      "bn": "ঢাকা বিমানবন্দর"
+    },
+    "district": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.8513,
     "lng": 90.4078,
     "zone": "East",
@@ -21,9 +39,18 @@
   },
   {
     "code": "TNG",
-    "name": { "en": "Tongi Junction", "bn": "টঙ্গী জংশন" },
-    "district": { "en": "Gazipur", "bn": "গাজীপুর" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Tongi Junction",
+      "bn": "টঙ্গী জংশন"
+    },
+    "district": {
+      "en": "Gazipur",
+      "bn": "গাজীপুর"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.8966,
     "lng": 90.4022,
     "zone": "East",
@@ -31,9 +58,18 @@
   },
   {
     "code": "JOY",
-    "name": { "en": "Joydebpur Junction", "bn": "জয়দেবপুর জংশন" },
-    "district": { "en": "Gazipur", "bn": "গাজীপুর" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Joydebpur Junction",
+      "bn": "জয়দেবপুর জংশন"
+    },
+    "district": {
+      "en": "Gazipur",
+      "bn": "গাজীপুর"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.9999,
     "lng": 90.4203,
     "zone": "East",
@@ -41,27 +77,54 @@
   },
   {
     "code": "MRZ",
-    "name": { "en": "Mirzapur", "bn": "মির্জাপুর" },
-    "district": { "en": "Tangail", "bn": "টাঙ্গাইল" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Mirzapur",
+      "bn": "মির্জাপুর"
+    },
+    "district": {
+      "en": "Tangail",
+      "bn": "টাঙ্গাইল"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 24.1032,
     "lng": 90.0984,
     "zone": "West"
   },
   {
     "code": "TGL",
-    "name": { "en": "Tangail", "bn": "টাঙ্গাইল" },
-    "district": { "en": "Tangail", "bn": "টাঙ্গাইল" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Tangail",
+      "bn": "টাঙ্গাইল"
+    },
+    "district": {
+      "en": "Tangail",
+      "bn": "টাঙ্গাইল"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 24.2513,
     "lng": 89.9167,
     "zone": "West"
   },
   {
     "code": "JAM_E",
-    "name": { "en": "Bangabandhu Setu East", "bn": "বঙ্গবন্ধু সেতু পূর্ব" },
-    "district": { "en": "Tangail", "bn": "টাঙ্গাইল" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Bangabandhu Setu East",
+      "bn": "বঙ্গবন্ধু সেতু পূর্ব"
+    },
+    "district": {
+      "en": "Tangail",
+      "bn": "টাঙ্গাইল"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 24.3942,
     "lng": 89.8174,
     "zone": "West",
@@ -69,9 +132,18 @@
   },
   {
     "code": "JAM_W",
-    "name": { "en": "Bangabandhu Setu West", "bn": "বঙ্গবন্ধু সেতু পশ্চিম" },
-    "district": { "en": "Sirajganj", "bn": "সিরাজগঞ্জ" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Bangabandhu Setu West",
+      "bn": "বঙ্গবন্ধু সেতু পশ্চিম"
+    },
+    "district": {
+      "en": "Sirajganj",
+      "bn": "সিরাজগঞ্জ"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.3986,
     "lng": 89.7345,
     "zone": "West",
@@ -79,45 +151,90 @@
   },
   {
     "code": "SRJ",
-    "name": { "en": "Sirajganj Bazar", "bn": "সিরাজগঞ্জ বাজার" },
-    "district": { "en": "Sirajganj", "bn": "সিরাজগঞ্জ" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Sirajganj Bazar",
+      "bn": "সিরাজগঞ্জ বাজার"
+    },
+    "district": {
+      "en": "Sirajganj",
+      "bn": "সিরাজগঞ্জ"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.4534,
     "lng": 89.7126,
     "zone": "West"
   },
   {
     "code": "ULP",
-    "name": { "en": "Ullapara", "bn": "উল্লাপাড়া" },
-    "district": { "en": "Sirajganj", "bn": "সিরাজগঞ্জ" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Ullapara",
+      "bn": "উল্লাপাড়া"
+    },
+    "district": {
+      "en": "Sirajganj",
+      "bn": "সিরাজগঞ্জ"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.3168,
     "lng": 89.5694,
     "zone": "West"
   },
   {
     "code": "BDG",
-    "name": { "en": "Boral Bridge", "bn": "বড়াল ব্রিজ" },
-    "district": { "en": "Pabna", "bn": "পাবনা" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Boral Bridge",
+      "bn": "বড়াল ব্রিজ"
+    },
+    "district": {
+      "en": "Pabna",
+      "bn": "পাবনা"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.2256,
     "lng": 89.3789,
     "zone": "West"
   },
   {
     "code": "CGB",
-    "name": { "en": "Chatmohar", "bn": "চাটমোহর" },
-    "district": { "en": "Pabna", "bn": "পাবনা" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Chatmohar",
+      "bn": "চাটমোহর"
+    },
+    "district": {
+      "en": "Pabna",
+      "bn": "পাবনা"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.2345,
     "lng": 89.2842,
     "zone": "West"
   },
   {
     "code": "ISW",
-    "name": { "en": "Ishwardi Junction", "bn": "ঈশ্বরদী জংশন" },
-    "district": { "en": "Pabna", "bn": "পাবনা" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Ishwardi Junction",
+      "bn": "ঈশ্বরদী জংশন"
+    },
+    "district": {
+      "en": "Pabna",
+      "bn": "পাবনা"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.1332,
     "lng": 89.0683,
     "zone": "West",
@@ -125,36 +242,72 @@
   },
   {
     "code": "ISW_B",
-    "name": { "en": "Ishwardi Bypass", "bn": "ঈশ্বরদী বাইপাস" },
-    "district": { "en": "Pabna", "bn": "পাবনা" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Ishwardi Bypass",
+      "bn": "ঈশ্বরদী বাইপাস"
+    },
+    "district": {
+      "en": "Pabna",
+      "bn": "পাবনা"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.1567,
     "lng": 89.0834,
     "zone": "West"
   },
   {
     "code": "PBN",
-    "name": { "en": "Pabna", "bn": "পাবনা" },
-    "district": { "en": "Pabna", "bn": "পাবনা" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Pabna",
+      "bn": "পাবনা"
+    },
+    "district": {
+      "en": "Pabna",
+      "bn": "পাবনা"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.0064,
     "lng": 89.2472,
     "zone": "West"
   },
   {
     "code": "BRM",
-    "name": { "en": "Bheramara", "bn": "ভেড়ামারা" },
-    "district": { "en": "Kushtia", "bn": "কুষ্টিয়া" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Bheramara",
+      "bn": "ভেড়ামারা"
+    },
+    "district": {
+      "en": "Kushtia",
+      "bn": "কুষ্টিয়া"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 24.0247,
     "lng": 88.9951,
     "zone": "West"
   },
   {
     "code": "PRD",
-    "name": { "en": "Poradaha Junction", "bn": "পোড়াদহ জংশন" },
-    "district": { "en": "Kushtia", "bn": "কুষ্টিয়া" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Poradaha Junction",
+      "bn": "পোড়াদহ জংশন"
+    },
+    "district": {
+      "en": "Kushtia",
+      "bn": "কুষ্টিয়া"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.9015,
     "lng": 89.0528,
     "zone": "West",
@@ -162,45 +315,90 @@
   },
   {
     "code": "KUS",
-    "name": { "en": "Kushtia Court", "bn": "কুষ্টিয়া কোর্ট" },
-    "district": { "en": "Kushtia", "bn": "কুষ্টিয়া" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Kushtia Court",
+      "bn": "কুষ্টিয়া কোর্ট"
+    },
+    "district": {
+      "en": "Kushtia",
+      "bn": "কুষ্টিয়া"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.9034,
     "lng": 89.1232,
     "zone": "West"
   },
   {
     "code": "KMR",
-    "name": { "en": "Kumarkhali", "bn": "কুমারখালী" },
-    "district": { "en": "Kushtia", "bn": "কুষ্টিয়া" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Kumarkhali",
+      "bn": "কুমারখালী"
+    },
+    "district": {
+      "en": "Kushtia",
+      "bn": "কুষ্টিয়া"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.8642,
     "lng": 89.2451,
     "zone": "West"
   },
   {
     "code": "KBP",
-    "name": { "en": "Khoksa", "bn": "খোকসা" },
-    "district": { "en": "Kushtia", "bn": "কুষ্টিয়া" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Khoksa",
+      "bn": "খোকসা"
+    },
+    "district": {
+      "en": "Kushtia",
+      "bn": "কুষ্টিয়া"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.8012,
     "lng": 89.3142,
     "zone": "West"
   },
   {
     "code": "ALM",
-    "name": { "en": "Alamdanga", "bn": "আলমডাঙ্গা" },
-    "district": { "en": "Chuadanga", "bn": "চুয়াডাঙ্গা" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Alamdanga",
+      "bn": "আলমডাঙ্গা"
+    },
+    "district": {
+      "en": "Chuadanga",
+      "bn": "চুয়াডাঙ্গা"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.7602,
     "lng": 88.9495,
     "zone": "West"
   },
   {
     "code": "CDG",
-    "name": { "en": "Chuadanga", "bn": "চুয়াডাঙ্গা" },
-    "district": { "en": "Chuadanga", "bn": "চুয়াডাঙ্গা" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Chuadanga",
+      "bn": "চুয়াডাঙ্গা"
+    },
+    "district": {
+      "en": "Chuadanga",
+      "bn": "চুয়াডাঙ্গা"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.6428,
     "lng": 88.8546,
     "zone": "West",
@@ -208,18 +406,36 @@
   },
   {
     "code": "MUN",
-    "name": { "en": "Munshiganj (Chuadanga)", "bn": "মুন্সিগঞ্জ (চুয়াডাঙ্গা)" },
-    "district": { "en": "Chuadanga", "bn": "চুয়াডাঙ্গা" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Munshiganj (Chuadanga)",
+      "bn": "মুন্সিগঞ্জ (চুয়াডাঙ্গা)"
+    },
+    "district": {
+      "en": "Chuadanga",
+      "bn": "চুয়াডাঙ্গা"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.5874,
     "lng": 88.8321,
     "zone": "West"
   },
   {
     "code": "DRS",
-    "name": { "en": "Darshana Halt", "bn": "দর্শনা হল্ট" },
-    "district": { "en": "Chuadanga", "bn": "চুয়াডাঙ্গা" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Darshana Halt",
+      "bn": "দর্শনা হল্ট"
+    },
+    "district": {
+      "en": "Chuadanga",
+      "bn": "চুয়াডাঙ্গা"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.5262,
     "lng": 88.8093,
     "zone": "West",
@@ -227,36 +443,72 @@
   },
   {
     "code": "KTC",
-    "name": { "en": "Kotchandpur", "bn": "কোটচাঁদপুর" },
-    "district": { "en": "Jhenaidah", "bn": "ঝিনাইদহ" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Kotchandpur",
+      "bn": "কোটচাঁদপুর"
+    },
+    "district": {
+      "en": "Jhenaidah",
+      "bn": "ঝিনাইদহ"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.4078,
     "lng": 88.9984,
     "zone": "West"
   },
   {
     "code": "SAF",
-    "name": { "en": "Safdarpur", "bn": "সফদারপুর" },
-    "district": { "en": "Jhenaidah", "bn": "ঝিনাইদহ" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Safdarpur",
+      "bn": "সফদারপুর"
+    },
+    "district": {
+      "en": "Jhenaidah",
+      "bn": "ঝিনাইদহ"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.3671,
     "lng": 89.0412,
     "zone": "West"
   },
   {
     "code": "MUB",
-    "name": { "en": "Mubarakganj", "bn": "মুবারকগঞ্জ" },
-    "district": { "en": "Jhenaidah", "bn": "ঝিনাইদহ" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Mubarakganj",
+      "bn": "মুবারকগঞ্জ"
+    },
+    "district": {
+      "en": "Jhenaidah",
+      "bn": "ঝিনাইদহ"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.2845,
     "lng": 89.1356,
     "zone": "West"
   },
   {
     "code": "JSH",
-    "name": { "en": "Jashore Junction", "bn": "যশোর জংশন" },
-    "district": { "en": "Jashore", "bn": "যশোর" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Jashore Junction",
+      "bn": "যশোর জংশন"
+    },
+    "district": {
+      "en": "Jashore",
+      "bn": "যশোর"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.1634,
     "lng": 89.2182,
     "zone": "West",
@@ -264,27 +516,54 @@
   },
   {
     "code": "JHD",
-    "name": { "en": "Jhikargacha", "bn": "ঝিকরগাছা" },
-    "district": { "en": "Jashore", "bn": "যশোর" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Jhikargacha",
+      "bn": "ঝিকরগাছা"
+    },
+    "district": {
+      "en": "Jashore",
+      "bn": "যশোর"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.1042,
     "lng": 89.0834,
     "zone": "West"
   },
   {
     "code": "NAV",
-    "name": { "en": "Navaron", "bn": "নাভারণ" },
-    "district": { "en": "Jashore", "bn": "যশোর" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Navaron",
+      "bn": "নাভারণ"
+    },
+    "district": {
+      "en": "Jashore",
+      "bn": "যশোর"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.0784,
     "lng": 89.0123,
     "zone": "West"
   },
   {
     "code": "BEN",
-    "name": { "en": "Benapole", "bn": "বেনাপোল" },
-    "district": { "en": "Jashore", "bn": "যশোর" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Benapole",
+      "bn": "বেনাপোল"
+    },
+    "district": {
+      "en": "Jashore",
+      "bn": "যশোর"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.0416,
     "lng": 88.8974,
     "zone": "West",
@@ -292,36 +571,72 @@
   },
   {
     "code": "NBR",
-    "name": { "en": "Noapara", "bn": "নওয়াপাড়া" },
-    "district": { "en": "Jashore", "bn": "যশোর" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Noapara",
+      "bn": "নওয়াপাড়া"
+    },
+    "district": {
+      "en": "Jashore",
+      "bn": "যশোর"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 23.0125,
     "lng": 89.3789,
     "zone": "West"
   },
   {
     "code": "FLT",
-    "name": { "en": "Phultala", "bn": "ফুলতলা" },
-    "district": { "en": "Khulna", "bn": "খুলনা" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Phultala",
+      "bn": "ফুলতলা"
+    },
+    "district": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 22.9567,
     "lng": 89.4678,
     "zone": "West"
   },
   {
     "code": "DLP",
-    "name": { "en": "Daulatpur", "bn": "দৌলতপুর" },
-    "district": { "en": "Khulna", "bn": "খুলনা" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Daulatpur",
+      "bn": "দৌলতপুর"
+    },
+    "district": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 22.8845,
     "lng": 89.5189,
     "zone": "West"
   },
   {
     "code": "KLN",
-    "name": { "en": "Khulna", "bn": "খুলনা" },
-    "district": { "en": "Khulna", "bn": "খুলনা" },
-    "division": { "en": "Khulna", "bn": "খুলনা" },
+    "name": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
+    "district": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "খুলনা"
+    },
     "lat": 22.8188,
     "lng": 89.5593,
     "zone": "West",
@@ -329,18 +644,36 @@
   },
   {
     "code": "PNG",
-    "name": { "en": "Pangsha", "bn": "পাংশা" },
-    "district": { "en": "Rajbari", "bn": "রাজবাড়ী" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Pangsha",
+      "bn": "পাংশা"
+    },
+    "district": {
+      "en": "Rajbari",
+      "bn": "রাজবাড়ী"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.7912,
     "lng": 89.4215,
     "zone": "West"
   },
   {
     "code": "RJB",
-    "name": { "en": "Rajbari", "bn": "রাজবাড়ী" },
-    "district": { "en": "Rajbari", "bn": "রাজবাড়ী" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Rajbari",
+      "bn": "রাজবাড়ী"
+    },
+    "district": {
+      "en": "Rajbari",
+      "bn": "রাজবাড়ী"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.7578,
     "lng": 89.6489,
     "zone": "West",
@@ -348,27 +681,54 @@
   },
   {
     "code": "GLD",
-    "name": { "en": "Goalondo Ghat", "bn": "গোয়ালন্দ ঘাট" },
-    "district": { "en": "Rajbari", "bn": "রাজবাড়ী" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Goalondo Ghat",
+      "bn": "গোয়ালন্দ ঘাট"
+    },
+    "district": {
+      "en": "Rajbari",
+      "bn": "রাজবাড়ী"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.7423,
     "lng": 89.7612,
     "zone": "West"
   },
   {
     "code": "FRP",
-    "name": { "en": "Faridpur", "bn": "ফরিদপুর" },
-    "district": { "en": "Faridpur", "bn": "ফরিদপুর" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Faridpur",
+      "bn": "ফরিদপুর"
+    },
+    "district": {
+      "en": "Faridpur",
+      "bn": "ফরিদপুর"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.6078,
     "lng": 89.8423,
     "zone": "West"
   },
   {
     "code": "BGM",
-    "name": { "en": "Bhanga Junction", "bn": "ভাঙ্গা জংশন" },
-    "district": { "en": "Faridpur", "bn": "ফরিদপুর" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Bhanga Junction",
+      "bn": "ভাঙ্গা জংশন"
+    },
+    "district": {
+      "en": "Faridpur",
+      "bn": "ফরিদপুর"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.3853,
     "lng": 89.9822,
     "zone": "West",
@@ -376,9 +736,18 @@
   },
   {
     "code": "KSH",
-    "name": { "en": "Kashiani Junction", "bn": "কাশিয়ানী জংশন" },
-    "district": { "en": "Gopalganj", "bn": "গোপালগঞ্জ" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Kashiani Junction",
+      "bn": "কাশিয়ানী জংশন"
+    },
+    "district": {
+      "en": "Gopalganj",
+      "bn": "গোপালগঞ্জ"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.2167,
     "lng": 89.7042,
     "zone": "West",
@@ -386,36 +755,72 @@
   },
   {
     "code": "GOP",
-    "name": { "en": "Gopalganj", "bn": "গোপালগঞ্জ" },
-    "district": { "en": "Gopalganj", "bn": "গোপালগঞ্জ" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Gopalganj",
+      "bn": "গোপালগঞ্জ"
+    },
+    "district": {
+      "en": "Gopalganj",
+      "bn": "গোপালগঞ্জ"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.0064,
     "lng": 89.8289,
     "zone": "West"
   },
   {
     "code": "MAW",
-    "name": { "en": "Mawa (Padma Bridge)", "bn": "মাওয়া (পদ্মা সেতু)" },
-    "district": { "en": "Munshiganj", "bn": "মুন্সিগঞ্জ" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Mawa (Padma Bridge)",
+      "bn": "মাওয়া (পদ্মা সেতু)"
+    },
+    "district": {
+      "en": "Munshiganj",
+      "bn": "মুন্সিগঞ্জ"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.4756,
     "lng": 90.2789,
     "zone": "East"
   },
   {
     "code": "GND",
-    "name": { "en": "Gandaria", "bn": "গেন্ডারিয়া" },
-    "district": { "en": "Dhaka", "bn": "ঢাকা" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Gandaria",
+      "bn": "গেন্ডারিয়া"
+    },
+    "district": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 23.7045,
     "lng": 90.4356,
     "zone": "East"
   },
   {
     "code": "ABR",
-    "name": { "en": "Abdulpur Junction", "bn": "আব্দুলপুর জংশন" },
-    "district": { "en": "Natore", "bn": "নাটোর" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Abdulpur Junction",
+      "bn": "আব্দুলপুর জংশন"
+    },
+    "district": {
+      "en": "Natore",
+      "bn": "নাটোর"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.2812,
     "lng": 88.9412,
     "zone": "West",
@@ -423,9 +828,18 @@
   },
   {
     "code": "RJQ",
-    "name": { "en": "Rajshahi", "bn": "রাজশাহী" },
-    "district": { "en": "Rajshahi", "bn": "রাজশাহী" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
+    "district": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.3745,
     "lng": 88.6042,
     "zone": "West",
@@ -433,45 +847,90 @@
   },
   {
     "code": "RJQ_C",
-    "name": { "en": "Rajshahi Court", "bn": "রাজশাহী কোর্ট" },
-    "district": { "en": "Rajshahi", "bn": "রাজশাহী" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Rajshahi Court",
+      "bn": "রাজশাহী কোর্ট"
+    },
+    "district": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.3689,
     "lng": 88.5712,
     "zone": "West"
   },
   {
     "code": "CPN",
-    "name": { "en": "Chapainawabganj", "bn": "চাঁপাইনবাবগঞ্জ" },
-    "district": { "en": "Chapainawabganj", "bn": "চাঁপাইনবাবগঞ্জ" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Chapainawabganj",
+      "bn": "চাঁপাইনবাবগঞ্জ"
+    },
+    "district": {
+      "en": "Chapainawabganj",
+      "bn": "চাঁপাইনবাবগঞ্জ"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.5932,
     "lng": 88.2712,
     "zone": "West"
   },
   {
     "code": "NAT",
-    "name": { "en": "Natore", "bn": "নাটোর" },
-    "district": { "en": "Natore", "bn": "নাটোর" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Natore",
+      "bn": "নাটোর"
+    },
+    "district": {
+      "en": "Natore",
+      "bn": "নাটোর"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.4177,
     "lng": 88.9868,
     "zone": "West"
   },
   {
     "code": "AHM",
-    "name": { "en": "Ahsanganj", "bn": "আহসানগঞ্জ" },
-    "district": { "en": "Naogaon", "bn": "নওগাঁ" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Ahsanganj",
+      "bn": "আহসানগঞ্জ"
+    },
+    "district": {
+      "en": "Naogaon",
+      "bn": "নওগাঁ"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.6345,
     "lng": 88.9812,
     "zone": "West"
   },
   {
     "code": "SNT",
-    "name": { "en": "Santahar Junction", "bn": "সান্তাহার জংশন" },
-    "district": { "en": "Bogura", "bn": "বগুড়া" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Santahar Junction",
+      "bn": "সান্তাহার জংশন"
+    },
+    "district": {
+      "en": "Bogura",
+      "bn": "বগুড়া"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.7892,
     "lng": 88.9722,
     "zone": "West",
@@ -479,9 +938,18 @@
   },
   {
     "code": "BGR",
-    "name": { "en": "Bogura", "bn": "বগুড়া" },
-    "district": { "en": "Bogura", "bn": "বগুড়া" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Bogura",
+      "bn": "বগুড়া"
+    },
+    "district": {
+      "en": "Bogura",
+      "bn": "বগুড়া"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.8465,
     "lng": 89.3773,
     "zone": "West",
@@ -489,9 +957,18 @@
   },
   {
     "code": "BON",
-    "name": { "en": "Bonarpara Junction", "bn": "বোনারপাড়া জংশন" },
-    "district": { "en": "Gaibandha", "bn": "গাইবান্ধা" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Bonarpara Junction",
+      "bn": "বোনারপাড়া জংশন"
+    },
+    "district": {
+      "en": "Gaibandha",
+      "bn": "গাইবান্ধা"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.1389,
     "lng": 89.4756,
     "zone": "West",
@@ -499,54 +976,108 @@
   },
   {
     "code": "AKL",
-    "name": { "en": "Akkelpur", "bn": "আক্কেলপুর" },
-    "district": { "en": "Joypurhat", "bn": "জয়পুরহাট" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Akkelpur",
+      "bn": "আক্কেলপুর"
+    },
+    "district": {
+      "en": "Joypurhat",
+      "bn": "জয়পুরহাট"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 24.9756,
     "lng": 89.0212,
     "zone": "West"
   },
   {
     "code": "JPT",
-    "name": { "en": "Joypurhat", "bn": "জয়পুরহাট" },
-    "district": { "en": "Joypurhat", "bn": "জয়পুরহাট" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Joypurhat",
+      "bn": "জয়পুরহাট"
+    },
+    "district": {
+      "en": "Joypurhat",
+      "bn": "জয়পুরহাট"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 25.0967,
     "lng": 89.0267,
     "zone": "West"
   },
   {
     "code": "PCH_A",
-    "name": { "en": "Panchbibi", "bn": "পাঁচবিবি" },
-    "district": { "en": "Joypurhat", "bn": "জয়পুরহাট" },
-    "division": { "en": "Rajshahi", "bn": "রাজশাহী" },
+    "name": {
+      "en": "Panchbibi",
+      "bn": "পাঁচবিবি"
+    },
+    "district": {
+      "en": "Joypurhat",
+      "bn": "জয়পুরহাট"
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
     "lat": 25.1956,
     "lng": 89.0189,
     "zone": "West"
   },
   {
     "code": "BRP",
-    "name": { "en": "Birampur", "bn": "বিরামপুর" },
-    "district": { "en": "Dinajpur", "bn": "দিনাজপুর" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Birampur",
+      "bn": "বিরামপুর"
+    },
+    "district": {
+      "en": "Dinajpur",
+      "bn": "দিনাজপুর"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.3956,
     "lng": 88.9042,
     "zone": "West"
   },
   {
     "code": "FLB",
-    "name": { "en": "Fulbari", "bn": "ফুলবাড়ী" },
-    "district": { "en": "Dinajpur", "bn": "দিনাজপুর" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Fulbari",
+      "bn": "ফুলবাড়ী"
+    },
+    "district": {
+      "en": "Dinajpur",
+      "bn": "দিনাজপুর"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.5034,
     "lng": 88.8872,
     "zone": "West"
   },
   {
     "code": "PRB",
-    "name": { "en": "Parbatipur Junction", "bn": "পার্বতীপুর জংশন" },
-    "district": { "en": "Dinajpur", "bn": "দিনাজপুর" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Parbatipur Junction",
+      "bn": "পার্বতীপুর জংশন"
+    },
+    "district": {
+      "en": "Dinajpur",
+      "bn": "দিনাজপুর"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.6678,
     "lng": 88.9172,
     "zone": "West",
@@ -554,9 +1085,18 @@
   },
   {
     "code": "DNJ",
-    "name": { "en": "Dinajpur", "bn": "দিনাজপুর" },
-    "district": { "en": "Dinajpur", "bn": "দিনাজপুর" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Dinajpur",
+      "bn": "দিনাজপুর"
+    },
+    "district": {
+      "en": "Dinajpur",
+      "bn": "দিনাজপুর"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.6217,
     "lng": 88.6358,
     "zone": "West",
@@ -564,36 +1104,72 @@
   },
   {
     "code": "SET",
-    "name": { "en": "Setabganj", "bn": "সেতাবগঞ্জ" },
-    "district": { "en": "Dinajpur", "bn": "দিনাজপুর" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Setabganj",
+      "bn": "সেতাবগঞ্জ"
+    },
+    "district": {
+      "en": "Dinajpur",
+      "bn": "দিনাজপুর"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.8642,
     "lng": 88.4689,
     "zone": "West"
   },
   {
     "code": "PRD_P",
-    "name": { "en": "Pirganj", "bn": "পীরগঞ্জ" },
-    "district": { "en": "Thakurgaon", "bn": "ঠাকুরগাঁও" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Pirganj",
+      "bn": "পীরগঞ্জ"
+    },
+    "district": {
+      "en": "Thakurgaon",
+      "bn": "ঠাকুরগাঁও"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.8567,
     "lng": 88.3612,
     "zone": "West"
   },
   {
     "code": "TKH",
-    "name": { "en": "Thakurgaon Road", "bn": "ঠাকুরগাঁও রোড" },
-    "district": { "en": "Thakurgaon", "bn": "ঠাকুরগাঁও" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Thakurgaon Road",
+      "bn": "ঠাকুরগাঁও রোড"
+    },
+    "district": {
+      "en": "Thakurgaon",
+      "bn": "ঠাকুরগাঁও"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 26.0356,
     "lng": 88.4678,
     "zone": "West"
   },
   {
     "code": "PCH",
-    "name": { "en": "Panchagarh (Bir Muktijoddha Sirajul Islam)", "bn": "পঞ্চগড় (বীর মুক্তিযোদ্ধা সিরাজুল ইসলাম)" },
-    "district": { "en": "Panchagarh", "bn": "পঞ্চগড়" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Panchagarh (Bir Muktijoddha Sirajul Islam)",
+      "bn": "পঞ্চগড় (বীর মুক্তিযোদ্ধা সিরাজুল ইসলাম)"
+    },
+    "district": {
+      "en": "Panchagarh",
+      "bn": "পঞ্চগড়"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 26.3354,
     "lng": 88.5516,
     "zone": "West",
@@ -601,9 +1177,18 @@
   },
   {
     "code": "SAI",
-    "name": { "en": "Saidpur", "bn": "সৈয়দপুর" },
-    "district": { "en": "Nilphamari", "bn": "নীলফামারী" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Saidpur",
+      "bn": "সৈয়দপুর"
+    },
+    "district": {
+      "en": "Nilphamari",
+      "bn": "নীলফামারী"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.7789,
     "lng": 88.8923,
     "zone": "West",
@@ -611,27 +1196,54 @@
   },
   {
     "code": "NLP",
-    "name": { "en": "Nilphamari", "bn": "নীলফামারী" },
-    "district": { "en": "Nilphamari", "bn": "নীলফামারী" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Nilphamari",
+      "bn": "নীলফামারী"
+    },
+    "district": {
+      "en": "Nilphamari",
+      "bn": "নীলফামারী"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.9312,
     "lng": 88.8456,
     "zone": "West"
   },
   {
     "code": "DOM",
-    "name": { "en": "Domar", "bn": "ডোমার" },
-    "district": { "en": "Nilphamari", "bn": "নীলফামারী" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Domar",
+      "bn": "ডোমার"
+    },
+    "district": {
+      "en": "Nilphamari",
+      "bn": "নীলফামারী"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 26.0967,
     "lng": 88.8356,
     "zone": "West"
   },
   {
     "code": "CHL",
-    "name": { "en": "Chilahati", "bn": "চিলাহাটি" },
-    "district": { "en": "Nilphamari", "bn": "নীলফামারী" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Chilahati",
+      "bn": "চিলাহাটি"
+    },
+    "district": {
+      "en": "Nilphamari",
+      "bn": "নীলফামারী"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 26.3125,
     "lng": 88.7956,
     "zone": "West",
@@ -639,9 +1251,18 @@
   },
   {
     "code": "RNP",
-    "name": { "en": "Rangpur", "bn": "রংপুর" },
-    "district": { "en": "Rangpur", "bn": "রংপুর" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
+    "district": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.7439,
     "lng": 89.2752,
     "zone": "West",
@@ -649,9 +1270,18 @@
   },
   {
     "code": "KUN",
-    "name": { "en": "Kaunia Junction", "bn": "কাউনিয়া জংশন" },
-    "district": { "en": "Rangpur", "bn": "রংপুর" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Kaunia Junction",
+      "bn": "কাউনিয়া জংশন"
+    },
+    "district": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.7689,
     "lng": 89.4189,
     "zone": "West",
@@ -659,9 +1289,18 @@
   },
   {
     "code": "LAL",
-    "name": { "en": "Lalmonirhat", "bn": "লালমনিরহাট" },
-    "district": { "en": "Lalmonirhat", "bn": "লালমনিরহাট" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Lalmonirhat",
+      "bn": "লালমনিরহাট"
+    },
+    "district": {
+      "en": "Lalmonirhat",
+      "bn": "লালমনিরহাট"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.9189,
     "lng": 89.4478,
     "zone": "West",
@@ -669,45 +1308,90 @@
   },
   {
     "code": "KGM",
-    "name": { "en": "Kurigram", "bn": "কুড়িগ্রাম" },
-    "district": { "en": "Kurigram", "bn": "কুড়িগ্রাম" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Kurigram",
+      "bn": "কুড়িগ্রাম"
+    },
+    "district": {
+      "en": "Kurigram",
+      "bn": "কুড়িগ্রাম"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.8073,
     "lng": 89.6362,
     "zone": "West"
   },
   {
     "code": "GIB",
-    "name": { "en": "Gaibandha", "bn": "গাইবান্ধা" },
-    "district": { "en": "Gaibandha", "bn": "গাইবান্ধা" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Gaibandha",
+      "bn": "গাইবান্ধা"
+    },
+    "district": {
+      "en": "Gaibandha",
+      "bn": "গাইবান্ধা"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.3289,
     "lng": 89.5412,
     "zone": "West"
   },
   {
     "code": "BAM",
-    "name": { "en": "Bamandanga", "bn": "বামনডাঙ্গা" },
-    "district": { "en": "Gaibandha", "bn": "গাইবান্ধা" },
-    "division": { "en": "Rangpur", "bn": "রংপুর" },
+    "name": {
+      "en": "Bamandanga",
+      "bn": "বামনডাঙ্গা"
+    },
+    "district": {
+      "en": "Gaibandha",
+      "bn": "গাইবান্ধা"
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
     "lat": 25.5612,
     "lng": 89.5089,
     "zone": "West"
   },
   {
     "code": "GFG",
-    "name": { "en": "Gafargaon", "bn": "গফরগাঁও" },
-    "district": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Gafargaon",
+      "bn": "গফরগাঁও"
+    },
+    "district": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 24.4312,
     "lng": 90.5512,
     "zone": "East"
   },
   {
     "code": "MYM",
-    "name": { "en": "Mymensingh Junction", "bn": "ময়মনসিংহ জংশন" },
-    "district": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Mymensingh Junction",
+      "bn": "ময়মনসিংহ জংশন"
+    },
+    "district": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 24.7578,
     "lng": 90.4072,
     "zone": "East",
@@ -715,18 +1399,36 @@
   },
   {
     "code": "PPL",
-    "name": { "en": "Piarpur", "bn": "পিয়ারপুর" },
-    "district": { "en": "Jamalpur", "bn": "জামালপুর" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Piarpur",
+      "bn": "পিয়ারপুর"
+    },
+    "district": {
+      "en": "Jamalpur",
+      "bn": "জামালপুর"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 24.8412,
     "lng": 90.1245,
     "zone": "East"
   },
   {
     "code": "JML",
-    "name": { "en": "Jamalpur Town", "bn": "জামালপুর টাউন" },
-    "district": { "en": "Jamalpur", "bn": "জামালপুর" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Jamalpur Town",
+      "bn": "জামালপুর টাউন"
+    },
+    "district": {
+      "en": "Jamalpur",
+      "bn": "জামালপুর"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 24.9197,
     "lng": 89.9481,
     "zone": "East",
@@ -734,54 +1436,108 @@
   },
   {
     "code": "ISL",
-    "name": { "en": "Islampur Bazar", "bn": "ইসলামপুর বাজার" },
-    "district": { "en": "Jamalpur", "bn": "জামালপুর" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Islampur Bazar",
+      "bn": "ইসলামপুর বাজার"
+    },
+    "district": {
+      "en": "Jamalpur",
+      "bn": "জামালপুর"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 25.0845,
     "lng": 89.7892,
     "zone": "East"
   },
   {
     "code": "DEW",
-    "name": { "en": "Dewanganj Bazar", "bn": "দেওয়ানগঞ্জ বাজার" },
-    "district": { "en": "Jamalpur", "bn": "জামালপুর" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Dewanganj Bazar",
+      "bn": "দেওয়ানগঞ্জ বাজার"
+    },
+    "district": {
+      "en": "Jamalpur",
+      "bn": "জামালপুর"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 25.1412,
     "lng": 89.7612,
     "zone": "East"
   },
   {
     "code": "TRK",
-    "name": { "en": "Tarakandi", "bn": "তারাকান্দি" },
-    "district": { "en": "Jamalpur", "bn": "জামালপুর" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Tarakandi",
+      "bn": "তারাকান্দি"
+    },
+    "district": {
+      "en": "Jamalpur",
+      "bn": "জামালপুর"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 24.7123,
     "lng": 89.8789,
     "zone": "East"
   },
   {
     "code": "NET",
-    "name": { "en": "Netrokona", "bn": "নেত্রকোণা" },
-    "district": { "en": "Netrokona", "bn": "নেত্রকোণা" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Netrokona",
+      "bn": "নেত্রকোণা"
+    },
+    "district": {
+      "en": "Netrokona",
+      "bn": "নেত্রকোণা"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 24.8845,
     "lng": 90.7289,
     "zone": "East"
   },
   {
     "code": "MOH",
-    "name": { "en": "Mohanganj", "bn": "মোহনগঞ্জ" },
-    "district": { "en": "Netrokona", "bn": "নেত্রকোণা" },
-    "division": { "en": "Mymensingh", "bn": "ময়মনসিংহ" },
+    "name": {
+      "en": "Mohanganj",
+      "bn": "মোহনগঞ্জ"
+    },
+    "district": {
+      "en": "Netrokona",
+      "bn": "নেত্রকোণা"
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
     "lat": 24.8712,
     "lng": 90.9654,
     "zone": "East"
   },
   {
     "code": "BHB",
-    "name": { "en": "Bhairab Bazar Junction", "bn": "ভৈরব বাজার জংশন" },
-    "district": { "en": "Kishoreganj", "bn": "কিশোরগঞ্জ" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Bhairab Bazar Junction",
+      "bn": "ভৈরব বাজার জংশন"
+    },
+    "district": {
+      "en": "Kishoreganj",
+      "bn": "কিশোরগঞ্জ"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 24.0504,
     "lng": 90.9858,
     "zone": "East",
@@ -789,36 +1545,72 @@
   },
   {
     "code": "KSG",
-    "name": { "en": "Kishoreganj", "bn": "কিশোরগঞ্জ" },
-    "district": { "en": "Kishoreganj", "bn": "কিশোরগঞ্জ" },
-    "division": { "en": "Dhaka", "bn": "ঢাকা" },
+    "name": {
+      "en": "Kishoreganj",
+      "bn": "কিশোরগঞ্জ"
+    },
+    "district": {
+      "en": "Kishoreganj",
+      "bn": "কিশোরগঞ্জ"
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
     "lat": 24.4331,
     "lng": 90.7829,
     "zone": "East"
   },
   {
     "code": "ASH",
-    "name": { "en": "Ashuganj", "bn": "আশুগঞ্জ" },
-    "district": { "en": "Brahmanbaria", "bn": "ব্রাহ্মণবাড়িয়া" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Ashuganj",
+      "bn": "আশুগঞ্জ"
+    },
+    "district": {
+      "en": "Brahmanbaria",
+      "bn": "ব্রাহ্মণবাড়িয়া"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 24.0321,
     "lng": 91.0112,
     "zone": "East"
   },
   {
     "code": "BBR",
-    "name": { "en": "Brahmanbaria", "bn": "ব্রাহ্মণবাড়িয়া" },
-    "district": { "en": "Brahmanbaria", "bn": "ব্রাহ্মণবাড়িয়া" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Brahmanbaria",
+      "bn": "ব্রাহ্মণবাড়িয়া"
+    },
+    "district": {
+      "en": "Brahmanbaria",
+      "bn": "ব্রাহ্মণবাড়িয়া"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 23.9608,
     "lng": 91.1115,
     "zone": "East"
   },
   {
     "code": "AKH",
-    "name": { "en": "Akhaura Junction", "bn": "আখাউড়া জংশন" },
-    "district": { "en": "Brahmanbaria", "bn": "ব্রাহ্মণবাড়িয়া" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Akhaura Junction",
+      "bn": "আখাউড়া জংশন"
+    },
+    "district": {
+      "en": "Brahmanbaria",
+      "bn": "ব্রাহ্মণবাড়িয়া"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 23.8698,
     "lng": 91.2131,
     "zone": "East",
@@ -826,27 +1618,54 @@
   },
   {
     "code": "CSH",
-    "name": { "en": "Kasba", "bn": "কসবা" },
-    "district": { "en": "Brahmanbaria", "bn": "ব্রাহ্মণবাড়িয়া" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Kasba",
+      "bn": "কসবা"
+    },
+    "district": {
+      "en": "Brahmanbaria",
+      "bn": "ব্রাহ্মণবাড়িয়া"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 23.7345,
     "lng": 91.1678,
     "zone": "East"
   },
   {
     "code": "CML",
-    "name": { "en": "Cumilla", "bn": "কুমিল্লা" },
-    "district": { "en": "Cumilla", "bn": "কুমিল্লা" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Cumilla",
+      "bn": "কুমিল্লা"
+    },
+    "district": {
+      "en": "Cumilla",
+      "bn": "কুমিল্লা"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 23.4607,
     "lng": 91.1809,
     "zone": "East"
   },
   {
     "code": "LKS",
-    "name": { "en": "Laksham Junction", "bn": "লাকসাম জংশন" },
-    "district": { "en": "Cumilla", "bn": "কুমিল্লা" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Laksham Junction",
+      "bn": "লাকসাম জংশন"
+    },
+    "district": {
+      "en": "Cumilla",
+      "bn": "কুমিল্লা"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 23.2389,
     "lng": 91.1245,
     "zone": "East",
@@ -854,9 +1673,18 @@
   },
   {
     "code": "FEN",
-    "name": { "en": "Feni Junction", "bn": "ফেনী জংশন" },
-    "district": { "en": "Feni", "bn": "ফেনী" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Feni Junction",
+      "bn": "ফেনী জংশন"
+    },
+    "district": {
+      "en": "Feni",
+      "bn": "ফেনী"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 23.0186,
     "lng": 91.3966,
     "zone": "East",
@@ -864,18 +1692,36 @@
   },
   {
     "code": "STR",
-    "name": { "en": "Sitakunda", "bn": "সীতাকুণ্ড" },
-    "district": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Sitakunda",
+      "bn": "সীতাকুণ্ড"
+    },
+    "district": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 22.6178,
     "lng": 91.6612,
     "zone": "East"
   },
   {
     "code": "CTG",
-    "name": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
-    "district": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
+    "district": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 22.3359,
     "lng": 91.8213,
     "zone": "East",
@@ -883,54 +1729,108 @@
   },
   {
     "code": "DOH",
-    "name": { "en": "Dohazari", "bn": "দোহাজারী" },
-    "district": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Dohazari",
+      "bn": "দোহাজারী"
+    },
+    "district": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 22.1645,
     "lng": 92.0678,
     "zone": "East"
   },
   {
     "code": "LOH",
-    "name": { "en": "Lohagara", "bn": "লোহাগাড়া" },
-    "district": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Lohagara",
+      "bn": "লোহাগাড়া"
+    },
+    "district": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 21.9845,
     "lng": 92.1245,
     "zone": "East"
   },
   {
     "code": "CKR",
-    "name": { "en": "Chakaria", "bn": "চকোরিয়া" },
-    "district": { "en": "Cox's Bazar", "bn": "কক্সবাজার" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Chakaria",
+      "bn": "চকোরিয়া"
+    },
+    "district": {
+      "en": "Cox's Bazar",
+      "bn": "কক্সবাজার"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 21.7845,
     "lng": 92.0789,
     "zone": "East"
   },
   {
     "code": "DUL",
-    "name": { "en": "Dulahazara", "bn": "ডুলাহাজারা" },
-    "district": { "en": "Cox's Bazar", "bn": "কক্সবাজার" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Dulahazara",
+      "bn": "ডুলাহাজারা"
+    },
+    "district": {
+      "en": "Cox's Bazar",
+      "bn": "কক্সবাজার"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 21.6845,
     "lng": 92.0512,
     "zone": "East"
   },
   {
     "code": "RMU",
-    "name": { "en": "Ramu", "bn": "রামু" },
-    "district": { "en": "Cox's Bazar", "bn": "কক্সবাজার" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Ramu",
+      "bn": "রামু"
+    },
+    "district": {
+      "en": "Cox's Bazar",
+      "bn": "কক্সবাজার"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 21.4312,
     "lng": 92.1012,
     "zone": "East"
   },
   {
     "code": "COX",
-    "name": { "en": "Cox's Bazar (Iconic)", "bn": "কক্সবাজার (আইকনিক)" },
-    "district": { "en": "Cox's Bazar", "bn": "কক্সবাজার" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Cox's Bazar (Iconic)",
+      "bn": "কক্সবাজার (আইকনিক)"
+    },
+    "district": {
+      "en": "Cox's Bazar",
+      "bn": "কক্সবাজার"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 21.4647,
     "lng": 91.9866,
     "zone": "East",
@@ -938,18 +1838,36 @@
   },
   {
     "code": "NOA",
-    "name": { "en": "Noakhali", "bn": "নোয়াখালী" },
-    "district": { "en": "Noakhali", "bn": "নোয়াখালী" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Noakhali",
+      "bn": "নোয়াখালী"
+    },
+    "district": {
+      "en": "Noakhali",
+      "bn": "নোয়াখালী"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 22.8712,
     "lng": 91.0989,
     "zone": "East"
   },
   {
     "code": "CHP",
-    "name": { "en": "Chandpur", "bn": "চাঁদপুর" },
-    "district": { "en": "Chandpur", "bn": "চাঁদপুর" },
-    "division": { "en": "Chattogram", "bn": "চট্টগ্রাম" },
+    "name": {
+      "en": "Chandpur",
+      "bn": "চাঁদপুর"
+    },
+    "district": {
+      "en": "Chandpur",
+      "bn": "চাঁদপুর"
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "চট্টগ্রাম"
+    },
     "lat": 23.2312,
     "lng": 90.6612,
     "zone": "East",
@@ -957,9 +1875,18 @@
   },
   {
     "code": "SHA",
-    "name": { "en": "Shayestaganj Junction", "bn": "শায়েস্তাগঞ্জ জংশন" },
-    "district": { "en": "Habiganj", "bn": "হবিগঞ্জ" },
-    "division": { "en": "Sylhet", "bn": "সিলেট" },
+    "name": {
+      "en": "Shayestaganj Junction",
+      "bn": "শায়েস্তাগঞ্জ জংশন"
+    },
+    "district": {
+      "en": "Habiganj",
+      "bn": "হবিগঞ্জ"
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
     "lat": 24.2678,
     "lng": 91.4612,
     "zone": "East",
@@ -967,27 +1894,54 @@
   },
   {
     "code": "SRM",
-    "name": { "en": "Sreemangal", "bn": "শ্রীমঙ্গল" },
-    "district": { "en": "Moulvibazar", "bn": "মৌলভীবাজার" },
-    "division": { "en": "Sylhet", "bn": "সিলেট" },
+    "name": {
+      "en": "Sreemangal",
+      "bn": "শ্রীমঙ্গল"
+    },
+    "district": {
+      "en": "Moulvibazar",
+      "bn": "মৌলভীবাজার"
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
     "lat": 24.3065,
     "lng": 91.7315,
     "zone": "East"
   },
   {
     "code": "BNG",
-    "name": { "en": "Bhanugach", "bn": "ভানুগাছ" },
-    "district": { "en": "Moulvibazar", "bn": "মৌলভীবাজার" },
-    "division": { "en": "Sylhet", "bn": "সিলেট" },
+    "name": {
+      "en": "Bhanugach",
+      "bn": "ভানুগাছ"
+    },
+    "district": {
+      "en": "Moulvibazar",
+      "bn": "মৌলভীবাজার"
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
     "lat": 24.3789,
     "lng": 91.8312,
     "zone": "East"
   },
   {
     "code": "KLR",
-    "name": { "en": "Kulaura Junction", "bn": "কুলাউড়া জংশন" },
-    "district": { "en": "Moulvibazar", "bn": "মৌলভীবাজার" },
-    "division": { "en": "Sylhet", "bn": "সিলেট" },
+    "name": {
+      "en": "Kulaura Junction",
+      "bn": "কুলাউড়া জংশন"
+    },
+    "district": {
+      "en": "Moulvibazar",
+      "bn": "মৌলভীবাজার"
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
     "lat": 24.5123,
     "lng": 92.0345,
     "zone": "East",
@@ -995,21 +1949,5727 @@
   },
   {
     "code": "MRC",
-    "name": { "en": "Maijgaon", "bn": "মাইজগাঁও" },
-    "district": { "en": "Sylhet", "bn": "সিলেট" },
-    "division": { "en": "Sylhet", "bn": "সিলেট" },
+    "name": {
+      "en": "Maijgaon",
+      "bn": "মাইজগাঁও"
+    },
+    "district": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
     "lat": 24.7123,
     "lng": 91.9567,
     "zone": "East"
   },
   {
     "code": "SYL",
-    "name": { "en": "Sylhet", "bn": "সিলেট" },
-    "district": { "en": "Sylhet", "bn": "সিলেট" },
-    "division": { "en": "Sylhet", "bn": "সিলেট" },
+    "name": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
+    "district": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
     "lat": 24.8829,
     "lng": 91.8702,
     "zone": "East",
     "isMajorJunction": true
+  },
+  {
+    "code": "DNC",
+    "name": {
+      "en": "Dhaka Cantonment",
+      "bn": "ঢাকা ক্যান্টনমেন্ট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.81732500845,
+    "lng": 90.411102836356,
+    "zone": "East"
+  },
+  {
+    "code": "GNZ",
+    "name": {
+      "en": "Gendaria",
+      "bn": "গেন্ডারিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.701598891355,
+    "lng": 90.429249137777,
+    "zone": "East"
+  },
+  {
+    "code": "PUB",
+    "name": {
+      "en": "Pubail",
+      "bn": "পুবাইল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.9362991037229,
+    "lng": 90.4784044827251,
+    "zone": "East"
+  },
+  {
+    "code": "ARI",
+    "name": {
+      "en": "Arikhola",
+      "bn": "আড়িখোলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.928714140627,
+    "lng": 90.554124866584,
+    "zone": "East"
+  },
+  {
+    "code": "NRD",
+    "name": {
+      "en": "Narsingdi",
+      "bn": "নরসিংদী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.930999204672,
+    "lng": 90.721154501451,
+    "zone": "East"
+  },
+  {
+    "code": "SRI",
+    "name": {
+      "en": "Sarishabari",
+      "bn": "সরিষাবাড়ী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Mymensingh",
+      "bn": "Mymensingh"
+    },
+    "lat": 24.760979343088,
+    "lng": 89.840025997505,
+    "zone": "East"
+  },
+  {
+    "code": "BJ",
+    "name": {
+      "en": "Bajitpur",
+      "bn": "বাজিতপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 24.200376912826,
+    "lng": 90.914584898031,
+    "zone": "East"
+  },
+  {
+    "code": "QAS",
+    "name": {
+      "en": "Quasba",
+      "bn": "কসবা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 23.740337715172,
+    "lng": 91.155765649884,
+    "zone": "East"
+  },
+  {
+    "code": "SLND",
+    "name": {
+      "en": "Shaldanadi",
+      "bn": "শালদানদী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 23.670818338406,
+    "lng": 91.155868105007,
+    "zone": "East"
+  },
+  {
+    "code": "NAK",
+    "name": {
+      "en": "Nangalkot",
+      "bn": "নাঙ্গলকোট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 23.16543208093,
+    "lng": 91.201346166772,
+    "zone": "East"
+  },
+  {
+    "code": "LKM",
+    "name": {
+      "en": "Laksam Jn",
+      "bn": "লাকসাম জং"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 23.254988129762,
+    "lng": 91.124686852781,
+    "zone": "East"
+  },
+  {
+    "code": "SON",
+    "name": {
+      "en": "Sonaimuri",
+      "bn": "সোনাইমুড়ী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 23.040660860269,
+    "lng": 91.097913595605,
+    "zone": "East"
+  },
+  {
+    "code": "MJZ",
+    "name": {
+      "en": "Maijdee Court",
+      "bn": "মাইজদী কোর্ট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 22.860892451477,
+    "lng": 91.104884509351,
+    "zone": "East"
+  },
+  {
+    "code": "BQM",
+    "name": {
+      "en": "Bhatiari",
+      "bn": "ভাটিয়ারী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 22.429969167396,
+    "lng": 91.74893637509,
+    "zone": "East"
+  },
+  {
+    "code": "MJM",
+    "name": {
+      "en": "Hajiganj",
+      "bn": "হাজীগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 23.25855187607,
+    "lng": 90.844737155145,
+    "zone": "East"
+  },
+  {
+    "code": "SGA",
+    "name": {
+      "en": "Shaistaganj",
+      "bn": "শায়েস্তাগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "Sylhet"
+    },
+    "lat": 24.278059458309,
+    "lng": 91.449942037968,
+    "zone": "East"
+  },
+  {
+    "code": "SRG",
+    "name": {
+      "en": "Srimangal",
+      "bn": "শ্রীমঙ্গল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "Sylhet"
+    },
+    "lat": 24.306543422721,
+    "lng": 91.734762966805,
+    "zone": "East"
+  },
+  {
+    "code": "BRL",
+    "name": {
+      "en": "Baramchal",
+      "bn": "বরমচাল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "Sylhet"
+    },
+    "lat": 24.588051006248,
+    "lng": 91.980178275482,
+    "zone": "East"
+  },
+  {
+    "code": "JMD",
+    "name": {
+      "en": "Jamtoil",
+      "bn": "জামতৈল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "Rajshahi"
+    },
+    "lat": 24.361709782393,
+    "lng": 89.660040019181,
+    "zone": "West"
+  },
+  {
+    "code": "AMN",
+    "name": {
+      "en": "Amnura Jn",
+      "bn": "আমনুরা জং"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "Rajshahi"
+    },
+    "lat": 24.624716358947,
+    "lng": 88.399097827437,
+    "zone": "West"
+  },
+  {
+    "code": "BDR",
+    "name": {
+      "en": "Badarganj",
+      "bn": "বদরগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "Rangpur"
+    },
+    "lat": 25.672934792135,
+    "lng": 89.057439154399,
+    "zone": "West"
+  },
+  {
+    "code": "RU",
+    "name": {
+      "en": "Ruhea",
+      "bn": "রুহিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "Rangpur"
+    },
+    "lat": 26.168274108435,
+    "lng": 88.405478563489,
+    "zone": "West"
+  },
+  {
+    "code": "POR",
+    "name": {
+      "en": "Poradah Jn",
+      "bn": "পোড়াদহ জং"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "Khulna"
+    },
+    "lat": 23.864715167046,
+    "lng": 89.032688137956,
+    "zone": "West"
+  },
+  {
+    "code": "KOT",
+    "name": {
+      "en": "Kot Chandpur",
+      "bn": "কোট চাঁদপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "Khulna"
+    },
+    "lat": 23.415605033623,
+    "lng": 89.014466778168,
+    "zone": "West"
+  },
+  {
+    "code": "MGL",
+    "name": {
+      "en": "Mongla",
+      "bn": "মোংলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "Khulna"
+    },
+    "lat": 22.477466774135,
+    "lng": 89.599428872546,
+    "zone": "West"
+  },
+  {
+    "code": "AKHA",
+    "name": {
+      "en": "Akhanagar",
+      "bn": "আখানগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.098879247963,
+    "lng": 88.391266434272,
+    "zone": "West"
+  },
+  {
+    "code": "AMI",
+    "name": {
+      "en": "Amirabad",
+      "bn": "আমিরাবাদ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.639690817189,
+    "lng": 89.744243201428,
+    "zone": "West"
+  },
+  {
+    "code": "ARA",
+    "name": {
+      "en": "Arani",
+      "bn": "আড়ানি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.29163737066,
+    "lng": 88.881843297514,
+    "zone": "West"
+  },
+  {
+    "code": "ATH",
+    "name": {
+      "en": "Atharabari",
+      "bn": "আঠারবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.64141942984,
+    "lng": 90.714368760166,
+    "zone": "East"
+  },
+  {
+    "code": "AZA",
+    "name": {
+      "en": "Azampur",
+      "bn": "আজমপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.893665294777,
+    "lng": 91.221842398551,
+    "zone": "East"
+  },
+  {
+    "code": "AZI",
+    "name": {
+      "en": "Azim Nagar",
+      "bn": "আজিম নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.206791435686,
+    "lng": 89.006187815055,
+    "zone": "West"
+  },
+  {
+    "code": "BAD",
+    "name": {
+      "en": "Badherhat",
+      "bn": "বাধেরহাট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.897244133961,
+    "lng": 89.63692217145,
+    "zone": "West"
+  },
+  {
+    "code": "BADI",
+    "name": {
+      "en": "Badiakhali",
+      "bn": "বাদিয়াখালী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.236033094072,
+    "lng": 89.54392782182,
+    "zone": "West"
+  },
+  {
+    "code": "BAH",
+    "name": {
+      "en": "Baharpur",
+      "bn": "বাহারপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.687097459082,
+    "lng": 89.563516035867,
+    "zone": "West"
+  },
+  {
+    "code": "BAJ",
+    "name": {
+      "en": "Bajra",
+      "bn": "বাজরা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.992606651619,
+    "lng": 91.100590229843,
+    "zone": "East"
+  },
+  {
+    "code": "BAMO",
+    "name": {
+      "en": "Bamondanga",
+      "bn": "বামনডাঙ্গা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.533027980179,
+    "lng": 89.447713629358,
+    "zone": "West"
+  },
+  {
+    "code": "BAR",
+    "name": {
+      "en": "Barhatta",
+      "bn": "বারহাট্টা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.897884757441,
+    "lng": 90.881560210583,
+    "zone": "East"
+  },
+  {
+    "code": "BARK",
+    "name": {
+      "en": "Barkhata",
+      "bn": "বড়খাতা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.20316603264,
+    "lng": 89.11304567572,
+    "zone": "West"
+  },
+  {
+    "code": "BAU",
+    "name": {
+      "en": "Baura",
+      "bn": "বাউরা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.206145559253,
+    "lng": 89.127031775947,
+    "zone": "West"
+  },
+  {
+    "code": "BFA",
+    "name": {
+      "en": "Bhomradah",
+      "bn": "ভোমরাদহ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.9332841282522,
+    "lng": 88.3671748362511,
+    "zone": "West"
+  },
+  {
+    "code": "BHO",
+    "name": {
+      "en": "Bhotmari",
+      "bn": "ভোটমারী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.029766194669,
+    "lng": 89.170353445122,
+    "zone": "West"
+  },
+  {
+    "code": "BHU",
+    "name": {
+      "en": "Bhuapur",
+      "bn": "ভুয়াপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 24.467766707629,
+    "lng": 89.867453778203,
+    "zone": "West"
+  },
+  {
+    "code": "BID",
+    "name": {
+      "en": "Bidyaganj",
+      "bn": "বিদ্যাগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.82412860218,
+    "lng": 90.259433287963,
+    "zone": "East"
+  },
+  {
+    "code": "BIRO",
+    "name": {
+      "en": "Birol",
+      "bn": "বিরোল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.63541815974,
+    "lng": 88.539431203369,
+    "zone": "West"
+  },
+  {
+    "code": "BOA",
+    "name": {
+      "en": "Boalmari Bazar",
+      "bn": "বোয়ালমারী বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.389831177151,
+    "lng": 89.687668162819,
+    "zone": "West"
+  },
+  {
+    "code": "BOR",
+    "name": {
+      "en": "Borashi",
+      "bn": "বড়াশি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.995056513361,
+    "lng": 89.842812576301,
+    "zone": "West"
+  },
+  {
+    "code": "BUR",
+    "name": {
+      "en": "Burimari",
+      "bn": "বুড়িমারী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Rangpur",
+      "bn": "Rangpur"
+    },
+    "lat": 26.396287351385,
+    "lng": 88.935258272705,
+    "zone": "West"
+  },
+  {
+    "code": "CHAN",
+    "name": {
+      "en": "Chandpur Court",
+      "bn": "চাঁদপুর কোর্ট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.225544135508,
+    "lng": 90.655179338687,
+    "zone": "East"
+  },
+  {
+    "code": "CH",
+    "name": {
+      "en": "Chandradighalia",
+      "bn": "চন্দ্রদিঘালিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.073325867424,
+    "lng": 89.776021177322,
+    "zone": "West"
+  },
+  {
+    "code": "CHAP",
+    "name": {
+      "en": "Chapta",
+      "bn": "চাপতা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.197936597491,
+    "lng": 89.752171302199,
+    "zone": "West"
+  },
+  {
+    "code": "CHI",
+    "name": {
+      "en": "Chirirbandar",
+      "bn": "চিরিরবন্দর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.646014202939,
+    "lng": 88.776118734061,
+    "zone": "West"
+  },
+  {
+    "code": "CHIT",
+    "name": {
+      "en": "Chitoshi Road",
+      "bn": "চিতোশী রোড"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.235851868524,
+    "lng": 91.029978353035,
+    "zone": "East"
+  },
+  {
+    "code": "CHO",
+    "name": {
+      "en": "Choto Bahirbag",
+      "bn": "ছোট বাহিরবাগ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.141090425481,
+    "lng": 89.781960233978,
+    "zone": "West"
+  },
+  {
+    "code": "CHOU",
+    "name": {
+      "en": "Choumuhani",
+      "bn": "চৌমুহনী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 22.944017426305,
+    "lng": 91.121168313469,
+    "zone": "East"
+  },
+  {
+    "code": "DHA",
+    "name": {
+      "en": "Dhalarchar",
+      "bn": "ধলার চর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.840841686163,
+    "lng": 89.668621691673,
+    "zone": "West"
+  },
+  {
+    "code": "DUB",
+    "name": {
+      "en": "Dublia",
+      "bn": "দুবলিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.977707161302,
+    "lng": 89.371034345896,
+    "zone": "West"
+  },
+  {
+    "code": "GOM",
+    "name": {
+      "en": "GOMDANDI",
+      "bn": "গোমদণ্ডী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.37833750867,
+    "lng": 91.917444845846,
+    "zone": "East"
+  },
+  {
+    "code": "GAC",
+    "name": {
+      "en": "Gachihata",
+      "bn": "গাছিহাটা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.34233625391,
+    "lng": 90.825047507035,
+    "zone": "East"
+  },
+  {
+    "code": "GOB",
+    "name": {
+      "en": "Gobra",
+      "bn": "গোবরা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.9479356570606,
+    "lng": 89.8292056711644,
+    "zone": "West"
+  },
+  {
+    "code": "GOU",
+    "name": {
+      "en": "Gouripur Myn",
+      "bn": "গৌরীপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.76406142687,
+    "lng": 90.566011780067,
+    "zone": "East"
+  },
+  {
+    "code": "GUN",
+    "name": {
+      "en": "Gunabati",
+      "bn": "গুণবতী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.08775729143,
+    "lng": 91.29788760514,
+    "zone": "East"
+  },
+  {
+    "code": "HAR",
+    "name": {
+      "en": "HARBANG",
+      "bn": "হারবাং"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 21.850326325358,
+    "lng": 92.048763227866,
+    "zone": "East"
+  },
+  {
+    "code": "HARA",
+    "name": {
+      "en": "Harashpur",
+      "bn": "হারাশপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.017253678021,
+    "lng": 91.310964247497,
+    "zone": "East"
+  },
+  {
+    "code": "HAS",
+    "name": {
+      "en": "Hasanpur",
+      "bn": "হাসানপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.135467881079,
+    "lng": 91.237129695869,
+    "zone": "East"
+  },
+  {
+    "code": "HAT",
+    "name": {
+      "en": "Hatibandha",
+      "bn": "হাতিবান্ধা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.128530566447,
+    "lng": 89.13904170895,
+    "zone": "West"
+  },
+  {
+    "code": "HEM",
+    "name": {
+      "en": "Hemnagar",
+      "bn": "হেমনগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.569001314128,
+    "lng": 89.857510329383,
+    "zone": "East"
+  },
+  {
+    "code": "HI-",
+    "name": {
+      "en": "Hi-Tech City",
+      "bn": "হাই-টেক সিটি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.062686920166,
+    "lng": 90.2217636108398,
+    "zone": "West"
+  },
+  {
+    "code": "HIL",
+    "name": {
+      "en": "Hili",
+      "bn": "হিলি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.277758800732,
+    "lng": 89.007137476375,
+    "zone": "West"
+  },
+  {
+    "code": "ISLA",
+    "name": {
+      "en": "ISLAMABAD",
+      "bn": "ইসলামাবাদ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 21.563754928958,
+    "lng": 92.055412998994,
+    "zone": "East"
+  },
+  {
+    "code": "IBR",
+    "name": {
+      "en": "Ibrahimabad",
+      "bn": "ইব্রাহিমাবাদ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.389543349088,
+    "lng": 89.820010349873,
+    "zone": "West"
+  },
+  {
+    "code": "JAF",
+    "name": {
+      "en": "Jaforshahi",
+      "bn": "জাফরশাহী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.813178099969,
+    "lng": 89.858709657305,
+    "zone": "East"
+  },
+  {
+    "code": "JAG",
+    "name": {
+      "en": "Jagannathgonj Bazar",
+      "bn": "জগন্নাথগঞ্জ বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.8130850003856,
+    "lng": 89.8585927657862,
+    "zone": "East"
+  },
+  {
+    "code": "JAM",
+    "name": {
+      "en": "Jamalganj",
+      "bn": "জামালগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.030707689817,
+    "lng": 89.022593043312,
+    "zone": "West"
+  },
+  {
+    "code": "JAN",
+    "name": {
+      "en": "Janali Hat",
+      "bn": "জনালী হাট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.395952412775,
+    "lng": 91.872656178137,
+    "zone": "East"
+  },
+  {
+    "code": "KAK",
+    "name": {
+      "en": "Kakonhat",
+      "bn": "কাকনহাট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.507187212251,
+    "lng": 88.472074291695,
+    "zone": "West"
+  },
+  {
+    "code": "KAL",
+    "name": {
+      "en": "Kalukhali",
+      "bn": "কালুখালী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.767973764542,
+    "lng": 89.481328637707,
+    "zone": "West"
+  },
+  {
+    "code": "KANC",
+    "name": {
+      "en": "Kanchan Junction",
+      "bn": "কাঞ্চন জংশন"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.62383697757,
+    "lng": 88.600493041478,
+    "zone": "West"
+  },
+  {
+    "code": "KANK",
+    "name": {
+      "en": "Kankina",
+      "bn": "কাঁকিনা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.955415984015,
+    "lng": 89.243633145708,
+    "zone": "West"
+  },
+  {
+    "code": "KAO",
+    "name": {
+      "en": "Kaoraid",
+      "bn": "কাওরাইদ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.308375865477,
+    "lng": 90.51265131867,
+    "zone": "East"
+  },
+  {
+    "code": "KASH",
+    "name": {
+      "en": "Kashinathpur",
+      "bn": "কাশিনাথপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.970491977949,
+    "lng": 89.590160447495,
+    "zone": "West"
+  },
+  {
+    "code": "KAW",
+    "name": {
+      "en": "Kawgaon",
+      "bn": "কাওগাঁও"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.619229110611,
+    "lng": 88.706362945651,
+    "zone": "West"
+  },
+  {
+    "code": "KEN",
+    "name": {
+      "en": "Kendua Bazar",
+      "bn": "কেন্দুয়া বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.85820482371,
+    "lng": 89.911079111894,
+    "zone": "East"
+  },
+  {
+    "code": "KHO",
+    "name": {
+      "en": "Khoksha",
+      "bn": "খোকসা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.832065340873,
+    "lng": 89.307303234814,
+    "zone": "West"
+  },
+  {
+    "code": "KHOL",
+    "name": {
+      "en": "Kholahati",
+      "bn": "খোলাহাটি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.657058271529,
+    "lng": 88.983292523494,
+    "zone": "West"
+  },
+  {
+    "code": "KIS",
+    "name": {
+      "en": "Kismat",
+      "bn": "কিসমত"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.222297846388,
+    "lng": 88.447535274554,
+    "zone": "West"
+  },
+  {
+    "code": "KUL",
+    "name": {
+      "en": "Kuliarchar",
+      "bn": "কুলিয়ারচর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.151118775792,
+    "lng": 90.928316365466,
+    "zone": "East"
+  },
+  {
+    "code": "KUMI",
+    "name": {
+      "en": "Kumira",
+      "bn": "কুমিরা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.505113409222,
+    "lng": 91.716409879995,
+    "zone": "East"
+  },
+  {
+    "code": "LOHA",
+    "name": {
+      "en": "Lohagora",
+      "bn": "লোহাগোড়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.202245537263,
+    "lng": 89.639544592136,
+    "zone": "West"
+  },
+  {
+    "code": "LOK",
+    "name": {
+      "en": "Lokmanpur",
+      "bn": "লোকমানপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.281203887801,
+    "lng": 88.933770484269,
+    "zone": "West"
+  },
+  {
+    "code": "LOL",
+    "name": {
+      "en": "Lolitnagar",
+      "bn": "ললিতনগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.562815278125,
+    "lng": 88.434942109406,
+    "zone": "West"
+  },
+  {
+    "code": "MAD",
+    "name": {
+      "en": "Madhnagar",
+      "bn": "মাধনগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.536060258351,
+    "lng": 88.961936467078,
+    "zone": "West"
+  },
+  {
+    "code": "MADH",
+    "name": {
+      "en": "Madhukhali",
+      "bn": "মধুখালী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.546738485295,
+    "lng": 89.630724995882,
+    "zone": "West"
+  },
+  {
+    "code": "MAH",
+    "name": {
+      "en": "Mahendranagar",
+      "bn": "মহেন্দ্রনগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.878927324348,
+    "lng": 89.44758899596,
+    "zone": "West"
+  },
+  {
+    "code": "MAHI",
+    "name": {
+      "en": "Mahimaganj",
+      "bn": "মহিমাগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.104356354545,
+    "lng": 89.493803717097,
+    "zone": "West"
+  },
+  {
+    "code": "MAJ",
+    "name": {
+      "en": "Majhgram",
+      "bn": "মাঝগ্রাম"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.163018111923,
+    "lng": 89.092217178447,
+    "zone": "West"
+  },
+  {
+    "code": "MAN",
+    "name": {
+      "en": "Manikkhali",
+      "bn": "মানিকখালী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.297385178301,
+    "lng": 90.846623138234,
+    "zone": "East"
+  },
+  {
+    "code": "MANM",
+    "name": {
+      "en": "Manmathapur",
+      "bn": "মনমথপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.658823048266,
+    "lng": 88.852508067116,
+    "zone": "West"
+  },
+  {
+    "code": "MEH",
+    "name": {
+      "en": "Meher",
+      "bn": "মেহের"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.245205479018,
+    "lng": 90.943338224709,
+    "zone": "East"
+  },
+  {
+    "code": "MEL",
+    "name": {
+      "en": "Melandah Bazar",
+      "bn": "মেলান্দহ বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.978345032872,
+    "lng": 89.853525189897,
+    "zone": "East"
+  },
+  {
+    "code": "MET",
+    "name": {
+      "en": "Methikanda",
+      "bn": "মেথিকান্দা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.992806730122,
+    "lng": 90.86704175095,
+    "zone": "East"
+  },
+  {
+    "code": "MIR",
+    "name": {
+      "en": "Mirbagh",
+      "bn": "মীরবাগ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.765217758278,
+    "lng": 89.352140161301,
+    "zone": "West"
+  },
+  {
+    "code": "MIRP",
+    "name": {
+      "en": "Mirpur",
+      "bn": "মিরপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.94175228145,
+    "lng": 88.997065967058,
+    "zone": "West"
+  },
+  {
+    "code": "MOD",
+    "name": {
+      "en": "Modhu Road",
+      "bn": "মধু রোড"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.244339536998,
+    "lng": 90.755583624709,
+    "zone": "East"
+  },
+  {
+    "code": "MON",
+    "name": {
+      "en": "Mongalpur",
+      "bn": "মঙ্গলপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.719089331915,
+    "lng": 88.535337542589,
+    "zone": "West"
+  },
+  {
+    "code": "MONT",
+    "name": {
+      "en": "Montola",
+      "bn": "মন্টলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.069529682478,
+    "lng": 91.345078895899,
+    "zone": "East"
+  },
+  {
+    "code": "MUK",
+    "name": {
+      "en": "Mukundapur",
+      "bn": "মুকুন্দপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.964099822698,
+    "lng": 91.265155138223,
+    "zone": "East"
+  },
+  {
+    "code": "MUL",
+    "name": {
+      "en": "Muladhuli",
+      "bn": "মুলাডুলি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.164629767091,
+    "lng": 89.146722453575,
+    "zone": "West"
+  },
+  {
+    "code": "NAC",
+    "name": {
+      "en": "Nachole",
+      "bn": "নাচোল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.724890052034,
+    "lng": 88.402263050174,
+    "zone": "West"
+  },
+  {
+    "code": "NAL",
+    "name": {
+      "en": "Naliagram",
+      "bn": "নলিয়াগ্রাম"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.599352483738,
+    "lng": 89.607296082128,
+    "zone": "West"
+  },
+  {
+    "code": "NAN",
+    "name": {
+      "en": "Nandina",
+      "bn": "নান্দিনা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.867824143871,
+    "lng": 90.032868132165,
+    "zone": "East"
+  },
+  {
+    "code": "NAR",
+    "name": {
+      "en": "Narail",
+      "bn": "নড়াইল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.176927816121,
+    "lng": 89.495453695609,
+    "zone": "West"
+  },
+  {
+    "code": "NARA",
+    "name": {
+      "en": "Narayanganj",
+      "bn": "নারায়ণগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.617887292048,
+    "lng": 90.505977050637,
+    "zone": "East"
+  },
+  {
+    "code": "NARU",
+    "name": {
+      "en": "Narundi",
+      "bn": "নারুন্দি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.865166,
+    "lng": 90.120498,
+    "zone": "East"
+  },
+  {
+    "code": "NATH",
+    "name": {
+      "en": "Natherpetua",
+      "bn": "নাথেরপেটুয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.11313380853,
+    "lng": 91.115438447458,
+    "zone": "East"
+  },
+  {
+    "code": "NAY",
+    "name": {
+      "en": "Nayaniburuj",
+      "bn": "নয়ানিবুরুজ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.278170936908,
+    "lng": 88.497110224537,
+    "zone": "West"
+  },
+  {
+    "code": "NAYA",
+    "name": {
+      "en": "Nayapara",
+      "bn": "নয়াপাড়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.180764616002,
+    "lng": 91.356682395637,
+    "zone": "East"
+  },
+  {
+    "code": "NETR",
+    "name": {
+      "en": "Netrakona",
+      "bn": "নেত্রকোণা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 24.888830702783,
+    "lng": 90.720754442141,
+    "zone": "East"
+  },
+  {
+    "code": "PAC",
+    "name": {
+      "en": "Pachuria",
+      "bn": "পাচুরিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.747436237842,
+    "lng": 89.712069895625,
+    "zone": "West"
+  },
+  {
+    "code": "PAD",
+    "name": {
+      "en": "Padma",
+      "bn": "পদ্মা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.398426439256,
+    "lng": 90.218769453286,
+    "zone": "East"
+  },
+  {
+    "code": "PAK",
+    "name": {
+      "en": "Paksey",
+      "bn": "পাকশী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.070891279984,
+    "lng": 89.040772247503,
+    "zone": "West"
+  },
+  {
+    "code": "PAT",
+    "name": {
+      "en": "Patgram",
+      "bn": "পাটগ্রাম"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.343561376999,
+    "lng": 89.021235095703,
+    "zone": "West"
+  },
+  {
+    "code": "PATI",
+    "name": {
+      "en": "Patiya",
+      "bn": "পটিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 22.297745653114,
+    "lng": 91.981921495585,
+    "zone": "East"
+  },
+  {
+    "code": "PIR",
+    "name": {
+      "en": "Pirgacha",
+      "bn": "পীরগাছা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.660613636018,
+    "lng": 89.407250266846,
+    "zone": "West"
+  },
+  {
+    "code": "PIY",
+    "name": {
+      "en": "Piyarpur",
+      "bn": "পিয়ারপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.879008533403,
+    "lng": 90.196691713454,
+    "zone": "East"
+  },
+  {
+    "code": "PUK",
+    "name": {
+      "en": "Pukuria",
+      "bn": "পুকুরিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.442534071784,
+    "lng": 89.957308611199,
+    "zone": "West"
+  },
+  {
+    "code": "PAH",
+    "name": {
+      "en": "Pahartoli",
+      "bn": "পাহাড়তলী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 22.354075782601,
+    "lng": 91.795622997753,
+    "zone": "East"
+  },
+  {
+    "code": "SHI",
+    "name": {
+      "en": "Shitakundo",
+      "bn": "সীতাকুণ্ড"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 22.623309947571,
+    "lng": 91.660445900967,
+    "zone": "East"
+  },
+  {
+    "code": "ADI",
+    "name": {
+      "en": "Aditmari",
+      "bn": "আদিতমারী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.924438153686,
+    "lng": 89.348822016499,
+    "zone": "West"
+  },
+  {
+    "code": "DAS",
+    "name": {
+      "en": "Dashuria",
+      "bn": "দাশুরিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.113736567092,
+    "lng": 89.128438943649,
+    "zone": "West"
+  },
+  {
+    "code": "RAG",
+    "name": {
+      "en": "Raghabpur",
+      "bn": "রাঘবপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.99523560751,
+    "lng": 89.304917685679,
+    "zone": "West"
+  },
+  {
+    "code": "ROH",
+    "name": {
+      "en": "Rohanpur",
+      "bn": "রোহানপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "Rajshahi"
+    },
+    "lat": 24.820700814971,
+    "lng": 88.319408517425,
+    "zone": "West"
+  },
+  {
+    "code": "SH ",
+    "name": {
+      "en": "SH M Monsur Ali",
+      "bn": "শহীদ এম মনসুর আলী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.397293749028,
+    "lng": 89.690080237972,
+    "zone": "West"
+  },
+  {
+    "code": "SOY",
+    "name": {
+      "en": "Soydabad",
+      "bn": "সয়দাবাদ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.396016836478,
+    "lng": 89.733445437972,
+    "zone": "West"
+  },
+  {
+    "code": "CHIN",
+    "name": {
+      "en": "Chinki Astana",
+      "bn": "চিনকি আস্তানা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.884887088231,
+    "lng": 91.538869472116,
+    "zone": "East"
+  },
+  {
+    "code": "FAJ",
+    "name": {
+      "en": "Fajilpur",
+      "bn": "ফাজিলপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.954945842876,
+    "lng": 91.486696033606,
+    "zone": "East"
+  },
+  {
+    "code": "GUNO",
+    "name": {
+      "en": "Gunoboti",
+      "bn": "গুণবতী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.087633923285,
+    "lng": 91.297475595986,
+    "zone": "East"
+  },
+  {
+    "code": "SHAH",
+    "name": {
+      "en": "Shaharasti Road",
+      "bn": "শাহরাস্তি রোড"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.240240259999,
+    "lng": 90.987822630096,
+    "zone": "East"
+  },
+  {
+    "code": "WAR",
+    "name": {
+      "en": "Waruk",
+      "bn": "ওয়ারুক"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.249606093484,
+    "lng": 90.903053577018,
+    "zone": "East"
+  },
+  {
+    "code": "BOL",
+    "name": {
+      "en": "Bolakhal",
+      "bn": "বলাখাল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.256143800314,
+    "lng": 90.814998660935,
+    "zone": "East"
+  },
+  {
+    "code": "SHAHA",
+    "name": {
+      "en": "Shahatoli",
+      "bn": "শাহাতলী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.240761651874,
+    "lng": 90.724843977524,
+    "zone": "East"
+  },
+  {
+    "code": "MOI",
+    "name": {
+      "en": "Moishadi",
+      "bn": "মইশাদি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.234858517623,
+    "lng": 90.697725284965,
+    "zone": "East"
+  },
+  {
+    "code": "ADA",
+    "name": {
+      "en": "Adamdighi",
+      "bn": "আদমদীঘি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.808967083421,
+    "lng": 89.047421743504,
+    "zone": "West"
+  },
+  {
+    "code": "AGR",
+    "name": {
+      "en": "Agri Univ",
+      "bn": "কৃষি বিশ্ববিদ্যালয়"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.748176673134,
+    "lng": 90.432708074883,
+    "zone": "East"
+  },
+  {
+    "code": "AHMO",
+    "name": {
+      "en": "Ahmodbari",
+      "bn": "আহমদবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.611375594079,
+    "lng": 90.483759011104,
+    "zone": "East"
+  },
+  {
+    "code": "ALT",
+    "name": {
+      "en": "Altaf Nagar",
+      "bn": "আলতাফ নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.818956597258,
+    "lng": 89.130025501603,
+    "zone": "West"
+  },
+  {
+    "code": "AMIR",
+    "name": {
+      "en": "Amirganj",
+      "bn": "আমিরগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.935793148782,
+    "lng": 90.77244874601,
+    "zone": "East"
+  },
+  {
+    "code": "ANS",
+    "name": {
+      "en": "Ansarbaria",
+      "bn": "আনসারবাড়িয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.492145151713,
+    "lng": 88.885566813239,
+    "zone": "West"
+  },
+  {
+    "code": "ATR",
+    "name": {
+      "en": "Atrai",
+      "bn": "আত্রাই"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.621497202379,
+    "lng": 88.97676247623,
+    "zone": "West"
+  },
+  {
+    "code": "AUL",
+    "name": {
+      "en": "Aulia Nagar",
+      "bn": "আউলিয়া নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.569419043674,
+    "lng": 90.505665025676,
+    "zone": "East"
+  },
+  {
+    "code": "AULI",
+    "name": {
+      "en": "Auliaganj",
+      "bn": "আউলিয়াগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.682422086667,
+    "lng": 89.108806061707,
+    "zone": "West"
+  },
+  {
+    "code": "BAL",
+    "name": {
+      "en": "Balabari",
+      "bn": "বালাবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.604833884133,
+    "lng": 89.649909990465,
+    "zone": "West"
+  },
+  {
+    "code": "BARA",
+    "name": {
+      "en": "Baratkia",
+      "bn": "বড়াটকিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.753760327321,
+    "lng": 91.597948371875,
+    "zone": "East"
+  },
+  {
+    "code": "BORO",
+    "name": {
+      "en": "Boroi Potol",
+      "bn": "বড়ই পটল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.630615294891,
+    "lng": 89.831191889206,
+    "zone": "East"
+  },
+  {
+    "code": "BARO",
+    "name": {
+      "en": "Barobazar",
+      "bn": "বড়বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.306228552468,
+    "lng": 89.149903502264,
+    "zone": "West"
+  },
+  {
+    "code": "BAS",
+    "name": {
+      "en": "Bashudebpur",
+      "bn": "বাসুদেবপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.4711837768555,
+    "lng": 88.9625854492188,
+    "zone": "West"
+  },
+  {
+    "code": "BAUS",
+    "name": {
+      "en": "Baushi",
+      "bn": "বাউশি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.788818596512,
+    "lng": 89.854706119579,
+    "zone": "East"
+  },
+  {
+    "code": "BEL",
+    "name": {
+      "en": "Belgachi",
+      "bn": "বেলগাছি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.780787934733,
+    "lng": 89.541349783341,
+    "zone": "West"
+  },
+  {
+    "code": "BO",
+    "name": {
+      "en": "Boromchal",
+      "bn": "বড়মচাল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.587328476063,
+    "lng": 91.978897286825,
+    "zone": "East"
+  },
+  {
+    "code": "CHAB",
+    "name": {
+      "en": "Chabbish Nagar",
+      "bn": "চব্বিশ নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.472116362808,
+    "lng": 88.494448673696,
+    "zone": "West"
+  },
+  {
+    "code": "CHE",
+    "name": {
+      "en": "Chengutia",
+      "bn": "চেঙ্গুটিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.07654413221,
+    "lng": 89.365955951539,
+    "zone": "West"
+  },
+  {
+    "code": "CHOK",
+    "name": {
+      "en": "Chokapon",
+      "bn": "চোকাপন"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.559533800429,
+    "lng": 92.016972905,
+    "zone": "East"
+  },
+  {
+    "code": "CHOW",
+    "name": {
+      "en": "Chowdhurani",
+      "bn": "চৌধুরানী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.607951527185,
+    "lng": 89.420563874349,
+    "zone": "West"
+  },
+  {
+    "code": "CHU",
+    "name": {
+      "en": "Chulkati Bazar",
+      "bn": "চুলকাঠি বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.691459616559,
+    "lng": 89.651554036136,
+    "zone": "West"
+  },
+  {
+    "code": "DAR",
+    "name": {
+      "en": "Darwani",
+      "bn": "দরওয়ানি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.883540791362,
+    "lng": 88.840566845523,
+    "zone": "West"
+  },
+  {
+    "code": "DHI",
+    "name": {
+      "en": "Dhirasrom",
+      "bn": "ধীরাশ্রম"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.959027906364,
+    "lng": 90.41576530895,
+    "zone": "East"
+  },
+  {
+    "code": "DHO",
+    "name": {
+      "en": "Dhola",
+      "bn": "ঢোলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.531683915579,
+    "lng": 90.508711517341,
+    "zone": "East"
+  },
+  {
+    "code": "DIL",
+    "name": {
+      "en": "Dilpashar",
+      "bn": "দিলপাশার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.239760423586,
+    "lng": 89.447186459227,
+    "zone": "West"
+  },
+  {
+    "code": "DOU",
+    "name": {
+      "en": "Doulatganj",
+      "bn": "দৌলতগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.235466096939,
+    "lng": 91.119449810036,
+    "zone": "East"
+  },
+  {
+    "code": "DOUL",
+    "name": {
+      "en": "Doulatkandi",
+      "bn": "দৌলতকান্দি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.02343731352,
+    "lng": 90.949589165238,
+    "zone": "East"
+  },
+  {
+    "code": "SAR",
+    "name": {
+      "en": "Sararchar",
+      "bn": "সরারচর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.21881259382,
+    "lng": 90.900648266803,
+    "zone": "East"
+  },
+  {
+    "code": "SARD",
+    "name": {
+      "en": "Sardah Road",
+      "bn": "সারদা রোড"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Rajshahi",
+      "bn": "Rajshahi"
+    },
+    "lat": 24.337245753707,
+    "lng": 88.752389995642,
+    "zone": "West"
+  },
+  {
+    "code": "SAT",
+    "name": {
+      "en": "Sathia Rajapur",
+      "bn": "সাথিয়া রাজাপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.97280804193,
+    "lng": 89.486950214944,
+    "zone": "West"
+  },
+  {
+    "code": "SATK",
+    "name": {
+      "en": "Satkania",
+      "bn": "সাতকানিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.092407938581,
+    "lng": 92.061602676502,
+    "zone": "East"
+  },
+  {
+    "code": "SHA2",
+    "name": {
+      "en": "Shahaji Bazar",
+      "bn": "শাহাজী বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.253307628339,
+    "lng": 91.382024487968,
+    "zone": "East"
+  },
+  {
+    "code": "SHAM",
+    "name": {
+      "en": "Shamshernagar",
+      "bn": "শমশেরনগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.382933259638,
+    "lng": 91.900220001464,
+    "zone": "East"
+  },
+  {
+    "code": "SHAS",
+    "name": {
+      "en": "Shashidal",
+      "bn": "শশীদল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.63935430255,
+    "lng": 91.146911004392,
+    "zone": "East"
+  },
+  {
+    "code": "SHIB",
+    "name": {
+      "en": "Shibchar",
+      "bn": "শিবচর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.385725172249,
+    "lng": 90.129447217697,
+    "zone": "West"
+  },
+  {
+    "code": "SHIBG",
+    "name": {
+      "en": "Shibganj",
+      "bn": "শিবগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.998073823825,
+    "lng": 88.403452208737,
+    "zone": "West"
+  },
+  {
+    "code": "SHO",
+    "name": {
+      "en": "Sholoshohor",
+      "bn": "ষোলশহর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.368631019844,
+    "lng": 91.826553854476,
+    "zone": "East"
+  },
+  {
+    "code": "SHY",
+    "name": {
+      "en": "Shyamgonj",
+      "bn": "শ্যামগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.838321064975,
+    "lng": 90.579346189836,
+    "zone": "East"
+  },
+  {
+    "code": "SHYA",
+    "name": {
+      "en": "Shyampur",
+      "bn": "শ্যামপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.694232436262,
+    "lng": 89.14889617534,
+    "zone": "West"
+  },
+  {
+    "code": "SIN",
+    "name": {
+      "en": "Singia",
+      "bn": "সিঙ্গিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.120910277886,
+    "lng": 89.346471866771,
+    "zone": "West"
+  },
+  {
+    "code": "BHAT",
+    "name": {
+      "en": "Bhatera Bazar",
+      "bn": "ভাতেরা বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.629088502311,
+    "lng": 91.989358882347,
+    "zone": "East"
+  },
+  {
+    "code": "DUR",
+    "name": {
+      "en": "Durmuth",
+      "bn": "দুর্মুট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.031405137821,
+    "lng": 89.81893213478,
+    "zone": "East"
+  },
+  {
+    "code": "FAT",
+    "name": {
+      "en": "Fatema Nagar",
+      "bn": "ফাতেমা নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.633191575623,
+    "lng": 90.461459404223,
+    "zone": "East"
+  },
+  {
+    "code": "FENC",
+    "name": {
+      "en": "Fenchuganj",
+      "bn": "ফেঞ্চুগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "Sylhet"
+    },
+    "lat": 24.693156985816,
+    "lng": 91.947203220348,
+    "zone": "East"
+  },
+  {
+    "code": "FULT",
+    "name": {
+      "en": "Fultola",
+      "bn": "ফুলতলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.950762,
+    "lng": 89.474686,
+    "zone": "West"
+  },
+  {
+    "code": "GAB",
+    "name": {
+      "en": "Gabtoli",
+      "bn": "গাবতলী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.891760141873,
+    "lng": 89.462007124509,
+    "zone": "West"
+  },
+  {
+    "code": "GAN",
+    "name": {
+      "en": "Gangashagor",
+      "bn": "গঙ্গাসাগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.826182615468,
+    "lng": 91.194163466617,
+    "zone": "East"
+  },
+  {
+    "code": "GOF",
+    "name": {
+      "en": "Gofurabad",
+      "bn": "গফুরাবাদ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.178635529415,
+    "lng": 89.22002063224,
+    "zone": "West"
+  },
+  {
+    "code": "GOL",
+    "name": {
+      "en": "Golabari",
+      "bn": "গোলাবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.7776666666667,
+    "lng": 88.3693333333333,
+    "zone": "West"
+  },
+  {
+    "code": "GUA",
+    "name": {
+      "en": "Guakhara",
+      "bn": "গুয়াখাড়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.231930099859,
+    "lng": 89.376089036619,
+    "zone": "West"
+  },
+  {
+    "code": "HAL",
+    "name": {
+      "en": "Halsa",
+      "bn": "হালসা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.815181771876,
+    "lng": 88.991328502514,
+    "zone": "West"
+  },
+  {
+    "code": "HASA",
+    "name": {
+      "en": "Hasanganj",
+      "bn": "হাসানগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.57259692102,
+    "lng": 89.431097750803,
+    "zone": "West"
+  },
+  {
+    "code": "HATU",
+    "name": {
+      "en": "Hatubhanga",
+      "bn": "হাটুভাঙ্গা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.969639890335,
+    "lng": 90.824386684596,
+    "zone": "East"
+  },
+  {
+    "code": "HOR",
+    "name": {
+      "en": "Horinaraynpur",
+      "bn": "হরিনারায়ণপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.854334334271,
+    "lng": 91.104005837115,
+    "zone": "East"
+  },
+  {
+    "code": "HORO",
+    "name": {
+      "en": "Horoshpur",
+      "bn": "হরশপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.017256244609,
+    "lng": 91.310650379372,
+    "zone": "East"
+  },
+  {
+    "code": "HORY",
+    "name": {
+      "en": "Horyan",
+      "bn": "হরিয়ান"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.375449768458,
+    "lng": 88.685858692532,
+    "zone": "West"
+  },
+  {
+    "code": "IJJ",
+    "name": {
+      "en": "Ijjatpur",
+      "bn": "ইজ্জতপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.144075289258,
+    "lng": 90.463271510222,
+    "zone": "East"
+  },
+  {
+    "code": "IMA",
+    "name": {
+      "en": "Imambari",
+      "bn": "ইমামবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.792542640261,
+    "lng": 91.173405095511,
+    "zone": "East"
+  },
+  {
+    "code": "ISH",
+    "name": {
+      "en": "Ishwarganj",
+      "bn": "ঈশ্বরগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.692375958598,
+    "lng": 90.594575778804,
+    "zone": "East"
+  },
+  {
+    "code": "JAFO",
+    "name": {
+      "en": "Jaforpur",
+      "bn": "জাফরপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.920817953795,
+    "lng": 89.015385606618,
+    "zone": "West"
+  },
+  {
+    "code": "JAL",
+    "name": {
+      "en": "Jalsuka",
+      "bn": "জলসুকা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.908065287638,
+    "lng": 90.594034195992,
+    "zone": "East"
+  },
+  {
+    "code": "JAR",
+    "name": {
+      "en": "Jariajhanzile",
+      "bn": "জারিয়াঝাঞ্জেল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.009600551009,
+    "lng": 90.648792656358,
+    "zone": "East"
+  },
+  {
+    "code": "JAS",
+    "name": {
+      "en": "Jashore Cantt",
+      "bn": "যশোর ক্যান্ট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.194402430278,
+    "lng": 89.183507224289,
+    "zone": "West"
+  },
+  {
+    "code": "JIN",
+    "name": {
+      "en": "Jinardi",
+      "bn": "জিনারদি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.930503869133,
+    "lng": 90.674275812115,
+    "zone": "East"
+  },
+  {
+    "code": "JOYR",
+    "name": {
+      "en": "Joyrampur",
+      "bn": "জয়রামপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.574273849915,
+    "lng": 88.809655750996,
+    "zone": "West"
+  },
+  {
+    "code": "KAH",
+    "name": {
+      "en": "Kahalu",
+      "bn": "কাহালু"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.83645840236,
+    "lng": 89.301298144758,
+    "zone": "West"
+  },
+  {
+    "code": "KALI",
+    "name": {
+      "en": "Kalikaprosad",
+      "bn": "কালিকাপ্রসাদ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.092307371473,
+    "lng": 90.939549282716,
+    "zone": "East"
+  },
+  {
+    "code": "SIRA",
+    "name": {
+      "en": "Sirajganjraipur",
+      "bn": "সিরাজগঞ্জ রায়পুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.437416410537,
+    "lng": 89.699935937973,
+    "zone": "West"
+  },
+  {
+    "code": "SONA",
+    "name": {
+      "en": "Sonatola",
+      "bn": "সোনাতলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.044066493737,
+    "lng": 89.497132903012,
+    "zone": "West"
+  },
+  {
+    "code": "SRE",
+    "name": {
+      "en": "Sreepur",
+      "bn": "শ্রীপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.199188220231,
+    "lng": 90.479557537966,
+    "zone": "East"
+  },
+  {
+    "code": "SUL",
+    "name": {
+      "en": "Sultanpur",
+      "bn": "সুলতানপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.82289299759,
+    "lng": 88.403813675934,
+    "zone": "West"
+  },
+  {
+    "code": "TAL",
+    "name": {
+      "en": "Talma",
+      "bn": "তালমা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.490207478857,
+    "lng": 89.876545966782,
+    "zone": "West"
+  },
+  {
+    "code": "TALO",
+    "name": {
+      "en": "Talora",
+      "bn": "তালোড়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.824169860774,
+    "lng": 89.180656172343,
+    "zone": "West"
+  },
+  {
+    "code": "TAN",
+    "name": {
+      "en": "Tantibandha",
+      "bn": "তাঁতিবন্ধ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.974428175301,
+    "lng": 89.408559266795,
+    "zone": "West"
+  },
+  {
+    "code": "TEB",
+    "name": {
+      "en": "Tebunia",
+      "bn": "তেবুনিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.074850378459,
+    "lng": 89.204574801455,
+    "zone": "West"
+  },
+  {
+    "code": "TEE",
+    "name": {
+      "en": "Teesta Junction",
+      "bn": "তিস্তা জংশন"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.808545536673,
+    "lng": 89.440790117768,
+    "zone": "West"
+  },
+  {
+    "code": "THA",
+    "name": {
+      "en": "Thakrokona",
+      "bn": "থাকড়াকোণা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.907341933002,
+    "lng": 90.818018722342,
+    "zone": "East"
+  },
+  {
+    "code": "TUS",
+    "name": {
+      "en": "Tushbhandar",
+      "bn": "তুষভাণ্ডার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.967177116706,
+    "lng": 89.202743209008,
+    "zone": "West"
+  },
+  {
+    "code": "BEJ",
+    "name": {
+      "en": "Bejerdanga",
+      "bn": "বেজেরডাঙ্গা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.978323051507,
+    "lng": 89.446889646281,
+    "zone": "West"
+  },
+  {
+    "code": "BHOB",
+    "name": {
+      "en": "Bhobanipur",
+      "bn": "ভবানীপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.578808242981,
+    "lng": 88.942592049058,
+    "zone": "West"
+  },
+  {
+    "code": "BH",
+    "name": {
+      "en": "Bhatshala",
+      "bn": "ভাটশালা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.892489349513,
+    "lng": 91.169222944996,
+    "zone": "East"
+  },
+  {
+    "code": "BHAN",
+    "name": {
+      "en": "Bhangura",
+      "bn": "ভাঙ্গুড়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.210888909917,
+    "lng": 89.364512740434,
+    "zone": "West"
+  },
+  {
+    "code": "BHAW",
+    "name": {
+      "en": "Bhawal Gazipur",
+      "bn": "ভাওয়াল গাজীপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.048673316375,
+    "lng": 90.434809843107,
+    "zone": "East"
+  },
+  {
+    "code": "BIDD",
+    "name": {
+      "en": "Biddaganj",
+      "bn": "বিদ্দাগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.824187543474,
+    "lng": 90.259395531315,
+    "zone": "East"
+  },
+  {
+    "code": "BAI",
+    "name": {
+      "en": "Baigunbari",
+      "bn": "বাইগুনবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.802806817682,
+    "lng": 90.306284979496,
+    "zone": "East"
+  },
+  {
+    "code": "BELA",
+    "name": {
+      "en": "Belaichondi",
+      "bn": "বেলাইচণ্ডি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.726119301036,
+    "lng": 88.906532089549,
+    "zone": "West"
+  },
+  {
+    "code": "BIP",
+    "name": {
+      "en": "Bipulshar",
+      "bn": "বিপুলসার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.077461560578,
+    "lng": 91.108556997569,
+    "zone": "East"
+  },
+  {
+    "code": "BIRK",
+    "name": {
+      "en": "Birkutsha",
+      "bn": "বিরকুটশা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.55941586774,
+    "lng": 88.964479995745,
+    "zone": "West"
+  },
+  {
+    "code": "BOJ",
+    "name": {
+      "en": "Bojra",
+      "bn": "বজরা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.992640978493,
+    "lng": 91.102612313152,
+    "zone": "East"
+  },
+  {
+    "code": "BONA",
+    "name": {
+      "en": "Bonani",
+      "bn": "বনানী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.795614720609,
+    "lng": 90.400850577208,
+    "zone": "East"
+  },
+  {
+    "code": "KAM",
+    "name": {
+      "en": "Kamarpara",
+      "bn": "কামারপাড়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.435211993376,
+    "lng": 89.498340134357,
+    "zone": "West"
+  },
+  {
+    "code": "KAT",
+    "name": {
+      "en": "Katakhali",
+      "bn": "কাটাখালী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.734377108278,
+    "lng": 89.633101159859,
+    "zone": "West"
+  },
+  {
+    "code": "KHA",
+    "name": {
+      "en": "Khanbari",
+      "bn": "খানবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.953478534522,
+    "lng": 90.798533505948,
+    "zone": "East"
+  },
+  {
+    "code": "KHAN",
+    "name": {
+      "en": "Khankhanapur",
+      "bn": "খানখানাপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.701338591996,
+    "lng": 89.713876552824,
+    "zone": "West"
+  },
+  {
+    "code": "KHI",
+    "name": {
+      "en": "Khila",
+      "bn": "খিলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.171063976102,
+    "lng": 91.128856686801,
+    "zone": "East"
+  },
+  {
+    "code": "KHOY",
+    "name": {
+      "en": "Khoyrat Nagar",
+      "bn": "খয়রাত নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.853991856505,
+    "lng": 88.85187536094,
+    "zone": "West"
+  },
+  {
+    "code": "KUP",
+    "name": {
+      "en": "Kuptola",
+      "bn": "কুপতলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.374588339398,
+    "lng": 89.528650443085,
+    "zone": "West"
+  },
+  {
+    "code": "LAH",
+    "name": {
+      "en": "Lahiri Mohonpur",
+      "bn": "লাহিড়ী মোহনপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.26072755584,
+    "lng": 89.499188662877,
+    "zone": "West"
+  },
+  {
+    "code": "LALM",
+    "name": {
+      "en": "Lalmai",
+      "bn": "লালমাই"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.307636545191,
+    "lng": 91.139263167467,
+    "zone": "East"
+  },
+  {
+    "code": "LON",
+    "name": {
+      "en": "Longla",
+      "bn": "লংলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.462776371222,
+    "lng": 91.987932564875,
+    "zone": "East"
+  },
+  {
+    "code": "MAC",
+    "name": {
+      "en": "Machpara",
+      "bn": "মাছপাড়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.804405982703,
+    "lng": 89.358083009823,
+    "zone": "West"
+  },
+  {
+    "code": "MAI",
+    "name": {
+      "en": "Maijdi",
+      "bn": "মাইজদী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Chattogram",
+      "bn": "Chattogram"
+    },
+    "lat": 22.88253955058,
+    "lng": 91.108740061139,
+    "zone": "East"
+  },
+  {
+    "code": "MAL",
+    "name": {
+      "en": "Malonchi",
+      "bn": "মালঞ্চি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.306033225695,
+    "lng": 88.963650057013,
+    "zone": "West"
+  },
+  {
+    "code": "MOG",
+    "name": {
+      "en": "Moghla bazar",
+      "bn": "মোগলা বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.798115834481,
+    "lng": 91.911434001155,
+    "zone": "East"
+  },
+  {
+    "code": "MIRZ",
+    "name": {
+      "en": "Mirzaganj",
+      "bn": "মির্জাগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.175885219048,
+    "lng": 88.80422062517,
+    "zone": "West"
+  },
+  {
+    "code": "MEHE",
+    "name": {
+      "en": "Meherulla Nagar",
+      "bn": "মেহেরুল্লা নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.216830410753,
+    "lng": 89.164225874599,
+    "zone": "West"
+  },
+  {
+    "code": "MOHA",
+    "name": {
+      "en": "Mohammad Nagar",
+      "bn": "মোহাম্মদ নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.791720643837,
+    "lng": 89.520388948809,
+    "zone": "West"
+  },
+  {
+    "code": "MOHE",
+    "name": {
+      "en": "Mohera",
+      "bn": "মহেরা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.168252899044,
+    "lng": 90.031423159544,
+    "zone": "West"
+  },
+  {
+    "code": "MOM",
+    "name": {
+      "en": "Mominpur",
+      "bn": "মোমিনপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.684165266194,
+    "lng": 88.878905443292,
+    "zone": "West"
+  },
+  {
+    "code": "MOND",
+    "name": {
+      "en": "Mondobag",
+      "bn": "মন্দভাগ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.688251610986,
+    "lng": 91.152397281281,
+    "zone": "East"
+  },
+  {
+    "code": "MONU",
+    "name": {
+      "en": "Monu",
+      "bn": "মনু"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.426298932022,
+    "lng": 91.938875703618,
+    "zone": "East"
+  },
+  {
+    "code": "MOS",
+    "name": {
+      "en": "Moshakhali",
+      "bn": "মোশাখালী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.385396129392,
+    "lng": 90.536175758507,
+    "zone": "East"
+  },
+  {
+    "code": "MOSH",
+    "name": {
+      "en": "Mosharofganj",
+      "bn": "মোশারফগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.108197156252,
+    "lng": 89.773676980724,
+    "zone": "East"
+  },
+  {
+    "code": "MOW",
+    "name": {
+      "en": "Mowchak",
+      "bn": "মাওচাক"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.038738072469,
+    "lng": 90.28230280382,
+    "zone": "East"
+  },
+  {
+    "code": "MUH",
+    "name": {
+      "en": "Muhuriganj",
+      "bn": "মুহুরীগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 22.939338347664,
+    "lng": 91.514623268399,
+    "zone": "East"
+  },
+  {
+    "code": "NAND",
+    "name": {
+      "en": "Nandail Road",
+      "bn": "নান্দাইল রোড"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.57940224259,
+    "lng": 90.74856161107,
+    "zone": "East"
+  },
+  {
+    "code": "NA",
+    "name": {
+      "en": "Nandigachi",
+      "bn": "নন্দীগাছি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.315147289317,
+    "lng": 88.801410685351,
+    "zone": "West"
+  },
+  {
+    "code": "NE",
+    "name": {
+      "en": "Netrakona Court",
+      "bn": "নেত্রকোণা কোর্ট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.887463127655,
+    "lng": 90.731486711517,
+    "zone": "East"
+  },
+  {
+    "code": "NIL",
+    "name": {
+      "en": "Nilganj",
+      "bn": "নীলগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.497034428604,
+    "lng": 90.793258725682,
+    "zone": "East"
+  },
+  {
+    "code": "NIM",
+    "name": {
+      "en": "Nimtola Bazar",
+      "bn": "নিমতলা বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.83963886365,
+    "lng": 90.23074709131,
+    "zone": "East"
+  },
+  {
+    "code": "NIZ",
+    "name": {
+      "en": "Nizampur",
+      "bn": "নিজামপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.691129593815,
+    "lng": 88.417379348217,
+    "zone": "West"
+  },
+  {
+    "code": "NOL",
+    "name": {
+      "en": "Noldanga",
+      "bn": "নলডাঙ্গা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.480923804003,
+    "lng": 89.474323352193,
+    "zone": "West"
+  },
+  {
+    "code": "NOLD",
+    "name": {
+      "en": "Noldangarhat",
+      "bn": "নলডাঙ্গাহাট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.502480753833,
+    "lng": 88.95946860341,
+    "zone": "West"
+  },
+  {
+    "code": "NOS",
+    "name": {
+      "en": "Noshrotpur",
+      "bn": "নসরতপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.813739541678,
+    "lng": 89.076228912349,
+    "zone": "West"
+  },
+  {
+    "code": "ONN",
+    "name": {
+      "en": "Onnoda Nagar",
+      "bn": "অন্নদা নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.733709909382,
+    "lng": 89.409191163882,
+    "zone": "West"
+  },
+  {
+    "code": "PACH",
+    "name": {
+      "en": "Pachpirmazar",
+      "bn": "পাঁচপীর মাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.82754307272,
+    "lng": 89.221350925178,
+    "zone": "West"
+  },
+  {
+    "code": "PAG",
+    "name": {
+      "en": "Paghachong",
+      "bn": "পাগাছোং"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.92428209184,
+    "lng": 91.13942121554,
+    "zone": "East"
+  },
+  {
+    "code": "PANC",
+    "name": {
+      "en": "Panchpir",
+      "bn": "পাঁচপীর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.73530785661,
+    "lng": 89.625029711752,
+    "zone": "West"
+  },
+  {
+    "code": "PUR",
+    "name": {
+      "en": "Purbadhola",
+      "bn": "পূর্বধলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.95137166975,
+    "lng": 90.604519746818,
+    "zone": "East"
+  },
+  {
+    "code": "RAJU",
+    "name": {
+      "en": "Raj Univ",
+      "bn": "রাজশাহী বিশ্ববিদ্যালয়"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.376867702969,
+    "lng": 88.645231256526,
+    "zone": "West"
+  },
+  {
+    "code": "RAJA",
+    "name": {
+      "en": "Rajapur",
+      "bn": "রাজাপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.57790688143,
+    "lng": 91.155431691004,
+    "zone": "East"
+  },
+  {
+    "code": "RA",
+    "name": {
+      "en": "Rajarhat",
+      "bn": "রাজারহাট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.798983017406,
+    "lng": 89.547368984004,
+    "zone": "West"
+  },
+  {
+    "code": "RAJE",
+    "name": {
+      "en": "Rajendrapur",
+      "bn": "রাজেন্দ্রপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.097269843961,
+    "lng": 90.449586532974,
+    "zone": "East"
+  },
+  {
+    "code": "RAN",
+    "name": {
+      "en": "Rani Nagar",
+      "bn": "রানী নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.74143038737,
+    "lng": 88.969467161889,
+    "zone": "West"
+  },
+  {
+    "code": "ROM",
+    "name": {
+      "en": "Romnabazar",
+      "bn": "রোমনা বাজার"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.579492346925,
+    "lng": 89.674882688759,
+    "zone": "West"
+  },
+  {
+    "code": "ROS",
+    "name": {
+      "en": "Roshidpur",
+      "bn": "রশিদপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.281235450566,
+    "lng": 91.564353211373,
+    "zone": "East"
+  },
+  {
+    "code": "RUP",
+    "name": {
+      "en": "Rupdia",
+      "bn": "রুপদিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.125448250129,
+    "lng": 89.286601257514,
+    "zone": "West"
+  },
+  {
+    "code": "SAY",
+    "name": {
+      "en": "Sayedahmed College",
+      "bn": "সৈয়দ আহমেদ কলেজ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.944471538306,
+    "lng": 89.492358789886,
+    "zone": "West"
+  },
+  {
+    "code": "SHA3",
+    "name": {
+      "en": "Shahagola",
+      "bn": "শাহাগোলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.68617153962,
+    "lng": 88.991343955433,
+    "zone": "West"
+  },
+  {
+    "code": "SHAR",
+    "name": {
+      "en": "Sharat Nagar",
+      "bn": "শরৎ নগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.222665096856,
+    "lng": 89.40570486806,
+    "zone": "West"
+  },
+  {
+    "code": "SHAT",
+    "name": {
+      "en": "Shatkhamair",
+      "bn": "শাটখামাইর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.234295682814,
+    "lng": 90.490498247418,
+    "zone": "East"
+  },
+  {
+    "code": "SHIN",
+    "name": {
+      "en": "Shingardabari",
+      "bn": "শিঙ্গারদাবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.804505567123,
+    "lng": 89.503250375993,
+    "zone": "West"
+  },
+  {
+    "code": "SHIT",
+    "name": {
+      "en": "Shitolai",
+      "bn": "শীতলাই"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.421126,
+    "lng": 88.526994,
+    "zone": "West"
+  },
+  {
+    "code": "SHOD",
+    "name": {
+      "en": "Shodor Roshulpur",
+      "bn": "সদর রসুলপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.519339487515,
+    "lng": 91.168633133716,
+    "zone": "East"
+  },
+  {
+    "code": "SHOH",
+    "name": {
+      "en": "Shohagi",
+      "bn": "সোহাগী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.689063189275,
+    "lng": 90.6540382727,
+    "zone": "East"
+  },
+  {
+    "code": "SHOL",
+    "name": {
+      "en": "Sholop",
+      "bn": "শলপ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.316188418773,
+    "lng": 89.612411347478,
+    "zone": "West"
+  },
+  {
+    "code": "SHOM",
+    "name": {
+      "en": "Shombhuganj",
+      "bn": "শম্ভুগঞ্জ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.760362065074,
+    "lng": 90.449552649656,
+    "zone": "East"
+  },
+  {
+    "code": "SHR",
+    "name": {
+      "en": "Shrinidhi",
+      "bn": "শ্রীনিধি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.00586849186,
+    "lng": 90.902414762454,
+    "zone": "East"
+  },
+  {
+    "code": "SHU",
+    "name": {
+      "en": "Shundarpur",
+      "bn": "সুন্দরপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.417250715603,
+    "lng": 89.085143571863,
+    "zone": "West"
+  },
+  {
+    "code": "SREE",
+    "name": {
+      "en": "Sreenagar",
+      "bn": "শ্রীনগর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.538245160093,
+    "lng": 90.292223439602,
+    "zone": "East"
+  },
+  {
+    "code": "SUK",
+    "name": {
+      "en": "Sukhanpukur",
+      "bn": "সুখানপুকুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.928749728998,
+    "lng": 89.480964610856,
+    "zone": "West"
+  },
+  {
+    "code": "SUT",
+    "name": {
+      "en": "Sutiakhali",
+      "bn": "সুতিয়াখালী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.696464502965,
+    "lng": 90.452159410867,
+    "zone": "East"
+  },
+  {
+    "code": "TAG",
+    "name": {
+      "en": "Tagraihat",
+      "bn": "তাগরাইহাট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.808442,
+    "lng": 89.589799,
+    "zone": "West"
+  },
+  {
+    "code": "TALS",
+    "name": {
+      "en": "Talshohor",
+      "bn": "তালশহর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.010707064533,
+    "lng": 91.038487011408,
+    "zone": "East"
+  },
+  {
+    "code": "TEJ",
+    "name": {
+      "en": "Tejgao",
+      "bn": "তেজগাঁও"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.76034896907,
+    "lng": 90.395083346865,
+    "zone": "East"
+  },
+  {
+    "code": "TIL",
+    "name": {
+      "en": "Tilagao",
+      "bn": "তিলগাও"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.444914978359,
+    "lng": 91.967466141782,
+    "zone": "East"
+  },
+  {
+    "code": "TOR",
+    "name": {
+      "en": "Toronibari",
+      "bn": "তরণীবাড়ি"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 26.023794010144,
+    "lng": 88.824368044919,
+    "zone": "West"
+  },
+  {
+    "code": "TRI",
+    "name": {
+      "en": "Trimohini",
+      "bn": "ত্রিমোহনী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.283600071787,
+    "lng": 89.543085013349,
+    "zone": "West"
+  },
+  {
+    "code": "ULI",
+    "name": {
+      "en": "Ulipur",
+      "bn": "উলিপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.65254929255,
+    "lng": 89.623901740623,
+    "zone": "West"
+  },
+  {
+    "code": "VEL",
+    "name": {
+      "en": "Velurpara",
+      "bn": "ভেলুরপাড়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.987038585776,
+    "lng": 89.501568735343,
+    "zone": "West"
+  },
+  {
+    "code": "YAS",
+    "name": {
+      "en": "Yasinpur",
+      "bn": "ইয়াসিনপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.362288901818,
+    "lng": 88.964164796884,
+    "zone": "West"
+  },
+  {
+    "code": "UTH",
+    "name": {
+      "en": "Utholi",
+      "bn": "উথলী"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 23.492718585452,
+    "lng": 88.845391612193,
+    "zone": "West"
+  },
+  {
+    "code": "TILO",
+    "name": {
+      "en": "Tilokpur",
+      "bn": "তিলকপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.877126882614,
+    "lng": 89.002172644376,
+    "zone": "West"
+  },
+  {
+    "code": "GHO",
+    "name": {
+      "en": "Ghorashal",
+      "bn": "ঘোড়াশাল"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.940490205875,
+    "lng": 90.619823707591,
+    "zone": "East"
+  },
+  {
+    "code": "NAM",
+    "name": {
+      "en": "Namurirhat",
+      "bn": "নামুরিরহাট"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 25.940144248667,
+    "lng": 89.305993679799,
+    "zone": "West"
+  },
+  {
+    "code": "MKSDR",
+    "name": {
+      "en": "Muksudpur",
+      "bn": "মুকসুদপুর"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.32992,
+    "lng": 89.85309,
+    "zone": "West"
+  },
+  {
+    "code": "KOR",
+    "name": {
+      "en": "Korotia",
+      "bn": "সোনালিয়া করটিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 24.227765,
+    "lng": 89.987353,
+    "zone": "West"
+  },
+  {
+    "code": "FLA",
+    "name": {
+      "en": "Fatulla",
+      "bn": "ফতুল্লা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.65076,
+    "lng": 90.47392,
+    "zone": "East"
+  },
+  {
+    "code": "PAGLA",
+    "name": {
+      "en": "Pagla",
+      "bn": "পাগলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.665693,
+    "lng": 90.460083,
+    "zone": "East"
+  },
+  {
+    "code": "CAH",
+    "name": {
+      "en": "Chashara",
+      "bn": "চাষাঢ়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.62536,
+    "lng": 90.497391,
+    "zone": "East"
+  },
+  {
+    "code": "SHATG",
+    "name": {
+      "en": "Shatgaon",
+      "bn": "সাতগাঁও"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Sylhet",
+      "bn": "Sylhet"
+    },
+    "lat": 24.288774,
+    "lng": 91.665443,
+    "zone": "East"
+  },
+  {
+    "code": "SHBR",
+    "name": {
+      "en": "Shyampur Baraitala",
+      "bn": "শ্যামপুর বড়ইতলা"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.684868,
+    "lng": 90.442703,
+    "zone": "East"
+  },
+  {
+    "code": "GHOR",
+    "name": {
+      "en": "Ghorashal Flag",
+      "bn": "ঘোড়াশাল ফ্ল্যাগ"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Dhaka",
+      "bn": "Dhaka"
+    },
+    "lat": 23.940176,
+    "lng": 90.619781,
+    "zone": "East"
+  },
+  {
+    "code": "KST",
+    "name": {
+      "en": "Kushtia",
+      "bn": "কুষ্টিয়া"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "Khulna",
+      "bn": "Khulna"
+    },
+    "lat": 23.902605,
+    "lng": 89.145508,
+    "zone": "West"
   }
 ]

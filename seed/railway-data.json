@@ -1,0 +1,2949 @@
+{
+  "meta": {
+    "version": "2.0.0",
+    "lastUpdated": "2026-08-07",
+    "dataSource": "Bangladesh Railway (BR) Official Timetable & E-Ticketing 2026",
+    "authority": "Bangladesh Railway, Ministry of Railways"
+  },
+  "trains": [
+    {
+      "code": "725",
+      "name": {
+        "en": "Sundarban Express",
+        "bn": "সুন্দরবন এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "destination": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "departureTime": "21:45",
+      "arrivalTime": "05:10",
+      "offDay": {
+        "en": "Tuesday",
+        "bn": "মঙ্গলবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "21:45",
+          "departureTime": "21:45",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DLP",
+          "arrivalTime": "21:58",
+          "departureTime": "22:00",
+          "haltMinutes": 2,
+          "distanceKm": 9
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "22:24",
+          "departureTime": "22:26",
+          "haltMinutes": 2,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "23:02",
+          "departureTime": "23:07",
+          "haltMinutes": 5,
+          "distanceKm": 56
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "23:36",
+          "departureTime": "23:38",
+          "haltMinutes": 2,
+          "distanceKm": 85
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "23:55",
+          "departureTime": "23:57",
+          "haltMinutes": 2,
+          "distanceKm": 104
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "00:10",
+          "departureTime": "00:12",
+          "haltMinutes": 2,
+          "distanceKm": 128
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "00:21",
+          "departureTime": "00:24",
+          "haltMinutes": 3,
+          "distanceKm": 149
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "00:40",
+          "departureTime": "00:42",
+          "haltMinutes": 2,
+          "distanceKm": 169
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "01:00",
+          "departureTime": "01:05",
+          "haltMinutes": 5,
+          "distanceKm": 188
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "01:23",
+          "departureTime": "01:25",
+          "haltMinutes": 2,
+          "distanceKm": 208
+        },
+        {
+          "stationCode": "ISW_B",
+          "arrivalTime": "01:48",
+          "departureTime": "01:50",
+          "haltMinutes": 2,
+          "distanceKm": 230
+        },
+        {
+          "stationCode": "CGB",
+          "arrivalTime": "02:08",
+          "departureTime": "02:10",
+          "haltMinutes": 2,
+          "distanceKm": 254
+        },
+        {
+          "stationCode": "BDG",
+          "arrivalTime": "02:22",
+          "departureTime": "02:24",
+          "haltMinutes": 2,
+          "distanceKm": 269
+        },
+        {
+          "stationCode": "ULP",
+          "arrivalTime": "02:44",
+          "departureTime": "02:46",
+          "haltMinutes": 2,
+          "distanceKm": 294
+        },
+        {
+          "stationCode": "JAM_W",
+          "arrivalTime": "03:10",
+          "departureTime": "03:12",
+          "haltMinutes": 2,
+          "distanceKm": 318
+        },
+        {
+          "stationCode": "JAM_E",
+          "arrivalTime": "03:30",
+          "departureTime": "03:32",
+          "haltMinutes": 2,
+          "distanceKm": 332
+        },
+        {
+          "stationCode": "TGL",
+          "arrivalTime": "03:52",
+          "departureTime": "03:54",
+          "haltMinutes": 2,
+          "distanceKm": 357
+        },
+        {
+          "stationCode": "MRZ",
+          "arrivalTime": "04:14",
+          "departureTime": "04:16",
+          "haltMinutes": 2,
+          "distanceKm": 381
+        },
+        {
+          "stationCode": "JOY",
+          "arrivalTime": "04:42",
+          "departureTime": "04:45",
+          "haltMinutes": 3,
+          "distanceKm": 412
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "05:00",
+          "departureTime": "05:05",
+          "haltMinutes": 5,
+          "distanceKm": 428
+        },
+        {
+          "stationCode": "DA",
+          "arrivalTime": "05:30",
+          "departureTime": "05:30",
+          "haltMinutes": 0,
+          "distanceKm": 443
+        }
+      ],
+      "fares": {
+        "CDG": {
+          "shovon": 210,
+          "shovon_chair": 250,
+          "snigdha": 480,
+          "ac_seat": 575,
+          "ac_berth": 860
+        },
+        "ALM": {
+          "shovon": 225,
+          "shovon_chair": 270,
+          "snigdha": 515,
+          "ac_seat": 620,
+          "ac_berth": 925
+        },
+        "PRD": {
+          "shovon": 245,
+          "shovon_chair": 295,
+          "snigdha": 565,
+          "ac_seat": 675,
+          "ac_berth": 1010
+        },
+        "ISW_B": {
+          "shovon": 280,
+          "shovon_chair": 335,
+          "snigdha": 645,
+          "ac_seat": 770,
+          "ac_berth": 1150
+        },
+        "DA_AIR": {
+          "shovon": 420,
+          "shovon_chair": 505,
+          "snigdha": 965,
+          "ac_seat": 1160,
+          "ac_berth": 1735
+        },
+        "DA": {
+          "shovon": 440,
+          "shovon_chair": 525,
+          "snigdha": 1005,
+          "ac_seat": 1205,
+          "ac_berth": 1805
+        }
+      }
+    },
+    {
+      "code": "726",
+      "name": {
+        "en": "Sundarban Express",
+        "bn": "সুন্দরবন এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "departureTime": "08:15",
+      "arrivalTime": "15:50",
+      "offDay": {
+        "en": "Wednesday",
+        "bn": "বুধবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "08:15",
+          "departureTime": "08:15",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "08:38",
+          "departureTime": "08:43",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "JOY",
+          "arrivalTime": "09:05",
+          "departureTime": "09:08",
+          "haltMinutes": 3,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "MRZ",
+          "arrivalTime": "09:35",
+          "departureTime": "09:37",
+          "haltMinutes": 2,
+          "distanceKm": 62
+        },
+        {
+          "stationCode": "TGL",
+          "arrivalTime": "10:00",
+          "departureTime": "10:02",
+          "haltMinutes": 2,
+          "distanceKm": 86
+        },
+        {
+          "stationCode": "JAM_E",
+          "arrivalTime": "10:24",
+          "departureTime": "10:26",
+          "haltMinutes": 2,
+          "distanceKm": 111
+        },
+        {
+          "stationCode": "JAM_W",
+          "arrivalTime": "10:44",
+          "departureTime": "10:46",
+          "haltMinutes": 2,
+          "distanceKm": 125
+        },
+        {
+          "stationCode": "ULP",
+          "arrivalTime": "11:08",
+          "departureTime": "11:10",
+          "haltMinutes": 2,
+          "distanceKm": 149
+        },
+        {
+          "stationCode": "BDG",
+          "arrivalTime": "11:28",
+          "departureTime": "11:30",
+          "haltMinutes": 2,
+          "distanceKm": 174
+        },
+        {
+          "stationCode": "CGB",
+          "arrivalTime": "11:42",
+          "departureTime": "11:44",
+          "haltMinutes": 2,
+          "distanceKm": 189
+        },
+        {
+          "stationCode": "ISW_B",
+          "arrivalTime": "12:02",
+          "departureTime": "12:04",
+          "haltMinutes": 2,
+          "distanceKm": 213
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "12:26",
+          "departureTime": "12:28",
+          "haltMinutes": 2,
+          "distanceKm": 235
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "12:45",
+          "departureTime": "12:50",
+          "haltMinutes": 5,
+          "distanceKm": 255
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "13:09",
+          "departureTime": "13:11",
+          "haltMinutes": 2,
+          "distanceKm": 274
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "13:27",
+          "departureTime": "13:30",
+          "haltMinutes": 3,
+          "distanceKm": 294
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "13:48",
+          "departureTime": "13:50",
+          "haltMinutes": 2,
+          "distanceKm": 315
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "14:10",
+          "departureTime": "14:12",
+          "haltMinutes": 2,
+          "distanceKm": 339
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "14:28",
+          "departureTime": "14:30",
+          "haltMinutes": 2,
+          "distanceKm": 358
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "15:00",
+          "departureTime": "15:05",
+          "haltMinutes": 5,
+          "distanceKm": 387
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "15:28",
+          "departureTime": "15:30",
+          "haltMinutes": 2,
+          "distanceKm": 412
+        },
+        {
+          "stationCode": "DLP",
+          "arrivalTime": "15:46",
+          "departureTime": "15:48",
+          "haltMinutes": 2,
+          "distanceKm": 434
+        },
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "16:05",
+          "departureTime": "16:05",
+          "haltMinutes": 0,
+          "distanceKm": 443
+        }
+      ],
+      "fares": {
+        "ALM": {
+          "shovon": 280,
+          "shovon_chair": 335,
+          "snigdha": 645,
+          "ac_seat": 770,
+          "ac_berth": 1150
+        },
+        "CDG": {
+          "shovon": 295,
+          "shovon_chair": 355,
+          "snigdha": 680,
+          "ac_seat": 815,
+          "ac_berth": 1220
+        },
+        "DRS": {
+          "shovon": 315,
+          "shovon_chair": 380,
+          "snigdha": 725,
+          "ac_seat": 870,
+          "ac_berth": 1305
+        },
+        "JSH": {
+          "shovon": 385,
+          "shovon_chair": 465,
+          "snigdha": 890,
+          "ac_seat": 1070,
+          "ac_berth": 1600
+        },
+        "KLN": {
+          "shovon": 440,
+          "shovon_chair": 525,
+          "snigdha": 1005,
+          "ac_seat": 1205,
+          "ac_berth": 1805
+        }
+      }
+    },
+    {
+      "code": "763",
+      "name": {
+        "en": "Chitra Express",
+        "bn": "চিত্রা এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "destination": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "departureTime": "09:00",
+      "arrivalTime": "17:30",
+      "offDay": {
+        "en": "Sunday",
+        "bn": "রবিবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "09:00",
+          "departureTime": "09:00",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DLP",
+          "arrivalTime": "09:14",
+          "departureTime": "09:16",
+          "haltMinutes": 2,
+          "distanceKm": 9
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "09:40",
+          "departureTime": "09:42",
+          "haltMinutes": 2,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "10:15",
+          "departureTime": "10:20",
+          "haltMinutes": 5,
+          "distanceKm": 56
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "10:50",
+          "departureTime": "10:52",
+          "haltMinutes": 2,
+          "distanceKm": 85
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "11:10",
+          "departureTime": "11:12",
+          "haltMinutes": 2,
+          "distanceKm": 104
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "11:32",
+          "departureTime": "11:34",
+          "haltMinutes": 2,
+          "distanceKm": 128
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "11:50",
+          "departureTime": "11:53",
+          "haltMinutes": 3,
+          "distanceKm": 149
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "12:09",
+          "departureTime": "12:11",
+          "haltMinutes": 2,
+          "distanceKm": 169
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "12:30",
+          "departureTime": "12:35",
+          "haltMinutes": 5,
+          "distanceKm": 188
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "12:54",
+          "departureTime": "12:56",
+          "haltMinutes": 2,
+          "distanceKm": 208
+        },
+        {
+          "stationCode": "ISW",
+          "arrivalTime": "13:20",
+          "departureTime": "13:30",
+          "haltMinutes": 10,
+          "distanceKm": 230
+        },
+        {
+          "stationCode": "CGB",
+          "arrivalTime": "13:58",
+          "departureTime": "14:00",
+          "haltMinutes": 2,
+          "distanceKm": 254
+        },
+        {
+          "stationCode": "BDG",
+          "arrivalTime": "14:14",
+          "departureTime": "14:16",
+          "haltMinutes": 2,
+          "distanceKm": 269
+        },
+        {
+          "stationCode": "ULP",
+          "arrivalTime": "14:38",
+          "departureTime": "14:40",
+          "haltMinutes": 2,
+          "distanceKm": 294
+        },
+        {
+          "stationCode": "JAM_W",
+          "arrivalTime": "15:05",
+          "departureTime": "15:07",
+          "haltMinutes": 2,
+          "distanceKm": 318
+        },
+        {
+          "stationCode": "JAM_E",
+          "arrivalTime": "15:25",
+          "departureTime": "15:27",
+          "haltMinutes": 2,
+          "distanceKm": 332
+        },
+        {
+          "stationCode": "TGL",
+          "arrivalTime": "15:50",
+          "departureTime": "15:52",
+          "haltMinutes": 2,
+          "distanceKm": 357
+        },
+        {
+          "stationCode": "MRZ",
+          "arrivalTime": "16:12",
+          "departureTime": "16:14",
+          "haltMinutes": 2,
+          "distanceKm": 381
+        },
+        {
+          "stationCode": "JOY",
+          "arrivalTime": "16:45",
+          "departureTime": "16:48",
+          "haltMinutes": 3,
+          "distanceKm": 412
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "17:05",
+          "departureTime": "17:10",
+          "haltMinutes": 5,
+          "distanceKm": 428
+        },
+        {
+          "stationCode": "DA",
+          "arrivalTime": "17:40",
+          "departureTime": "17:40",
+          "haltMinutes": 0,
+          "distanceKm": 443
+        }
+      ],
+      "fares": {
+        "CDG": {
+          "shovon": 210,
+          "shovon_chair": 250,
+          "snigdha": 480,
+          "ac_seat": 575,
+          "ac_berth": 860
+        },
+        "ALM": {
+          "shovon": 225,
+          "shovon_chair": 270,
+          "snigdha": 515,
+          "ac_seat": 620,
+          "ac_berth": 925
+        },
+        "PRD": {
+          "shovon": 245,
+          "shovon_chair": 295,
+          "snigdha": 565,
+          "ac_seat": 675,
+          "ac_berth": 1010
+        },
+        "DA_AIR": {
+          "shovon": 420,
+          "shovon_chair": 505,
+          "snigdha": 965,
+          "ac_seat": 1160,
+          "ac_berth": 1735
+        },
+        "DA": {
+          "shovon": 440,
+          "shovon_chair": 525,
+          "snigdha": 1005,
+          "ac_seat": 1205,
+          "ac_berth": 1805
+        }
+      }
+    },
+    {
+      "code": "764",
+      "name": {
+        "en": "Chitra Express",
+        "bn": "চিত্রা এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "departureTime": "19:00",
+      "arrivalTime": "03:40",
+      "offDay": {
+        "en": "Sunday",
+        "bn": "রবিবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "19:00",
+          "departureTime": "19:00",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "19:24",
+          "departureTime": "19:29",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "JOY",
+          "arrivalTime": "19:50",
+          "departureTime": "19:53",
+          "haltMinutes": 3,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "MRZ",
+          "arrivalTime": "20:20",
+          "departureTime": "20:22",
+          "haltMinutes": 2,
+          "distanceKm": 62
+        },
+        {
+          "stationCode": "TGL",
+          "arrivalTime": "20:45",
+          "departureTime": "20:47",
+          "haltMinutes": 2,
+          "distanceKm": 86
+        },
+        {
+          "stationCode": "JAM_E",
+          "arrivalTime": "21:10",
+          "departureTime": "21:12",
+          "haltMinutes": 2,
+          "distanceKm": 111
+        },
+        {
+          "stationCode": "JAM_W",
+          "arrivalTime": "21:30",
+          "departureTime": "21:32",
+          "haltMinutes": 2,
+          "distanceKm": 125
+        },
+        {
+          "stationCode": "ULP",
+          "arrivalTime": "21:55",
+          "departureTime": "21:57",
+          "haltMinutes": 2,
+          "distanceKm": 149
+        },
+        {
+          "stationCode": "BDG",
+          "arrivalTime": "22:15",
+          "departureTime": "22:17",
+          "haltMinutes": 2,
+          "distanceKm": 174
+        },
+        {
+          "stationCode": "CGB",
+          "arrivalTime": "22:30",
+          "departureTime": "22:32",
+          "haltMinutes": 2,
+          "distanceKm": 189
+        },
+        {
+          "stationCode": "ISW",
+          "arrivalTime": "23:05",
+          "departureTime": "23:15",
+          "haltMinutes": 10,
+          "distanceKm": 213
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "23:40",
+          "departureTime": "23:42",
+          "haltMinutes": 2,
+          "distanceKm": 235
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "00:05",
+          "departureTime": "00:10",
+          "haltMinutes": 5,
+          "distanceKm": 255
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "00:30",
+          "departureTime": "00:32",
+          "haltMinutes": 2,
+          "distanceKm": 274
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "00:50",
+          "departureTime": "00:53",
+          "haltMinutes": 3,
+          "distanceKm": 294
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "01:12",
+          "departureTime": "01:14",
+          "haltMinutes": 2,
+          "distanceKm": 315
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "01:35",
+          "departureTime": "01:37",
+          "haltMinutes": 2,
+          "distanceKm": 339
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "01:55",
+          "departureTime": "01:57",
+          "haltMinutes": 2,
+          "distanceKm": 358
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "02:30",
+          "departureTime": "02:35",
+          "haltMinutes": 5,
+          "distanceKm": 387
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "03:00",
+          "departureTime": "03:02",
+          "haltMinutes": 2,
+          "distanceKm": 412
+        },
+        {
+          "stationCode": "DLP",
+          "arrivalTime": "03:20",
+          "departureTime": "03:22",
+          "haltMinutes": 2,
+          "distanceKm": 434
+        },
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "03:45",
+          "departureTime": "03:45",
+          "haltMinutes": 0,
+          "distanceKm": 443
+        }
+      ],
+      "fares": {
+        "ALM": {
+          "shovon": 280,
+          "shovon_chair": 335,
+          "snigdha": 645,
+          "ac_seat": 770,
+          "ac_berth": 1150
+        },
+        "CDG": {
+          "shovon": 295,
+          "shovon_chair": 355,
+          "snigdha": 680,
+          "ac_seat": 815,
+          "ac_berth": 1220
+        },
+        "DRS": {
+          "shovon": 315,
+          "shovon_chair": 380,
+          "snigdha": 725,
+          "ac_seat": 870,
+          "ac_berth": 1305
+        },
+        "JSH": {
+          "shovon": 385,
+          "shovon_chair": 465,
+          "snigdha": 890,
+          "ac_seat": 1070,
+          "ac_berth": 1600
+        },
+        "KLN": {
+          "shovon": 440,
+          "shovon_chair": 525,
+          "snigdha": 1005,
+          "ac_seat": 1205,
+          "ac_berth": 1805
+        }
+      }
+    },
+    {
+      "code": "795",
+      "name": {
+        "en": "Benapole Express",
+        "bn": "বেনাপোল এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "BEN",
+        "name": {
+          "en": "Benapole",
+          "bn": "বেনাপোল"
+        }
+      },
+      "destination": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "departureTime": "12:25",
+      "arrivalTime": "20:30",
+      "offDay": {
+        "en": "Wednesday",
+        "bn": "বুধবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "BEN",
+          "arrivalTime": "12:25",
+          "departureTime": "12:25",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "NAV",
+          "arrivalTime": "12:42",
+          "departureTime": "12:44",
+          "haltMinutes": 2,
+          "distanceKm": 14
+        },
+        {
+          "stationCode": "JHD",
+          "arrivalTime": "12:56",
+          "departureTime": "12:58",
+          "haltMinutes": 2,
+          "distanceKm": 25
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "13:20",
+          "departureTime": "13:25",
+          "haltMinutes": 5,
+          "distanceKm": 43
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "13:55",
+          "departureTime": "13:57",
+          "haltMinutes": 2,
+          "distanceKm": 72
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "14:15",
+          "departureTime": "14:17",
+          "haltMinutes": 2,
+          "distanceKm": 91
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "14:38",
+          "departureTime": "14:40",
+          "haltMinutes": 2,
+          "distanceKm": 115
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "14:56",
+          "departureTime": "14:59",
+          "haltMinutes": 3,
+          "distanceKm": 136
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "15:18",
+          "departureTime": "15:20",
+          "haltMinutes": 2,
+          "distanceKm": 156
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "15:40",
+          "departureTime": "15:45",
+          "haltMinutes": 5,
+          "distanceKm": 175
+        },
+        {
+          "stationCode": "ISW_B",
+          "arrivalTime": "16:20",
+          "departureTime": "16:22",
+          "haltMinutes": 2,
+          "distanceKm": 217
+        },
+        {
+          "stationCode": "TGL",
+          "arrivalTime": "18:10",
+          "departureTime": "18:12",
+          "haltMinutes": 2,
+          "distanceKm": 344
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "19:50",
+          "departureTime": "19:55",
+          "haltMinutes": 5,
+          "distanceKm": 415
+        },
+        {
+          "stationCode": "DA",
+          "arrivalTime": "20:30",
+          "departureTime": "20:30",
+          "haltMinutes": 0,
+          "distanceKm": 430
+        }
+      ],
+      "fares": {
+        "CDG": {
+          "shovon_chair": 250,
+          "snigdha": 480,
+          "ac_seat": 575,
+          "ac_berth": 860
+        },
+        "ALM": {
+          "shovon_chair": 270,
+          "snigdha": 515,
+          "ac_seat": 620,
+          "ac_berth": 925
+        },
+        "DA_AIR": {
+          "shovon_chair": 505,
+          "snigdha": 965,
+          "ac_seat": 1160,
+          "ac_berth": 1735
+        },
+        "DA": {
+          "shovon_chair": 525,
+          "snigdha": 1005,
+          "ac_seat": 1205,
+          "ac_berth": 1805
+        }
+      }
+    },
+    {
+      "code": "796",
+      "name": {
+        "en": "Benapole Express",
+        "bn": "বেনাপোল এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "BEN",
+        "name": {
+          "en": "Benapole",
+          "bn": "বেনাপোল"
+        }
+      },
+      "departureTime": "23:30",
+      "arrivalTime": "07:00",
+      "offDay": {
+        "en": "Wednesday",
+        "bn": "বুধবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "23:30",
+          "departureTime": "23:30",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "23:53",
+          "departureTime": "23:58",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "TGL",
+          "arrivalTime": "01:20",
+          "departureTime": "01:22",
+          "haltMinutes": 2,
+          "distanceKm": 86
+        },
+        {
+          "stationCode": "ISW_B",
+          "arrivalTime": "03:00",
+          "departureTime": "03:02",
+          "haltMinutes": 2,
+          "distanceKm": 213
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "03:30",
+          "departureTime": "03:35",
+          "haltMinutes": 5,
+          "distanceKm": 255
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "03:52",
+          "departureTime": "03:54",
+          "haltMinutes": 2,
+          "distanceKm": 274
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "04:14",
+          "departureTime": "04:17",
+          "haltMinutes": 3,
+          "distanceKm": 294
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "04:38",
+          "departureTime": "04:40",
+          "haltMinutes": 2,
+          "distanceKm": 315
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "05:02",
+          "departureTime": "05:04",
+          "haltMinutes": 2,
+          "distanceKm": 339
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "05:22",
+          "departureTime": "05:24",
+          "haltMinutes": 2,
+          "distanceKm": 358
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "05:55",
+          "departureTime": "06:00",
+          "haltMinutes": 5,
+          "distanceKm": 387
+        },
+        {
+          "stationCode": "JHD",
+          "arrivalTime": "06:22",
+          "departureTime": "06:24",
+          "haltMinutes": 2,
+          "distanceKm": 405
+        },
+        {
+          "stationCode": "NAV",
+          "arrivalTime": "06:38",
+          "departureTime": "06:40",
+          "haltMinutes": 2,
+          "distanceKm": 416
+        },
+        {
+          "stationCode": "BEN",
+          "arrivalTime": "07:00",
+          "departureTime": "07:00",
+          "haltMinutes": 0,
+          "distanceKm": 430
+        }
+      ],
+      "fares": {
+        "ALM": {
+          "shovon_chair": 335,
+          "snigdha": 645,
+          "ac_seat": 770,
+          "ac_berth": 1150
+        },
+        "CDG": {
+          "shovon_chair": 355,
+          "snigdha": 680,
+          "ac_seat": 815,
+          "ac_berth": 1220
+        },
+        "JSH": {
+          "shovon_chair": 465,
+          "snigdha": 890,
+          "ac_seat": 1070,
+          "ac_berth": 1600
+        },
+        "BEN": {
+          "shovon_chair": 525,
+          "snigdha": 1005,
+          "ac_seat": 1205,
+          "ac_berth": 1805
+        }
+      }
+    },
+    {
+      "code": "715",
+      "name": {
+        "en": "Kapotaksha Express",
+        "bn": "কপোতাক্ষ এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "destination": {
+        "code": "RJQ",
+        "name": {
+          "en": "Rajshahi",
+          "bn": "রাজশাহী"
+        }
+      },
+      "departureTime": "06:45",
+      "arrivalTime": "12:20",
+      "offDay": {
+        "en": "Friday",
+        "bn": "শুক্রবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "06:45",
+          "departureTime": "06:45",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DLP",
+          "arrivalTime": "06:58",
+          "departureTime": "07:00",
+          "haltMinutes": 2,
+          "distanceKm": 9
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "07:22",
+          "departureTime": "07:24",
+          "haltMinutes": 2,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "07:55",
+          "departureTime": "08:00",
+          "haltMinutes": 5,
+          "distanceKm": 56
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "08:32",
+          "departureTime": "08:34",
+          "haltMinutes": 2,
+          "distanceKm": 85
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "08:52",
+          "departureTime": "08:54",
+          "haltMinutes": 2,
+          "distanceKm": 104
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "09:12",
+          "departureTime": "09:14",
+          "haltMinutes": 2,
+          "distanceKm": 128
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "09:28",
+          "departureTime": "09:31",
+          "haltMinutes": 3,
+          "distanceKm": 149
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "09:48",
+          "departureTime": "09:50",
+          "haltMinutes": 2,
+          "distanceKm": 169
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "10:10",
+          "departureTime": "10:15",
+          "haltMinutes": 5,
+          "distanceKm": 188
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "10:35",
+          "departureTime": "10:37",
+          "haltMinutes": 2,
+          "distanceKm": 208
+        },
+        {
+          "stationCode": "ISW",
+          "arrivalTime": "11:00",
+          "departureTime": "11:10",
+          "haltMinutes": 10,
+          "distanceKm": 230
+        },
+        {
+          "stationCode": "ABR",
+          "arrivalTime": "11:35",
+          "departureTime": "11:37",
+          "haltMinutes": 2,
+          "distanceKm": 255
+        },
+        {
+          "stationCode": "RJQ",
+          "arrivalTime": "12:20",
+          "departureTime": "12:20",
+          "haltMinutes": 0,
+          "distanceKm": 293
+        }
+      ],
+      "fares": {
+        "CDG": {
+          "shovon": 160,
+          "shovon_chair": 195,
+          "snigdha": 375
+        },
+        "ALM": {
+          "shovon": 175,
+          "shovon_chair": 210,
+          "snigdha": 405
+        },
+        "PRD": {
+          "shovon": 190,
+          "shovon_chair": 230,
+          "snigdha": 440
+        },
+        "ISW": {
+          "shovon": 230,
+          "shovon_chair": 275,
+          "snigdha": 530
+        },
+        "RJQ": {
+          "shovon": 290,
+          "shovon_chair": 350,
+          "snigdha": 670
+        }
+      }
+    },
+    {
+      "code": "716",
+      "name": {
+        "en": "Kapotaksha Express",
+        "bn": "কপোতাক্ষ এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "RJQ",
+        "name": {
+          "en": "Rajshahi",
+          "bn": "রাজশাহী"
+        }
+      },
+      "destination": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "departureTime": "14:30",
+      "arrivalTime": "20:25",
+      "offDay": {
+        "en": "Friday",
+        "bn": "শুক্রবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "RJQ",
+          "arrivalTime": "14:30",
+          "departureTime": "14:30",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "ABR",
+          "arrivalTime": "15:08",
+          "departureTime": "15:10",
+          "haltMinutes": 2,
+          "distanceKm": 38
+        },
+        {
+          "stationCode": "ISW",
+          "arrivalTime": "15:35",
+          "departureTime": "15:45",
+          "haltMinutes": 10,
+          "distanceKm": 63
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "16:08",
+          "departureTime": "16:10",
+          "haltMinutes": 2,
+          "distanceKm": 85
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "16:30",
+          "departureTime": "16:35",
+          "haltMinutes": 5,
+          "distanceKm": 105
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "16:53",
+          "departureTime": "16:55",
+          "haltMinutes": 2,
+          "distanceKm": 124
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "17:11",
+          "departureTime": "17:14",
+          "haltMinutes": 3,
+          "distanceKm": 144
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "17:34",
+          "departureTime": "17:36",
+          "haltMinutes": 2,
+          "distanceKm": 165
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "17:56",
+          "departureTime": "17:58",
+          "haltMinutes": 2,
+          "distanceKm": 189
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "18:18",
+          "departureTime": "18:20",
+          "haltMinutes": 2,
+          "distanceKm": 208
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "18:55",
+          "departureTime": "19:00",
+          "haltMinutes": 5,
+          "distanceKm": 237
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "19:30",
+          "departureTime": "19:32",
+          "haltMinutes": 2,
+          "distanceKm": 262
+        },
+        {
+          "stationCode": "DLP",
+          "arrivalTime": "19:54",
+          "departureTime": "19:56",
+          "haltMinutes": 2,
+          "distanceKm": 284
+        },
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "20:25",
+          "departureTime": "20:25",
+          "haltMinutes": 0,
+          "distanceKm": 293
+        }
+      ],
+      "fares": {
+        "ALM": {
+          "shovon": 175,
+          "shovon_chair": 210,
+          "snigdha": 405
+        },
+        "CDG": {
+          "shovon": 190,
+          "shovon_chair": 230,
+          "snigdha": 440
+        },
+        "JSH": {
+          "shovon": 240,
+          "shovon_chair": 290,
+          "snigdha": 555
+        },
+        "KLN": {
+          "shovon": 290,
+          "shovon_chair": 350,
+          "snigdha": 670
+        }
+      }
+    },
+    {
+      "code": "761",
+      "name": {
+        "en": "Sagardari Express",
+        "bn": "সাগরদাঁড়ি এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "destination": {
+        "code": "RJQ",
+        "name": {
+          "en": "Rajshahi",
+          "bn": "রাজশাহী"
+        }
+      },
+      "departureTime": "16:00",
+      "arrivalTime": "22:00",
+      "offDay": {
+        "en": "Monday",
+        "bn": "সোমবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "16:00",
+          "departureTime": "16:00",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "16:38",
+          "departureTime": "16:40",
+          "haltMinutes": 2,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "17:10",
+          "departureTime": "17:15",
+          "haltMinutes": 5,
+          "distanceKm": 56
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "17:48",
+          "departureTime": "17:50",
+          "haltMinutes": 2,
+          "distanceKm": 85
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "18:08",
+          "departureTime": "18:10",
+          "haltMinutes": 2,
+          "distanceKm": 104
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "18:28",
+          "departureTime": "18:30",
+          "haltMinutes": 2,
+          "distanceKm": 128
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "18:44",
+          "departureTime": "18:47",
+          "haltMinutes": 3,
+          "distanceKm": 149
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "19:04",
+          "departureTime": "19:06",
+          "haltMinutes": 2,
+          "distanceKm": 169
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "19:28",
+          "departureTime": "19:33",
+          "haltMinutes": 5,
+          "distanceKm": 188
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "19:54",
+          "departureTime": "19:56",
+          "haltMinutes": 2,
+          "distanceKm": 208
+        },
+        {
+          "stationCode": "ISW",
+          "arrivalTime": "20:20",
+          "departureTime": "20:30",
+          "haltMinutes": 10,
+          "distanceKm": 230
+        },
+        {
+          "stationCode": "ABR",
+          "arrivalTime": "21:00",
+          "departureTime": "21:02",
+          "haltMinutes": 2,
+          "distanceKm": 255
+        },
+        {
+          "stationCode": "RJQ",
+          "arrivalTime": "22:00",
+          "departureTime": "22:00",
+          "haltMinutes": 0,
+          "distanceKm": 293
+        }
+      ],
+      "fares": {
+        "CDG": {
+          "shovon": 160,
+          "shovon_chair": 195,
+          "snigdha": 375
+        },
+        "ALM": {
+          "shovon": 175,
+          "shovon_chair": 210,
+          "snigdha": 405
+        },
+        "RJQ": {
+          "shovon": 290,
+          "shovon_chair": 350,
+          "snigdha": 670
+        }
+      }
+    },
+    {
+      "code": "762",
+      "name": {
+        "en": "Sagardari Express",
+        "bn": "সাগরদাঁড়ি এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "RJQ",
+        "name": {
+          "en": "Rajshahi",
+          "bn": "রাজশাহী"
+        }
+      },
+      "destination": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "departureTime": "06:00",
+      "arrivalTime": "12:10",
+      "offDay": {
+        "en": "Monday",
+        "bn": "সোমবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "RJQ",
+          "arrivalTime": "06:00",
+          "departureTime": "06:00",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "ABR",
+          "arrivalTime": "06:40",
+          "departureTime": "06:42",
+          "haltMinutes": 2,
+          "distanceKm": 38
+        },
+        {
+          "stationCode": "ISW",
+          "arrivalTime": "07:05",
+          "departureTime": "07:15",
+          "haltMinutes": 10,
+          "distanceKm": 63
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "07:38",
+          "departureTime": "07:40",
+          "haltMinutes": 2,
+          "distanceKm": 85
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "08:00",
+          "departureTime": "08:05",
+          "haltMinutes": 5,
+          "distanceKm": 105
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "08:24",
+          "departureTime": "08:26",
+          "haltMinutes": 2,
+          "distanceKm": 124
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "08:42",
+          "departureTime": "08:45",
+          "haltMinutes": 3,
+          "distanceKm": 144
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "09:05",
+          "departureTime": "09:07",
+          "haltMinutes": 2,
+          "distanceKm": 165
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "09:28",
+          "departureTime": "09:30",
+          "haltMinutes": 2,
+          "distanceKm": 189
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "09:48",
+          "departureTime": "09:50",
+          "haltMinutes": 2,
+          "distanceKm": 208
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "10:25",
+          "departureTime": "10:30",
+          "haltMinutes": 5,
+          "distanceKm": 237
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "11:00",
+          "departureTime": "11:02",
+          "haltMinutes": 2,
+          "distanceKm": 262
+        },
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "12:10",
+          "departureTime": "12:10",
+          "haltMinutes": 0,
+          "distanceKm": 293
+        }
+      ],
+      "fares": {
+        "ALM": {
+          "shovon": 175,
+          "shovon_chair": 210,
+          "snigdha": 405
+        },
+        "CDG": {
+          "shovon": 190,
+          "shovon_chair": 230,
+          "snigdha": 440
+        },
+        "KLN": {
+          "shovon": 290,
+          "shovon_chair": 350,
+          "snigdha": 670
+        }
+      }
+    },
+    {
+      "code": "727",
+      "name": {
+        "en": "Rupsha Express",
+        "bn": "রূপসা এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "KLN",
+        "name": {
+          "en": "Khulna",
+          "bn": "খুলনা"
+        }
+      },
+      "destination": {
+        "code": "CHL",
+        "name": {
+          "en": "Chilahati",
+          "bn": "চিলাহাটি"
+        }
+      },
+      "departureTime": "07:15",
+      "arrivalTime": "16:45",
+      "offDay": {
+        "en": "Thursday",
+        "bn": "বৃহস্পতিবার"
+      },
+      "classes": [
+        "shovon",
+        "shovon_chair",
+        "snigdha"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "KLN",
+          "arrivalTime": "07:15",
+          "departureTime": "07:15",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "NBR",
+          "arrivalTime": "07:50",
+          "departureTime": "07:52",
+          "haltMinutes": 2,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "JSH",
+          "arrivalTime": "08:25",
+          "departureTime": "08:30",
+          "haltMinutes": 5,
+          "distanceKm": 56
+        },
+        {
+          "stationCode": "MUB",
+          "arrivalTime": "09:02",
+          "departureTime": "09:04",
+          "haltMinutes": 2,
+          "distanceKm": 85
+        },
+        {
+          "stationCode": "KTC",
+          "arrivalTime": "09:22",
+          "departureTime": "09:24",
+          "haltMinutes": 2,
+          "distanceKm": 104
+        },
+        {
+          "stationCode": "DRS",
+          "arrivalTime": "09:44",
+          "departureTime": "09:46",
+          "haltMinutes": 2,
+          "distanceKm": 128
+        },
+        {
+          "stationCode": "CDG",
+          "arrivalTime": "10:02",
+          "departureTime": "10:05",
+          "haltMinutes": 3,
+          "distanceKm": 149
+        },
+        {
+          "stationCode": "ALM",
+          "arrivalTime": "10:22",
+          "departureTime": "10:24",
+          "haltMinutes": 2,
+          "distanceKm": 169
+        },
+        {
+          "stationCode": "PRD",
+          "arrivalTime": "10:45",
+          "departureTime": "10:50",
+          "haltMinutes": 5,
+          "distanceKm": 188
+        },
+        {
+          "stationCode": "BRM",
+          "arrivalTime": "11:10",
+          "departureTime": "11:12",
+          "haltMinutes": 2,
+          "distanceKm": 208
+        },
+        {
+          "stationCode": "ISW",
+          "arrivalTime": "11:35",
+          "departureTime": "11:45",
+          "haltMinutes": 10,
+          "distanceKm": 230
+        },
+        {
+          "stationCode": "ABR",
+          "arrivalTime": "12:12",
+          "departureTime": "12:14",
+          "haltMinutes": 2,
+          "distanceKm": 255
+        },
+        {
+          "stationCode": "NAT",
+          "arrivalTime": "12:35",
+          "departureTime": "12:38",
+          "haltMinutes": 3,
+          "distanceKm": 275
+        },
+        {
+          "stationCode": "AHM",
+          "arrivalTime": "13:00",
+          "departureTime": "13:02",
+          "haltMinutes": 2,
+          "distanceKm": 305
+        },
+        {
+          "stationCode": "SNT",
+          "arrivalTime": "13:25",
+          "departureTime": "13:35",
+          "haltMinutes": 10,
+          "distanceKm": 328
+        },
+        {
+          "stationCode": "AKL",
+          "arrivalTime": "13:52",
+          "departureTime": "13:54",
+          "haltMinutes": 2,
+          "distanceKm": 348
+        },
+        {
+          "stationCode": "JPT",
+          "arrivalTime": "14:12",
+          "departureTime": "14:15",
+          "haltMinutes": 3,
+          "distanceKm": 368
+        },
+        {
+          "stationCode": "BRP",
+          "arrivalTime": "14:40",
+          "departureTime": "14:42",
+          "haltMinutes": 2,
+          "distanceKm": 395
+        },
+        {
+          "stationCode": "FLB",
+          "arrivalTime": "14:58",
+          "departureTime": "15:00",
+          "haltMinutes": 2,
+          "distanceKm": 412
+        },
+        {
+          "stationCode": "PRB",
+          "arrivalTime": "15:25",
+          "departureTime": "15:35",
+          "haltMinutes": 10,
+          "distanceKm": 435
+        },
+        {
+          "stationCode": "SAI",
+          "arrivalTime": "15:52",
+          "departureTime": "15:55",
+          "haltMinutes": 3,
+          "distanceKm": 453
+        },
+        {
+          "stationCode": "NLP",
+          "arrivalTime": "16:12",
+          "departureTime": "16:14",
+          "haltMinutes": 2,
+          "distanceKm": 473
+        },
+        {
+          "stationCode": "DOM",
+          "arrivalTime": "16:28",
+          "departureTime": "16:30",
+          "haltMinutes": 2,
+          "distanceKm": 490
+        },
+        {
+          "stationCode": "CHL",
+          "arrivalTime": "16:50",
+          "departureTime": "16:50",
+          "haltMinutes": 0,
+          "distanceKm": 510
+        }
+      ],
+      "fares": {
+        "CDG": {
+          "shovon": 160,
+          "shovon_chair": 195,
+          "snigdha": 375
+        },
+        "ALM": {
+          "shovon": 175,
+          "shovon_chair": 210,
+          "snigdha": 405
+        },
+        "SNT": {
+          "shovon": 320,
+          "shovon_chair": 385,
+          "snigdha": 735
+        },
+        "PRB": {
+          "shovon": 410,
+          "shovon_chair": 490,
+          "snigdha": 940
+        },
+        "CHL": {
+          "shovon": 480,
+          "shovon_chair": 575,
+          "snigdha": 1100
+        }
+      }
+    },
+    {
+      "code": "702",
+      "name": {
+        "en": "Subarna Express",
+        "bn": "সুবর্ণ এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "CTG",
+        "name": {
+          "en": "Chattogram",
+          "bn": "চট্টগ্রাম"
+        }
+      },
+      "departureTime": "16:30",
+      "arrivalTime": "21:50",
+      "offDay": {
+        "en": "Monday",
+        "bn": "সোমবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "16:30",
+          "departureTime": "16:30",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "16:53",
+          "departureTime": "16:58",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "CTG",
+          "arrivalTime": "21:50",
+          "departureTime": "21:50",
+          "haltMinutes": 0,
+          "distanceKm": 321
+        }
+      ],
+      "fares": {
+        "DA_AIR": {
+          "shovon_chair": 55,
+          "snigdha": 105
+        },
+        "CTG": {
+          "shovon_chair": 405,
+          "snigdha": 777
+        }
+      },
+      "description": {
+        "en": "Premier non-stop express connecting the capital city Dhaka and port city Chattogram in 5 hours 20 mins.",
+        "bn": "রাজধানী ঢাকা এবং বন্দরনগরী চট্টগ্রামের মধ্যে চলাচলকারী বিরতিহীন প্রিমিয়ার আন্তঃনগর এক্সপ্রেস।"
+      }
+    },
+    {
+      "code": "701",
+      "name": {
+        "en": "Subarna Express",
+        "bn": "সুবর্ণ এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "CTG",
+        "name": {
+          "en": "Chattogram",
+          "bn": "চট্টগ্রাম"
+        }
+      },
+      "destination": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "departureTime": "07:00",
+      "arrivalTime": "12:20",
+      "offDay": {
+        "en": "Monday",
+        "bn": "সোমবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "CTG",
+          "arrivalTime": "07:00",
+          "departureTime": "07:00",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "11:55",
+          "departureTime": "12:00",
+          "haltMinutes": 5,
+          "distanceKm": 306
+        },
+        {
+          "stationCode": "DA",
+          "arrivalTime": "12:25",
+          "departureTime": "12:25",
+          "haltMinutes": 0,
+          "distanceKm": 321
+        }
+      ],
+      "fares": {
+        "DA_AIR": {
+          "shovon_chair": 380,
+          "snigdha": 730
+        },
+        "DA": {
+          "shovon_chair": 405,
+          "snigdha": 777
+        }
+      }
+    },
+    {
+      "code": "788",
+      "name": {
+        "en": "Sonar Bangla Express",
+        "bn": "সোনার বাংলা এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "CTG",
+        "name": {
+          "en": "Chattogram",
+          "bn": "চট্টগ্রাম"
+        }
+      },
+      "departureTime": "07:00",
+      "arrivalTime": "12:15",
+      "offDay": {
+        "en": "Wednesday",
+        "bn": "বুধবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "07:00",
+          "departureTime": "07:00",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "07:23",
+          "departureTime": "07:28",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "CTG",
+          "arrivalTime": "12:15",
+          "departureTime": "12:15",
+          "haltMinutes": 0,
+          "distanceKm": 321
+        }
+      ],
+      "fares": {
+        "CTG": {
+          "shovon_chair": 405,
+          "snigdha": 777,
+          "ac_seat": 932,
+          "ac_berth": 1398
+        }
+      }
+    },
+    {
+      "code": "813",
+      "name": {
+        "en": "Cox's Bazar Express",
+        "bn": "কক্সবাজার এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "COX",
+        "name": {
+          "en": "Cox's Bazar (Iconic)",
+          "bn": "কক্সবাজার (আইকনিক)"
+        }
+      },
+      "departureTime": "22:30",
+      "arrivalTime": "07:20",
+      "offDay": {
+        "en": "Tuesday",
+        "bn": "মঙ্গলবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "22:30",
+          "departureTime": "22:30",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "22:53",
+          "departureTime": "22:58",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "CTG",
+          "arrivalTime": "03:40",
+          "departureTime": "04:00",
+          "haltMinutes": 20,
+          "distanceKm": 321
+        },
+        {
+          "stationCode": "COX",
+          "arrivalTime": "07:20",
+          "departureTime": "07:20",
+          "haltMinutes": 0,
+          "distanceKm": 472
+        }
+      ],
+      "fares": {
+        "CTG": {
+          "shovon_chair": 405,
+          "snigdha": 777,
+          "ac_seat": 932,
+          "ac_berth": 1398
+        },
+        "COX": {
+          "shovon_chair": 695,
+          "snigdha": 1325,
+          "ac_seat": 1590,
+          "ac_berth": 2385
+        }
+      }
+    },
+    {
+      "code": "814",
+      "name": {
+        "en": "Cox's Bazar Express",
+        "bn": "কক্সবাজার এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "COX",
+        "name": {
+          "en": "Cox's Bazar (Iconic)",
+          "bn": "কক্সবাজার (আইকনিক)"
+        }
+      },
+      "destination": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "departureTime": "12:30",
+      "arrivalTime": "21:10",
+      "offDay": {
+        "en": "Tuesday",
+        "bn": "মঙ্গলবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "COX",
+          "arrivalTime": "12:30",
+          "departureTime": "12:30",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "CTG",
+          "arrivalTime": "15:40",
+          "departureTime": "16:00",
+          "haltMinutes": 20,
+          "distanceKm": 151
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "20:30",
+          "departureTime": "20:35",
+          "haltMinutes": 5,
+          "distanceKm": 457
+        },
+        {
+          "stationCode": "DA",
+          "arrivalTime": "21:10",
+          "departureTime": "21:10",
+          "haltMinutes": 0,
+          "distanceKm": 472
+        }
+      ],
+      "fares": {
+        "CTG": {
+          "shovon_chair": 250,
+          "snigdha": 480,
+          "ac_seat": 575,
+          "ac_berth": 860
+        },
+        "DA_AIR": {
+          "shovon_chair": 670,
+          "snigdha": 1280,
+          "ac_seat": 1535,
+          "ac_berth": 2300
+        },
+        "DA": {
+          "shovon_chair": 695,
+          "snigdha": 1325,
+          "ac_seat": 1590,
+          "ac_berth": 2385
+        }
+      }
+    },
+    {
+      "code": "709",
+      "name": {
+        "en": "Parabat Express",
+        "bn": "পারাবত এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "SYL",
+        "name": {
+          "en": "Sylhet",
+          "bn": "সিলেট"
+        }
+      },
+      "departureTime": "06:20",
+      "arrivalTime": "13:00",
+      "offDay": {
+        "en": "Tuesday",
+        "bn": "মঙ্গলবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "06:20",
+          "departureTime": "06:20",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "06:43",
+          "departureTime": "06:48",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "BHB",
+          "arrivalTime": "07:50",
+          "departureTime": "07:55",
+          "haltMinutes": 5,
+          "distanceKm": 82
+        },
+        {
+          "stationCode": "BBR",
+          "arrivalTime": "08:18",
+          "departureTime": "08:21",
+          "haltMinutes": 3,
+          "distanceKm": 105
+        },
+        {
+          "stationCode": "AKH",
+          "arrivalTime": "08:42",
+          "departureTime": "08:45",
+          "haltMinutes": 3,
+          "distanceKm": 124
+        },
+        {
+          "stationCode": "SHA",
+          "arrivalTime": "09:50",
+          "departureTime": "09:53",
+          "haltMinutes": 3,
+          "distanceKm": 187
+        },
+        {
+          "stationCode": "SRM",
+          "arrivalTime": "10:45",
+          "departureTime": "10:50",
+          "haltMinutes": 5,
+          "distanceKm": 235
+        },
+        {
+          "stationCode": "BNG",
+          "arrivalTime": "11:08",
+          "departureTime": "11:10",
+          "haltMinutes": 2,
+          "distanceKm": 252
+        },
+        {
+          "stationCode": "KLR",
+          "arrivalTime": "11:40",
+          "departureTime": "11:45",
+          "haltMinutes": 5,
+          "distanceKm": 278
+        },
+        {
+          "stationCode": "MRC",
+          "arrivalTime": "12:15",
+          "departureTime": "12:17",
+          "haltMinutes": 2,
+          "distanceKm": 302
+        },
+        {
+          "stationCode": "SYL",
+          "arrivalTime": "13:00",
+          "departureTime": "13:00",
+          "haltMinutes": 0,
+          "distanceKm": 331
+        }
+      ],
+      "fares": {
+        "BHB": {
+          "shovon_chair": 125,
+          "snigdha": 240
+        },
+        "BBR": {
+          "shovon_chair": 150,
+          "snigdha": 290
+        },
+        "SRM": {
+          "shovon_chair": 275,
+          "snigdha": 525,
+          "ac_seat": 630,
+          "ac_berth": 945
+        },
+        "SYL": {
+          "shovon_chair": 375,
+          "snigdha": 720,
+          "ac_seat": 865,
+          "ac_berth": 1295
+        }
+      }
+    },
+    {
+      "code": "753",
+      "name": {
+        "en": "Silkcity Express",
+        "bn": "সিল্কসিটি এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "RJQ",
+        "name": {
+          "en": "Rajshahi",
+          "bn": "রাজশাহী"
+        }
+      },
+      "departureTime": "14:45",
+      "arrivalTime": "20:30",
+      "offDay": {
+        "en": "Sunday",
+        "bn": "রবিবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "14:45",
+          "departureTime": "14:45",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "15:08",
+          "departureTime": "15:13",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "JOY",
+          "arrivalTime": "15:35",
+          "departureTime": "15:38",
+          "haltMinutes": 3,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "MRZ",
+          "arrivalTime": "16:05",
+          "departureTime": "16:07",
+          "haltMinutes": 2,
+          "distanceKm": 62
+        },
+        {
+          "stationCode": "TGL",
+          "arrivalTime": "16:30",
+          "departureTime": "16:32",
+          "haltMinutes": 2,
+          "distanceKm": 86
+        },
+        {
+          "stationCode": "JAM_E",
+          "arrivalTime": "16:54",
+          "departureTime": "16:56",
+          "haltMinutes": 2,
+          "distanceKm": 111
+        },
+        {
+          "stationCode": "JAM_W",
+          "arrivalTime": "17:14",
+          "departureTime": "17:16",
+          "haltMinutes": 2,
+          "distanceKm": 125
+        },
+        {
+          "stationCode": "ULP",
+          "arrivalTime": "17:38",
+          "departureTime": "17:40",
+          "haltMinutes": 2,
+          "distanceKm": 149
+        },
+        {
+          "stationCode": "BDG",
+          "arrivalTime": "17:58",
+          "departureTime": "18:00",
+          "haltMinutes": 2,
+          "distanceKm": 174
+        },
+        {
+          "stationCode": "CGB",
+          "arrivalTime": "18:12",
+          "departureTime": "18:14",
+          "haltMinutes": 2,
+          "distanceKm": 189
+        },
+        {
+          "stationCode": "ISW_B",
+          "arrivalTime": "18:32",
+          "departureTime": "18:34",
+          "haltMinutes": 2,
+          "distanceKm": 213
+        },
+        {
+          "stationCode": "ABR",
+          "arrivalTime": "19:00",
+          "departureTime": "19:02",
+          "haltMinutes": 2,
+          "distanceKm": 238
+        },
+        {
+          "stationCode": "NAT",
+          "arrivalTime": "19:22",
+          "departureTime": "19:25",
+          "haltMinutes": 3,
+          "distanceKm": 258
+        },
+        {
+          "stationCode": "RJQ",
+          "arrivalTime": "20:30",
+          "departureTime": "20:30",
+          "haltMinutes": 0,
+          "distanceKm": 343
+        }
+      ],
+      "fares": {
+        "TGL": {
+          "shovon_chair": 140,
+          "snigdha": 270
+        },
+        "ISW_B": {
+          "shovon_chair": 285,
+          "snigdha": 545
+        },
+        "NAT": {
+          "shovon_chair": 320,
+          "snigdha": 615,
+          "ac_seat": 740,
+          "ac_berth": 1110
+        },
+        "RJQ": {
+          "shovon_chair": 375,
+          "snigdha": 720,
+          "ac_seat": 865,
+          "ac_berth": 1295
+        }
+      }
+    },
+    {
+      "code": "791",
+      "name": {
+        "en": "Banalata Express",
+        "bn": "বনলতা এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "CPN",
+        "name": {
+          "en": "Chapainawabganj",
+          "bn": "চাঁপাইনবাবগঞ্জ"
+        }
+      },
+      "departureTime": "13:30",
+      "arrivalTime": "19:10",
+      "offDay": {
+        "en": "Friday",
+        "bn": "শুক্রবার"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "13:30",
+          "departureTime": "13:30",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "13:53",
+          "departureTime": "13:58",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "RJQ",
+          "arrivalTime": "18:00",
+          "departureTime": "18:15",
+          "haltMinutes": 15,
+          "distanceKm": 343
+        },
+        {
+          "stationCode": "CPN",
+          "arrivalTime": "19:10",
+          "departureTime": "19:10",
+          "haltMinutes": 0,
+          "distanceKm": 395
+        }
+      ],
+      "fares": {
+        "RJQ": {
+          "shovon_chair": 420,
+          "snigdha": 805
+        },
+        "CPN": {
+          "shovon_chair": 460,
+          "snigdha": 880
+        }
+      }
+    },
+    {
+      "code": "793",
+      "name": {
+        "en": "Panchagarh Express",
+        "bn": "পঞ্চগড় এক্সপ্রেস"
+      },
+      "type": "intercity",
+      "origin": {
+        "code": "DA",
+        "name": {
+          "en": "Dhaka (Kamalapur)",
+          "bn": "ঢাকা (কমলাপুর)"
+        }
+      },
+      "destination": {
+        "code": "PCH",
+        "name": {
+          "en": "Panchagarh (Bir Muktijoddha Sirajul Islam)",
+          "bn": "পঞ্চগড় (বীর মুক্তিযোদ্ধা সিরাজুল ইসলাম)"
+        }
+      },
+      "departureTime": "22:45",
+      "arrivalTime": "08:50",
+      "offDay": {
+        "en": "None (Daily)",
+        "bn": "নেই (দৈনিক)"
+      },
+      "classes": [
+        "shovon_chair",
+        "snigdha",
+        "ac_seat",
+        "ac_berth"
+      ],
+      "stoppages": [
+        {
+          "stationCode": "DA",
+          "arrivalTime": "22:45",
+          "departureTime": "22:45",
+          "haltMinutes": 0,
+          "distanceKm": 0
+        },
+        {
+          "stationCode": "DA_AIR",
+          "arrivalTime": "23:08",
+          "departureTime": "23:13",
+          "haltMinutes": 5,
+          "distanceKm": 15
+        },
+        {
+          "stationCode": "JOY",
+          "arrivalTime": "23:35",
+          "departureTime": "23:38",
+          "haltMinutes": 3,
+          "distanceKm": 31
+        },
+        {
+          "stationCode": "TGL",
+          "arrivalTime": "00:30",
+          "departureTime": "00:32",
+          "haltMinutes": 2,
+          "distanceKm": 86
+        },
+        {
+          "stationCode": "SNT",
+          "arrivalTime": "03:40",
+          "departureTime": "03:45",
+          "haltMinutes": 5,
+          "distanceKm": 298
+        },
+        {
+          "stationCode": "PRB",
+          "arrivalTime": "05:50",
+          "departureTime": "06:00",
+          "haltMinutes": 10,
+          "distanceKm": 405
+        },
+        {
+          "stationCode": "DNJ",
+          "arrivalTime": "06:40",
+          "departureTime": "06:45",
+          "haltMinutes": 5,
+          "distanceKm": 435
+        },
+        {
+          "stationCode": "SET",
+          "arrivalTime": "07:15",
+          "departureTime": "07:17",
+          "haltMinutes": 2,
+          "distanceKm": 465
+        },
+        {
+          "stationCode": "PRD_P",
+          "arrivalTime": "07:35",
+          "departureTime": "07:37",
+          "haltMinutes": 2,
+          "distanceKm": 485
+        },
+        {
+          "stationCode": "TKH",
+          "arrivalTime": "08:05",
+          "departureTime": "08:10",
+          "haltMinutes": 5,
+          "distanceKm": 510
+        },
+        {
+          "stationCode": "PCH",
+          "arrivalTime": "08:50",
+          "departureTime": "08:50",
+          "haltMinutes": 0,
+          "distanceKm": 552
+        }
+      ],
+      "fares": {
+        "SNT": {
+          "shovon_chair": 335,
+          "snigdha": 645,
+          "ac_seat": 770,
+          "ac_berth": 1150
+        },
+        "PRB": {
+          "shovon_chair": 440,
+          "snigdha": 845,
+          "ac_seat": 1015,
+          "ac_berth": 1520
+        },
+        "DNJ": {
+          "shovon_chair": 470,
+          "snigdha": 905,
+          "ac_seat": 1085,
+          "ac_berth": 1625
+        },
+        "TKH": {
+          "shovon_chair": 550,
+          "snigdha": 1055,
+          "ac_seat": 1265,
+          "ac_berth": 1900
+        },
+        "PCH": {
+          "shovon_chair": 595,
+          "snigdha": 1140,
+          "ac_seat": 1370,
+          "ac_berth": 2055
+        }
+      }
+    }
+  ]
+}
