@@ -97,6 +97,19 @@ const curatedCoords = curatedStations.filter((s) => typeof s.lat === "number" &&
 
 const codeKey = (code) => String(code ?? "").trim().toUpperCase();
 
+// Great-circle distance in km; Infinity when either side has no coordinates, so
+// a coordinate-less row never outbids one that can be placed on a map.
+function distanceKm(a, b) {
+    if (![a?.lat, a?.lng, b?.lat, b?.lng].every((v) => typeof v === "number")) return Infinity;
+    const toRad = (d) => (d * Math.PI) / 180;
+    const dLat = toRad(b.lat - a.lat);
+    const dLng = toRad(b.lng - a.lng);
+    const h =
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos(toRad(a.lat)) * Math.cos(toRad(b.lat)) * Math.sin(dLng / 2) ** 2;
+    return 2 * 6371 * Math.asin(Math.sqrt(h));
+}
+
 // Codes actively assigned to a station in the output.
 const usedCodeKeys = new Set();
 // Codes owned by an extracted station. Synthesis may never use these, so a
@@ -154,13 +167,26 @@ for (const st of curatedStations) {
 }
 
 // Pass A: name match against the curated (BR-official) station list.
+// Several extracted rows can share a name with one curated station while being
+// far apart in the world — "Mymensingh Jn" vs "Mymensingh_Road" (4.9 km), or
+// LOHAGARA in the west vs Lohagara in Chattogram (284 km). Collapsing them
+// would give a single train two stops on the same code, so only the closest
+// match takes the curated station; the rest fall through to Pass B/C as the
+// distinct places they are.
+const passAClaims = new Map(); // curated code -> { id, distance }
 for (const st of referencedStations) {
     const nameEn = st.name_en || st.name_bn || `Station ${st.id}`;
     const match = curatedByNorm.get(normalizeName(nameEn)) || curatedByBase.get(baseName(nameEn));
-    if (match) {
-        stationFinalCode.set(st.id, match.code);
-        stats.matchedByName++;
+    if (!match) continue;
+    const distance = distanceKm(st, match);
+    const claim = passAClaims.get(codeKey(match.code));
+    if (!claim || distance < claim.distance) {
+        passAClaims.set(codeKey(match.code), { id: st.id, distance, code: match.code });
     }
+}
+for (const claim of passAClaims.values()) {
+    stationFinalCode.set(claim.id, claim.code);
+    stats.matchedByName++;
 }
 
 // Pass B: keep the extracted code when nothing else has claimed it.

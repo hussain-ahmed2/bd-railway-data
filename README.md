@@ -13,7 +13,7 @@ A structured, machine-readable dataset of **Bangladesh Railway (BR)** train sche
 | File | Description | Size |
 |---|---|---|
 | [`railway-data.json`](./railway-data.json) | **Build output** — all 224 trains with stoppages, timings, off-days and fares | ~1.3 MB |
-| [`railway-stations.json`](./railway-stations.json) | **Build output** — all 424 referenced stations | ~132 KB |
+| [`railway-stations.json`](./railway-stations.json) | **Build output** — all 425 referenced stations | ~132 KB |
 | [`seed/railway-data.json`](./seed/railway-data.json) | Curated BR official snapshot: 20 intercity trains **with fares** (kept verbatim) | ~49 KB |
 | [`seed/railway-stations.json`](./seed/railway-stations.json) | Curated station list (108 stations, official codes) | ~33 KB |
 | [`scripts/build-railway-data.mjs`](./scripts/build-railway-data.mjs) | Regenerates the two root files from `seed/` + `extracted/` | — |
@@ -90,7 +90,7 @@ A structured, machine-readable dataset of **Bangladesh Railway (BR)** train sche
 
 ### `railway-stations.json`
 
-- **424 stations** — the 108 curated BR stations plus **316** extracted stations referenced by at least one train
+- **425 stations** — the 108 curated BR stations plus **317** extracted stations referenced by at least one train
 - Each station entry includes:
   - `code` — Short unique identifier (e.g. `"DA"`, `"KLN"`)
   - `name` — Bilingual (`en` / `bn`)
@@ -100,11 +100,11 @@ A structured, machine-readable dataset of **Bangladesh Railway (BR)** train sche
 
 **How station codes are assigned** (all three rules run in order, in `scripts/build-railway-data.mjs`):
 
-1. **Name match** — an extracted station whose name matches a curated station (normalised: case, `_`, parentheses, and `Junction`/`Jn`/`Bazar`/`Road`/`Halt` suffixes) **takes the curated code**. 93 stations matched this way, which resolves code collisions where the extract used the same code for a different station (`JOY` = Joypurhat in the extract vs Joydebpur in BR data, `AKH`, `SHA`, `PRD`, `ISL`, `BNG`, `FEN`, …).
+1. **Name match** — an extracted station whose name matches a curated station (normalised: case, `_`, parentheses, and `Junction`/`Jn`/`Bazar`/`Road`/`Halt` suffixes) **takes the curated code**, and only when several extracted rows share that name the closest one to the curated coordinates wins — `Mymensingh Jn` and `Mymensingh_Road` are 4.9 km apart, so collapsing them would put two stops of one train on a single code. 92 stations matched this way, which resolves code collisions where the extract used the same code for a different station (`JOY` = Joypurhat in the extract vs Joydebpur in BR data, `AKH`, `SHA`, `PRD`, `ISL`, `BNG`, `FEN`, …).
 2. **Keep the extracted code** — 205 stations keep their own code when nothing else has claimed it.
-3. **Synthesise** — 111 stations (107 with no code at all in the extract + 4 whose colliding code was taken) get a deterministic code derived from the station name (`Badiakhali` → `BADI`, `Akhanagar` → `AKHA`). Synthesis never reuses a code owned by *any* extracted station, so a code can't silently change meaning.
+3. **Synthesise** — 112 stations (104 with no code at all in the extract + 8 whose colliding code was taken) get a deterministic code derived from the station name (`Badiakhali` → `BADI`, `Akhanagar` → `AKHA`). Synthesis never reuses a code owned by *any* extracted station, so a code can't silently change meaning.
 
-Zone is inherited from the nearest curated station (falling back to the Jamuna longitude split), so all 424 entries are zoned.
+Zone is inherited from the nearest curated station (falling back to the Jamuna longitude split), so all 425 entries are zoned.
 
 ---
 
@@ -216,7 +216,7 @@ Programmatically verified by the build (and re-checkable any time with `--check`
 - ✅ **Curated data untouched** — seed trains and stations come through byte-identical
 - ✅ **Deterministic output** — repeat builds hash the same
 - ℹ️ **Partial fare coverage** — fares exist for the 20 curated trains only
-- ℹ️ **316 generated stations have an empty `district`** — not present in the extract
+- ℹ️ **317 generated stations have an empty `district`** — not present in the extract
 
 ---
 

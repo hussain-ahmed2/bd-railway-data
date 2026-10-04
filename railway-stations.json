@@ -6611,6 +6611,24 @@
     "zone": "East"
   },
   {
+    "code": "MYME",
+    "name": {
+      "en": "Mymensingh Road",
+      "bn": "ময়মনসিংহ রোড"
+    },
+    "district": {
+      "en": "",
+      "bn": ""
+    },
+    "division": {
+      "en": "",
+      "bn": ""
+    },
+    "lat": 24.774249858371,
+    "lng": 90.367642626805,
+    "zone": "East"
+  },
+  {
     "code": "NAND",
     "name": {
       "en": "Nandail Road",

@@ -20267,10 +20267,10 @@
           "distanceKm": 0
         },
         {
-          "stationCode": "MYM",
+          "stationCode": "MYME",
           "stationName": {
-            "en": "Mymensingh Junction",
-            "bn": "ময়মনসিংহ জংশন"
+            "en": "Mymensingh Road",
+            "bn": "ময়মনসিংহ রোড"
           },
           "arrivalTime": "21:52",
           "departureTime": "21:55",
@@ -20699,10 +20699,10 @@
           "distanceKm": 174
         },
         {
-          "stationCode": "MYM",
+          "stationCode": "MYME",
           "stationName": {
-            "en": "Mymensingh Junction",
-            "bn": "ময়মনসিংহ জংশন"
+            "en": "Mymensingh Road",
+            "bn": "ময়মনসিংহ রোড"
           },
           "arrivalTime": "13:55",
           "departureTime": "13:58",
