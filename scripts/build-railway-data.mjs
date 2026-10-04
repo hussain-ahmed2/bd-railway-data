@@ -32,6 +32,12 @@ const exStations = readJson(path.join(ROOT, "extracted", "stations.json"));
 const exTrains = readJson(path.join(ROOT, "extracted", "trains_by_id.json"));
 const exSchedules = readJson(path.join(ROOT, "extracted", "train_schedules.json"));
 
+// The raw dump pads some codes ("SH "); trim at the door so emitted codes and
+// every codeKey() comparison downstream see the same value.
+for (const st of [...curatedStations, ...exStations]) {
+    if (typeof st.code === "string") st.code = st.code.trim();
+}
+
 const stats = {
     trainsCuratedKept: 0,
     trainsAdded: 0,
@@ -480,6 +486,7 @@ const seenStationKeys = new Set();
 for (const st of stations) {
     const key = codeKey(st.code);
     if (!key) fail(`station with empty code: ${JSON.stringify(st.name)}`);
+    if (!/^[A-Za-z0-9_-]+$/.test(st.code)) fail(`station code has unexpected characters: ${JSON.stringify(st.code)}`);
     if (seenStationKeys.has(key)) fail(`duplicate station code ${st.code}`);
     seenStationKeys.add(key);
     if (typeof st.lat !== "number" || typeof st.lng !== "number") {
